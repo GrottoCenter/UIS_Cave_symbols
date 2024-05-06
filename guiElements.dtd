@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT croatian (#PCDATA)>
+<!ELEMENT dutch (#PCDATA)>
+<!ELEMENT english (#PCDATA)>
+<!ELEMENT french (#PCDATA)>
+<!ELEMENT german (#PCDATA)>
+<!ELEMENT guiElement (croatian, dutch, english, french, german, italian, polish, portuguese, romanian, slovene, spanish, turkish, arabic)>
+<!ATTLIST guiElement
+	id ID #REQUIRED
+>
+<!ELEMENT guiElements (guiElement+)>
+<!ATTLIST guiElements
+	xmlns:xsi CDATA #REQUIRED
+	xsi:noNamespaceSchemaLocation CDATA #REQUIRED
+>
+<!ELEMENT italian (#PCDATA)>
+<!ELEMENT polish (#PCDATA)>
+<!ELEMENT portuguese (#PCDATA)>
+<!ELEMENT romanian (#PCDATA)>
+<!ELEMENT slovene (#PCDATA)>
+<!ELEMENT spanish (#PCDATA)>
+<!ELEMENT turkish (#PCDATA)>
+<!ELEMENT arabic (#PCDATA)>
