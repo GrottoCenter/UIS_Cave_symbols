@@ -1,0 +1,1978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cave_symbols SYSTEM "symbol_data.dtd">
+<cave_symbols xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="symbol_data.xsd">
+	<cave_symbol id="survey_points" hasProfileSymbol="true">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Mjerne tocke</croatian>
+			<dutch>Meetpunten</dutch>
+			<english>Survey Points</english>
+			<french>Point de relevé principal</french>
+			<german>Messpunkte</german>
+			<italian>Caposaldo principale</italian>
+			<polish>Punkty ciągu pomiarowego</polish>
+			<portuguese>Bases topográficas</portuguese>
+			<romanian>Punct  topographic principal</romanian>
+			<slovene>Merilne tocke</slovene>
+			<spanish>Estaciones topográficas</spanish>
+			<turkish>Ölçüm Noktası</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Glavne mjerne tocke ostale su na popisu simbola, iako se cesto prikazuju samo na radnom orginalu.</croatian>
+			<dutch>De hoofdmeetpunten worden meestal niet meer afgebeeld, maar ze blijven bewaard in een lijst.</dutch>
+			<english>The main survey points have been kept in the list, but often they are no longer shown on fair copies.</english>
+			<french>Les principaux points de relevé ont été gardés dans la liste, bien qu'ils soient souvent supprimés sur les topographies définitives.</french>
+			<german>Die Messpunkte sind noch in der Liste verblieben, obwohl sie vielfach in den Reinzeichnungen nicht mehr verwendet werden.</german>
+			<italian>I capisaldi principali sono stati mantenuti nella simbologia, ma /egraven facoltativo riportarli sul rilievo finale.</italian>
+			<polish>Symbol głównych punktów ciągu pomiarowego został umieszczony na liście, mimo to, że w ostatecznej wersji rysunków często ciąg pomiarowy jest pomijany.</polish>
+			<portuguese>As bases topográficas principais foram mantidas na lista, porém elas não são obrigatórias no mapa final.</portuguese>
+			<romanian>Principalele puncte topografice au fost pastrate in lista, chiar daca multe sunt inlaturate din topografiile definitive.</romanian>
+			<slovene>Glavne merilne tocke so ostale v seznamu, vendar se jih na nacrte pogosto ne rise vec.</slovene>
+			<spanish>Las estaciones topográficas principales se mantienen en la lista, pero frecuentemente no se conservan en las copias en limpio.</spanish>
+			<turkish>Ana ölçüm noktaları listede korunmuştur fakat sıklıkla temiz kopyalarda gösterilmemektedir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="outline_gallery" hasProfileSymbol="true">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Stijene kanala/ galerije</croatian>
+			<dutch>gang-omlijning</dutch>
+			<english>Outline of a Gallery</english>
+			<french>Dessin de galerie</french>
+			<german>Gangumriss</german>
+			<italian>Contorno della cavitr</italian>
+			<polish>Przebieg ścian korytarza</polish>
+			<portuguese>Contorno da galeria</portuguese>
+			<romanian>Conturul galeriei</romanian>
+			<slovene>Stene rova</slovene>
+			<spanish>Contorno de la cueva</spanish>
+			<turkish>Galeri Dış Çizgisi</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada.</croatian>
+			<dutch>spreekt voor zich.</dutch>
+			<english>as before</english>
+			<french>Comme auparavant</french>
+			<german>wie zuvor</german>
+			<italian>invariato</italian>
+			<polish>jak poprzednio</polish>
+			<portuguese>Conforme o anterior.</portuguese>
+			<romanian>La fel ca inainte</romanian>
+			<slovene>Kot do zdaj.</slovene>
+			<spanish>Como antes</spanish>
+			<turkish>Önceki İle Aynı</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="underlying_gallery" hasProfileSymbol="true">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Kanal na nizoj etazi</croatian>
+			<dutch>Onderliggende gang</dutch>
+			<english>Underlying Passage</english>
+			<french>Croisement de galeries</french>
+			<german>Unterlagernde Gänge</german>
+			<italian>Cavitr sottoposta</italian>
+			<polish>Korytarz poniżej</polish>
+			<portuguese>Passagem inferior</portuguese>
+			<romanian>Galerii suprapuse</romanian>
+			<slovene>Spodaj lezeci rov</slovene>
+			<spanish>Pasaje inferior</spanish>
+			<turkish>Altta Kalan Galeri</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Da bi se kanal na nizoj etazi jace razlikovao od gornjeg kanala, preporuka je da se kanal na nizoj etazi prestane crtati i prije nego li se dodirne sa gornjim kanalom. Da bi se ovaj simbol jace razlikovao od simbola za pretpostavljenu velicinu galerije (nize), preporuca se da crte budu krace, a razmaci siri.</croatian>
+			<dutch>Om de lagere gang te kunnen onderscheiden van de hogere gang, is het aan te raden om de lijnen van de lagere gang te stoppen voordat ze de hogere gang raken. Om dit lijntype te onderscheiden van de “geschatte maten van de ruimte” (zie daar) is het aan te raden om korte streepjes te tekenen met grote tussenruimten.</dutch>
+			<english>As an additional help to distinguish the lower from the upper passage it is recommended to stop the line of the lower gallery before it reaches the upper gallery. To distinguish this symbol from the "presumed dimensions of space" (see below) it is recommended to draw short dashes with wide spacing.</english>
+			<french>De façon à distinguer la galerie inférieure de la galerie supérieure, il est recommandé d'interrompre le dessin de la galerie inférieure avant qu'elle ne croise la supérieure. Pour distinguer ce symbole de celui des "Dimensions spatiales présumées" (voir ci-dessous) il est recommandé de dessiner des pointillés courts largement espacés.</french>
+			<german>Als zusätzliche Hilfe, um unterlagernde von den Gängen darüber zu unterscheiden, wird empfohlen, die Linie des unterlagernden Ganges kurz vor dem Gang darüber abzusetzen. Um Verwechslungen mit den "Geschätzten Gangdimensionen" zu vermeiden, wird empfohlen, mit kurzen Strichen und weiten Abständen dazwischen zu zeichnen.</german>
+			<italian>Come indicazione ulteriore per distinguere la cavitr sottostante dalla sovrapposta, si raccomanda di fermare la linea di contorno della cavitr sottoposta prima di raggiungere il contornodella cavitr sovrapposta. Per distinguere questo simbolo da quello di dimensioni presunte della cavitr (vedi sotto), si raccomanda di disegnare il tratteggio mediante tratti corti con ampia spaziatura.</italian>
+			<polish>Dla łatwego rozróżnienia pomiędzy górnym a dolnym korytarzem, zaleca się przerwać linię dolnego korytarza przed przecięciem. Aby rozróżnić ten symbol od symbolu "szacowanych wymiarów korytarzy", zaleca się użycie krótkich kresek z długimi przerwami.</polish>
+			<portuguese>Como ajuda adicional para se distinguir a passagem inferior da superior é recomendado descontinuar a linha da galeria inferior antes dela alcançar a superior. Para se distinguir este símbolo do "dimensão presumida" (vide abaixo) é recomendado desenhar pequenos traços com espaços maiores.</portuguese>
+			<romanian>Ca si ajutor in distingerea galeriei inferioare fata de cea superioara e recomandat sa se opreasca desenarea liniei galeriei inferioare inainte de a o atinge pe cea a galeriei superioare. Pentru a nu-l  confunda cu simbolul  "Dimensiuni spatiale presupuse"  (vezi mai jos), se recomanda ca liniutele sa fie scurte cu spatii mari intre ele.</romanian>
+			<slovene>Da bi se spodaj lezeci rov lazje locilo od zgornjega, se svetuje, da se crto spodnjega rova zakljuci malo preden doseze steno zgornjega rova. Da bi se ta znak locilo od znaka za predvideno velikost prostora (spodaj), morajo biti crtice kratke, prekinitve pa dolge.</slovene>
+			<spanish>Como una ayuda adicional para distinguir el pasaje inferior del superior, se recomienda detener la línea del contorno del pasaje inferior antes de alcanzar la del pasaje superior. Para distinguir este símbolo de las "dimensiones inferidas del pasaje" (ver más adelante) se recomienda dibujar una línea punteada con trazos espaciados.</spanish>
+			<turkish>Üst galeri ile alt galerinin ayırt edilmesinde ek bir yardım olarak; alttaki galerinin dış çizgisi üst galeriye yaklaştığı yerde bitirilmesi ve “varsayılan boşluk hacmi” sembolünden ayırmak için (aşağıya bakınız), geniş ve kısa çizgilerle çizilmesi önerilir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="too_narrow_continuation" hasProfileSymbol="true">
+		<photos>
+			<photo filename="too_narrow_continuation_1.jpg" width="397" height="600" photographer="Fabian Bels" caveRegionName="Gopital, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Preuski prolaz ...</croatian>
+				<dutch>Te nauwe ...</dutch>
+				<english>Too narrow ...</english>
+				<french>Trop étroites ...</french>
+				<german>Zu eng ...</german>
+				<italian>Troppo stretta ...</italian>
+				<portuguese>Estreita ...</portuguese>
+				<romanian>Impenetrabil ...</romanian>
+				<slovene>Preozko nadaljevanje ...</slovene>
+				<spanish>Muy angosto ...</spanish>
+				<turkish>Daralan Kol ...</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Preuski prolaz</croatian>
+			<dutch>te nauwe doorgang</dutch>
+			<english>Too narrow Continuation</english>
+			<french>Continuations trop étroites</french>
+			<german>Fortsetzung zu eng</german>
+			<italian>Prosecuzione troppo stretta</italian>
+			<polish>Zwężenie niemożliwe do przejścia</polish>
+			<portuguese>Continuação estreita</portuguese>
+			<romanian>Impenetrabil</romanian>
+			<slovene>Preozko nadaljevanje</slovene>
+			<spanish>Continuación muy angosta</spanish>
+			<turkish>Daralan Kol</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada.</croatian>
+			<dutch>spreekt voor zich.</dutch>
+			<english>as before</english>
+			<french>Comme auparavant</french>
+			<german>wie zuvor</german>
+			<italian>invariato</italian>
+			<polish>jak poprzednio</polish>
+			<portuguese>Conforme o anterior.</portuguese>
+			<romanian>La fel ca inainte</romanian>
+			<slovene>Kot do zdaj.</slovene>
+			<spanish>Como antes</spanish>
+			<turkish>Önceki İle Aynı</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="continuation_possible" hasProfileSymbol="true">
+		<photos>
+			<photo filename="continuation_possible_1.jpg" width="600" height="410" photographer="Andreas Neumann" caveRegionName="Dachstein-Mammuthöhle, Upper Austria, Austria" year="2002">
+				<croatian>Moguci nastavak</croatian>
+				<dutch>mogelijke doorgang</dutch>
+				<english>continuation Possible</english>
+				<french>Continuation possible</french>
+				<german>Fortsetzung möglich</german>
+				<italian>Prosecuzione possibile</italian>
+				<polish>Możliwa kontynuacja</polish>
+				<portuguese>Continuação possível</portuguese>
+				<romanian>Continuare posibila</romanian>
+				<slovene>Mozno nadaljevanje</slovene>
+				<spanish>Posible continuación</spanish>
+				<turkish>Muhtemel Kol</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Moguci nastavak</croatian>
+			<dutch>mogelijke doorgang</dutch>
+			<english>continuation Possible</english>
+			<french>Continuation possible</french>
+			<german>Fortsetzung möglich</german>
+			<italian>Prosecuzione possibile</italian>
+			<polish>Możliwa kontynuacja</polish>
+			<portuguese>Continuação possível</portuguese>
+			<romanian>Continuare posibila</romanian>
+			<slovene>Mozno nadaljevanje</slovene>
+			<spanish>Posible continuación</spanish>
+			<turkish>Muhtemel Kol</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada.</croatian>
+			<dutch>spreekt voor zich.</dutch>
+			<english>as before</english>
+			<french>Comme auparavant</french>
+			<german>wie zuvor</german>
+			<italian>invariato</italian>
+			<polish>jak poprzednio</polish>
+			<portuguese>Conforme o anterior.</portuguese>
+			<romanian>La fel ca inainte</romanian>
+			<slovene>Kot do zdaj.</slovene>
+			<spanish>Como antes</spanish>
+			<turkish>Önceki İle Aynı</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="presumed_dimension_space" hasProfileSymbol="true">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Pretpostavljena velicina kanala/ galerije</croatian>
+			<dutch>Geschatte maten van de ruimte</dutch>
+			<english>Presumed dimensions of space</english>
+			<french>Dimensions spatiales présumées</french>
+			<german>Geschätzte Gangdimensionen</german>
+			<italian>Dimensioni presunte della cavitr</italian>
+			<polish>Szacowane wymiary korytarza</polish>
+			<portuguese>Dimensão presumida</portuguese>
+			<romanian>Dimensiuni spatiale presupuse</romanian>
+			<slovene>Predvidena veliksot prostora</slovene>
+			<spanish>Dimensiones inferidas de espacio</spanish>
+			<turkish>Tahmini boşluk boyutu</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada. Da ne bi doslo do mijesanja sa simbolom za kanal na vise etaza, crtice bi trebale biti duge, a razmaci kratki.</croatian>
+			<dutch>Spreekt voor zich. De streepjes moeten lang en de ruimte ertussen klein zijn (zie “onderliggende gangen”).</dutch>
+			<english>as before. The dashes should be long and the spacing narrow (see "underlying passages").</english>
+			<french>Comme auparavant. Il est recommandé de dessiner des pointillés longs faiblement espacés (voir ci-dessus "Croisement de galeries").</french>
+			<german>Wie zuvor. Die Striche sollten lang sein und die Abstände dazwischen kurz. (vergl. "Unterlagernde Gänge")</german>
+			<italian>invariato. Per distinguere questo simbolo da quello di cavitr sottoposta, i tratti devono essere lunghi, con spaziatura breve.</italian>
+			<polish>Jak poprzednio. Kreski powinny być długie, a odstępy krótkie (patrz "korytarz poniżej")</polish>
+			<portuguese>Conforme o anterior. Os traços devem ser longos e os espaços menores (vide "passagem inferior").</portuguese>
+			<romanian>La fel ca inainte. Liniutele trebuie sa fie lungi cu spatii mici intre ele.</romanian>
+			<slovene>Kot do zdaj. Da ne bi prihajalo do mesanja z znakom za spodaj lezec rov, morajo biti crtice dolge in prekinitve kratke.</slovene>
+			<spanish>Como antes. Las líneas punteadas deben dibujarse largas y poco espaciadas (ver "pasaje inferior").</spanish>
+			<turkish>Önceki ile Aynı. Kesikli çizgiler uzun, aralarındaki boşluk dar olmalı (bakınız "altta kalan galeri").</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="ceiling_form" hasProfileSymbol="true">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Oblik stropa</croatian>
+			<dutch>vorm van het plafond</dutch>
+			<english>Ceiling form</english>
+			<french>Forme du plafond</french>
+			<german>Deckenform</german>
+			<italian>Morfologia del soffitto</italian>
+			<polish>Formy stropu</polish>
+			<portuguese>Formação do teto</portuguese>
+			<romanian>Forma tavanului</romanian>
+			<slovene>Oblika stropa</slovene>
+			<spanish>Forma del techo</spanish>
+			<turkish>Tavan formu</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Ovaj simbol koristi se takoder i za okapnicu (pocetak spilje) i dimnjake.</croatian>
+			<dutch>Het symbool voor de vorm van het plafond wordt ook gebruikt voor druplijnen en voor schoorstenen.</dutch>
+			<english>The symbol for the form of the ceiling of a cave is also used for the dripline and for chimneys.</english>
+			<french>Le symbole pour décrire le plafond d'une cavité est aussi utilisé pour "Entrée de cavité" et "Cheminée" (voir ci-dessous).</french>
+			<german>Das gleiche Symbol wird auch für Trauflinie und Schlote verwendet.</german>
+			<italian>Questo simbolo viene anche usato per il "limite esterno della grotta" e per il "camino"</italian>
+			<polish>Symbol morfologii stropu jest również używany do oznaczania kominów oraz początku jaskini poziomej.</polish>
+			<portuguese>A simbologia para o formato do teto da caverna é também usado para a linha de gotejamento e para chaminés.</portuguese>
+			<romanian>Simbolul pentru forma tavanului e folosit de asemenea pentru “Intrare” si “Horn” (vezi mai jos).</romanian>
+			<slovene>Ta zank se uporablja tudi za prikaz zunanjih mej jame in kamine.</slovene>
+			<spanish>El símbolo para la forma del techo también se utiliza para el "límite externo de la cueva" y para "chimeneas"</spanish>
+			<turkish>Bir mağaranın tavan biçimi için kullanılan sembol ayrıca damla çizgisi yada baca için kullanılır.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="dripline_profile" hasProfileSymbol="true">
+		<photos>
+			<photo filename="cross_section_1.jpg" width="450" height="600" photographer="Andreas Neumann" caveRegionName="Krem Krang Maw 1, Meghalaya, India" year="2003">
+				<croatian>Presjek</croatian>
+				<dutch>Profiel</dutch>
+				<english>Interesting Cross Section</english>
+				<french>Sections transversales interessantes</french>
+				<german>Interessanter Gangquerschnitt</german>
+				<italian>Sezione transversal</italian>
+				<polish>Interesujący przekrój poprzeczny</polish>
+				<portuguese>Perfil</portuguese>
+				<romanian>Sectiune transversala</romanian>
+				<slovene>Profil</slovene>
+				<spanish>Sección transversal</spanish>
+				<turkish>Enine Kesit</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>kapnica (pocetak spilje) - Presjek</croatian>
+			<dutch>druplijn - profiel</dutch>
+			<english>Dripline - Cross Section</english>
+			<french>Entrée de cavité - Sections transversales</french>
+			<german>Trauflinie - Querschnitt</german>
+			<italian>Limite esterno della grotta - Sezione transversal</italian>
+			<polish>Otwór jaskini - Przekrój poprzeczny</polish>
+			<portuguese>Linha de gotejamento - Perfil</portuguese>
+			<romanian>Intrare - Sectiune transversala</romanian>
+			<slovene>Zunanja meja jame - profil</slovene>
+			<spanish>Límite externo de la cueva y sección transversal</spanish>
+			<turkish>Enine Kesit</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Okapnica daje vrijedne podatke, pogotovo za manje spilje i poluspilje. Granica stropa koju opisuje ovaj simbol je stvarni pocetak spilje i zbog toga se ovaj simbol ne bi smio ispustati.\n\nPresjeci su vrlo vazni za razumjevanje oblika kanala (galerije) stoga je potrebno za svaki nacrtani kanal,  nacrtati i presjek. Postoji vise oblika strelice koja oznacava smjer pogleda presjeka, no bitna je jasna indikacija sto presjek predstavlja.</croatian>
+			<dutch>Speciaal voor kleinere grotten en overhangen kan een druplijn waardevolle informatie geven. De druplijn  beschrijft de werkelijke ingang van een grot inclusief de hogere plafond regionen en mag daarom niet worden verwaarloosd. Bij de druplijn begint de grot.\n\nDwarsdoorsnedes zijn belangrijk om de passage te verduidelijken. Bij elke getekende gang moeten dwarsdoorsnedes getekend worden. Teken bij de plaats waar de dwarsdoorsnede is, pijlen die  de kijkrichting aangeven. Dit is belangrijk.</dutch>
+			<english>The dripline can give valuable information especially for smaller caves and overhangs. It describes the actual entrance to a cave including the upper ceiling region and should therefore not be omitted. At the dripline the cave begins.\n\nCross-sections are of major importance for the understanding of a passage. For each map passage cross-sections must be drawn. The arrows indicating the direction of view are done differently, a clear indication is, however, necessary.</english>
+			<french>Entrée de cavité: Les formes d'entrée de cavité peuvent donner des informations utiles, spécialement pour les petites cavités et les surplombs. Une ligne pointillée décrit l'entrée de la cavité y compris le plafond de l'entrée et ne doit pas etre omis. La cavité commence à cette ligne d'escarpement.\n\nSections transversales: Ces profils sont de premicre importance dans la compréhension d'une galerie. Ils doivent etre dessinés pour chaque galerie. Les flcches indiquant la direction de vue peuvent etre dessinées de façon différente, une description claire étant de toute façon nécessaire.</french>
+			<german>Die Trauflinie (Höhleneingang) gibt wertvolle Hinweise v.a. für kleinere Höhlen und Überhänge. Sie beschreibt den eigentlichen Eingang inklusive der Höhlendecke und soll deshalb nicht weggelassen werden. An der Trauflinie beginnt die Höhle.\n\nQuerschnitte sind wichtig für das Verständnis eines Höhlenganges und oftmals auch dessen Genese. Sie dürfen deshalb in keinem sorgfältig erstelltem Höhlenplan fehlen. Die Pfeile, die die Blickrichtung anzeigen, werden unterschiedlich gezeichnet. Eine klarer Hinweis ist deshalb wichtig.</german>
+			<italian>Limite esterno della grotta: La posizione del limite esterno della grotta pun fornire importanti indicazioni, soprattutto per cavitr minori e ripari sotto-roccia. Con essa si descrive la proiezione sul suolo del tracciato dell'inizio della volta della cavitr.\n\nSezione trasversale: Le sezioni trasversali sono molto importanti per comprendere la forma della cavitr. Per ogni ambiente topografato devono essere realizzate una o piu sezioni trasversali. Le frecce che indicano la direzione di vista possono essere realizzate con stili diversi, ma un'indicazione chiara c comunque necessaria.</italian>
+			<polish>Linia oznaczająca początek jaskini może mieć duże znaczenie szczególnie dla małych jaskiń i okapów. Stanowi ona element opisujący właściwe wejście do jaskini, szczególnie jego górną, stropową część. W jej miejscu, jaskinia się zaczyna.\n\nPrzekroje poprzeczne są istotne dla zrozumienia natury korytarza. Każdy plan jaskini powinien zawierać takie przekroje. Strzałki oznaczające kierunek patrzenia mogą być oznaczone w różny sposób, jednak musi być jasne, jaka konwencja jest używana.</polish>
+			<portuguese>A linha de gotejamento pode trazer informações valiosas especialmente em cavernas menores e patamares. Ele descreve a real entrada da caverna incluindo a região do teto e portanto não deve ser omitida. A caverna começa na linha de gotejamento.\n\nSeções transversair (cortes) são fundamentais para o entendimento de condutos. Para cada galeria do mapa, cortes devem ser desenhados. As setas indicando a direção da vista são diferenciadas, é necessária uma indicação clara.</portuguese>
+			<romanian>Intrare:  poate furniza informatii importante, mai ales in cazul pesterilor mici si al surplombelor. Descrie intrarea actuala a pesterii, inclusiv partea superioara a tavanului, de aceea nu trebuie omisa. La intrare incepe pestera.\n\nSectiunile transversalale: foarte importante pentru intelegerea unei galerii. Trebuie desenate pentru fiecare galerie. Sagetile indicand directia de vedere pot sa fie desenate in moduri diferite, insa o descriere clara e in orice caz necesara.</romanian>
+			<slovene>Nacrt zunanjih mej jame lahko da pomembne informacije, zlasti pri manjsih jamah in spodmolih. Meja stropa, ki ga oznacuje, je dejanski zacetek jame, zato tega znaka ne velja izpuscati.\n\nRisanje profila daje pomembne podatke o rovu samem, zato jih je treba vedno risati. Obstaja vec oblik puscice, ki oznacuje smer profila, pomembno je le, da se na nacrtu jasno vidi, kaj profil predstavlja.</slovene>
+			<spanish>El límite externo de la cueva puede dar información valiosa, especialmente para cuevas pequeñas y extraplomos. Describe la entrada real de la cueva, incluyendo el techo superior, por lo que no debe ser omitida.La cueva inicia en el límite externo de la cueva.\n\nLas secciones transversales son importantes para el entendimiento de los pasajes. Las secciones transversales deben ser dibujadas en cada plano. Las flechas que indican la dirección de la vista de la sección se pueden dibujar de maneras diferentes, sin embargo, es necesaria una clara indicación.</spanish>
+			<turkish>Damla çizgisi özellikle küçük mağaralar ve inler değerli bilgi verebilir. Bu yapı, üst tavan kesiminide içine alan güncel mağara girişini işaret etmektedir ve bu yüzden ihmal edilemez. Mağaranın başlangıcı damla çizgisidir.\n\nEnine kesitler galerinin anlaşılması açısından büyük bir öneme sahiptir. Her bir galeri için kesitler mutlaka çizilmelidir. Okların gösterdiği yönler farklı olmalıdır. Bununla birlikte anlatım belirgin olmalıdır.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="step" hasProfileSymbol="true">
+		<photos>
+			<photo filename="step_1.jpg" width="600" height="450" photographer="Andreas Neumann" caveRegionName="Krem Krang Maw 1, Meghalaya, India" year="2003">
+				<croatian>Skok</croatian>
+				<dutch>treden</dutch>
+				<english>Steps</english>
+				<french>Marches, ressauts</french>
+				<german>Stufen</german>
+				<italian>Salto</italian>
+				<polish>Próg</polish>
+				<portuguese>Degraus</portuguese>
+				<romanian>Saritoare </romanian>
+				<slovene>Stopnja</slovene>
+				<spanish>Desnivel</spanish>
+				<turkish>Basamak</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Skok</croatian>
+			<dutch>treden</dutch>
+			<english>Steps</english>
+			<french>Marches, ressauts</french>
+			<german>Stufen</german>
+			<italian>Salto</italian>
+			<polish>Próg</polish>
+			<portuguese>Degraus</portuguese>
+			<romanian>Saritoare </romanian>
+			<slovene>Stopnja</slovene>
+			<spanish>Desnivel</spanish>
+			<turkish>Basamak</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Dobro poznat simbol. Bitno je voditi racuna da su crtice su uvijek usmjerene prema dnu skoka. Visina skoka je u metrima.</croatian>
+			<dutch>Dit symbool is erg bekend. Vergeet niet dat de kleine streepjes altijd naar beneden wijzen.</dutch>
+			<english>This symbol is well known, just don't forget that the little dashes are always to be orientated downwards!</english>
+			<french>Ce symbole est très connu, mais n'oubliez pas que les petites hachures sont toujours orientées vers le bas!</french>
+			<german>Diese Signatur ist recht bekannt. Vergiss nicht, die Zacken auf der Seite des Abgrunds zu plazieren.</german>
+			<italian>Questo simbolo c ben noto; c semplicemente necessario ricordare che i trattini sono orientati verso la porzione ribassata del salto. La misura dell'altezza del salto va riportata in metri.</italian>
+			<polish>Ten symbol jest powszechnie znany. Należy pamiętać, że małe kreski wskazują kierunek do dołu.</polish>
+			<portuguese>Este símbolo é bem conhecido, não esqueça que as pequenas linhas estão sempre orientadas para baixo!</portuguese>
+			<romanian>Simbol bine cunoscut, dar nu uitati ca liniutele trebuie intotdeauna orientate descendent.</romanian>
+			<slovene>To je dobro znan znak. Pomembno: kratke crtice morajo biti usmerjene proti dnu stopnje. Velikost stopnje se podaja v metrih.</slovene>
+			<spanish>Este simbolo es bien conocido, no olvidar que las líneas pequeñas deben orientarse hacia abajo!</spanish>
+			<turkish>Bu sembol iyi bilinmektedir, küçük çizgilerin her zaman eğim yönüne doğru olması unutulmamalıdır!</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="pit" hasProfileSymbol="true">
+		<photos>
+			<photo filename="pit_1.jpg" width="600" height="450" photographer="Andreas Neumann" caveRegionName="Krem Krang Maw 1, Meghalaya, India" year="2003">
+				<croatian>Vertikalni kanal</croatian>
+				<dutch>Put/schacht</dutch>
+				<english>Pit</english>
+				<french>Puits</french>
+				<german>Schacht</german>
+				<italian>Pozzo</italian>
+				<polish>Studnia</polish>
+				<portuguese>Abismo</portuguese>
+				<romanian>Put</romanian>
+				<slovene>Brezno</slovene>
+				<spanish>Pozo</spanish>
+				<turkish>Kuyu</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Vertikalni kanal (jama u objektu)</croatian>
+			<dutch>Put/schacht</dutch>
+			<english>Pit</english>
+			<french>Puits (profondeur en mètres)</french>
+			<german>Schacht</german>
+			<italian>Pozzo</italian>
+			<polish>Studnia</polish>
+			<portuguese>Abismo</portuguese>
+			<romanian>Put (adancime in metri) </romanian>
+			<slovene>Brezno</slovene>
+			<spanish>Pozo</spanish>
+			<turkish>Yüzeye Açılan Kuyu</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Puni ili prazni trokutici zamijenjeni su crticama iz dva razloga. Kao prvo, crtice je lakse nacrtati, a kao drugo, vecini mjernika nije bilo jasno koja je razlika izmedu punih i praznih trokutica.</croatian>
+			<dutch>Om twee redenen zijn de gevulde of lege driehoek vervangen door streepjes. In de eerste plaats omdat  streepjes makkelijker te tekenen zijn. Ten tweede is het onduidelijk, zelfs voor de meeste tekenaars, of de lege driehoekjes nu de kleinere of juist de grotere treden weergeven en wanneer ze gevuld moeten zijn (bij 5 of 10 m?)</dutch>
+			<english>The filled or empty triangle have been replaced by dashed lines for two reasons: First, the dashed line is easier to draw, secondly it is unclear even to most draughtsmen whether the empty triangles represent the smaller or the higher steps or when they should be filled (at 5 m or 10 m?).</english>
+			<french>Les triangles pleins ou vides ont été remplacés par des hachures pour deux raisons : Premicrement, les hachures sont plus faciles à dessiner, deuxicmement, il n'était pas clair, meme pour la majorité des dessinateurs, de savoir si les triangles vides représentaient des petits ou des grands dénivelés ni à partir de quelle hauteur les remplir (r 5 m ou 10 m ?).</french>
+			<german>Die leeren und gefüllten Dreiecke wurden aus zwei Gründen ersetzt: Erstens ist die jetzige Variante einfacher zu zeichnen, zweitens ist es für viele Zeichner auch unklar, ob die leeren Dreiecke die höheren oder die niedrigeren Stufen repräsentieren und wo der Schwellwert liegt, um sie zu füllen (bei 5 oder 10 m ?).</german>
+			<italian>I triangolini vuoti o pieni della precedente simbologia sono stati sostituiti con semplici trattini per due motivi: i trattini sono piu semplici da disegnare e la maggior parte dei rilevatori non aveva chiaro l'uso dei triangolini vuoti piuttosto che pieni.</italian>
+			<polish>Pełny lub pusty trójkąt został zastąpiony liniami z kreskami z dwóch powodów. Po pierwsze, kreskowana linia jest łatwiejsza do narysowania. Po drugie, nie jest jasne, które z tych symboli oznaczają większą wysokość i od jakiego progu powinno się je wypełniać (5 m? 10 m?).</polish>
+			<portuguese>O triângulo preenchido ou vazio foi substituído por linha tracejada por dois motivos: Primeiro, a linha trecejada é mais fácil de se desenhar; segundo, é indefinido, inclusive por croquistas experientes, se os triângulos vazios representam os menores ou os maiores degraus ou quando estes devem ser preenchidos (aos 5m ou aos 10m ?).</portuguese>
+			<romanian>Triunghiurile pline sau goale au fost inlocuite de liniute din doua motive. Primul:  liniutele sunt mai usor de desenat, al doilea: nu era clar, chiar pentru majoritatea desenatorilor, daca triunghiurile goale reprezinta denivelarile mari sau mici, dar nici de la ce inaltime sa fie umplute ( 5 m sau 10 m ?).</romanian>
+			<slovene>Prazni in zapolnjeni trikotniki so bili zamenjani z docrtanimi crtami zaradi dveh razlogov. Prvic se docrtano crto lazje narise in drugic si  vecina merilcev niti ni bila na jasnem, kaksna je razlika med polnimi in praznimi trikotniki.</slovene>
+			<spanish>El triangulo relleno o sin rellenar ha sido reemplazado por lineas puntiadas por dos razones: primero, la línea punteada es más facil de dibujar; segundo, no es claro para la mayoría de dibujantes si los triangulos sin rellenar corresponde a los desniveles más bajos o más altos o cuándo estos deben rellenarse (a 5 m o 10 m ?).</spanish>
+			<turkish>İki sebebten dolayı dolu yada boş üçgenin yerini küçük çizgiler almıştır: Birincisi küçük çizgileri çizmek daha kolaydır. İkincisi ise bir çok çizimci için boş üçgenlerin küçük yada büyük basamakları temsil ettiği yada dolu olduğu zamanı belli  değildir (5 m or 10 m?).</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="pit_surface" hasProfileSymbol="true">
+		<photos>
+			<photo filename="surface_pit_1.jpg" width="600" height="450" photographer="Andreas Neumann" caveRegionName="Krem Krang Maw 1, Meghalaya, India" year="2003">
+				<croatian>Vertikalni ulaz (otvor jame)</croatian>
+				<dutch>Put, Daglichtput</dutch>
+				<english>Pit open to Surface</english>
+				<french>Puits débouchant en surface</french>
+				<german>Schacht mit Oberflächenöffnung</german>
+				<italian>Pozzo 2</italian>
+				<polish>Studnia połączona z powierzchnią</polish>
+				<portuguese>Abismo aberto na superfície</portuguese>
+				<romanian>Aven</romanian>
+				<slovene>Vhodno brezno</slovene>
+				<spanish>Pozo abierto a la superficie</spanish>
+				<turkish>Yüzeye Açılan Baca</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Vertikalni ulaz (otvor jame)</croatian>
+			<dutch>Put, Daglichtput</dutch>
+			<english>Pit open to Surface</english>
+			<french>Puits débouchant en surface</french>
+			<german>Schacht mit Oberflächenöffnung</german>
+			<italian>Pozzo 2</italian>
+			<polish>Studnia połączona z powierzchnią</polish>
+			<portuguese>Abismo aberto na superfície</portuguese>
+			<romanian>Aven</romanian>
+			<slovene>Vhodno brezno</slovene>
+			<spanish>Pozo abierto a la superficie</spanish>
+			<turkish>Yüzeye Açılan Baca</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada.</croatian>
+			<dutch>spreekt voor zich.</dutch>
+			<english>as before</english>
+			<french>Comme auparavant</french>
+			<german>wie zuvor</german>
+			<italian>invariato</italian>
+			<polish>jak poprzednio</polish>
+			<portuguese>Conforme o anterior.</portuguese>
+			<romanian>La fel ca inainte</romanian>
+			<slovene>Kot do zdaj.</slovene>
+			<spanish>Como antes</spanish>
+			<turkish>Önceki İle Aynı</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="chimney_pit" hasProfileSymbol="true">
+		<photos>
+			<photo filename="aven_1.jpg" width="600" height="395" photographer="Andreas Neumann" caveRegionName="Krem Krang Maw 1, Meghalaya, India" year="2003">
+				<croatian>Dimnjak</croatian>
+				<dutch>Schoorsteen</dutch>
+				<english>Chimney</english>
+				<french>Cheminée</french>
+				<german>Schlot</german>
+				<italian>Camino</italian>
+				<polish>Komin</polish>
+				<portuguese>Chaminé</portuguese>
+				<romanian>Horn</romanian>
+				<slovene>Kamin</slovene>
+				<spanish>Chimenea</spanish>
+				<turkish>Baca</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Dimnjak/Dimnjak iznad jame</croatian>
+			<dutch>schoorsteen/put</dutch>
+			<english>Aven/Aven-pitchs</english>
+			<french>Cheminée/Puits-cheminée</french>
+			<german>Schacht/Schlot</german>
+			<italian>Camino/Pozzo-Camino</italian>
+			<polish>Komin/Komin i studnia</polish>
+			<portuguese>Chaminé/Chaminé-Abismos</portuguese>
+			<romanian>Horn/Horn-put </romanian>
+			<slovene>Kamin/brezno s kaminom</slovene>
+			<spanish>Chimenea/chimenea-pozo</spanish>
+			<turkish>Subatan</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Znakovi plus  i minus mogu biti nacrtani unutar ili izvan objekta, u kojem slucaju bi trebali biti zaokruzeni (zbog jasnoce). Da bi se oznacila tezina skoka predlaze se: ako se jama ili dimnjak moze ispenjati bez opreme (slobodno), samo se ispise visina u metrima, a ukoliko su potrebna tehnicka pomagala pred visinu skoka se doda bilo koje slovo. Na taj nacin respektirani su simboli vecine zemalja. Opcionalno se mogu ucrtati spitovi i uzad u ispruzeni profil.</croatian>
+			<dutch>De plus en min tekens kunnen binnen of buiten de grot geschreven worden. Voor de duidelijkheid worden ze omcirkeld als ze buiten de grot geschreven zijn. De volgende afspraken geven de moeilijkheid van de put aan; Als de put beklommen kan worden zonder materiaal, dan wordt de put alleen aangegeven met de diepte in meters. Is materiaal noodzakelijk, dan wordt de diepte voorafgegaan door een letter. Deze manier is in de meeste landen aanvaard. Optioneel kunnen de touwen en ankerpunten in de verticale doorsnede getekend worden.</dutch>
+			<english>The plus and minus signs can be written inside or outside the cave. For reasons of clearness they should be encircled when written outside the cave. We agreed to the following procedure to indicate the difficulty of a drop or a pitch: If the drop can be climbed without gear, there is only the number (in meters) written. If gear is needed, any letter precedes the number. This way, the use of most countries is respected. It is  optional to draw the anchor points and ropes into the longitudinal section.</english>
+			<french>Les signes + et - peuvent etre écrits en dedans ou en dehors du dessin de la cavité. Pour des raisons de clarité ils doivent etre entourés d'un cercle quand ils sont dessinés en dehors. Nous avons adopté la procédure suivante pour indiquer la difficulté d'un ressaut ou d'un puits : si le ressaut peut s'escalader en libre, on écrit seulement la hauteur (en mètres) ; s'il faut du matériel, la hauteur est précédée d'une lettre quelconque. Ainsi les habitudes de la plupart des pays sont respectées. Il est facultatif de dessiner les points d'ancrage et les cordes dans les coupes longitudinales.</french>
+			<german>Das Plus/Minus-Zeichen kann innerhalb oder ausserhalb der Höhle gezeichnet werden. Um Unklarheiten vorzubeugen, sollten die Zeichen, wenn sie ausserhalb der Höhle plaziert werden, innerhalb eines Kreises stehen. Wir vereinbarten die folgende Vorgehensweise, um die Tiefe eines Schachtes oder Schlotes zu bestimmen: Wenn der Schlot ohne technische Ausrüstung geklettert werden kann, so wird nur die Nummer (in Metern) angeschrieben. Wenn technisches Material benötigt wird, so wird ein Buchstabe (z.B. P) der Zahl vorangestellt. Dabei werden die Gepflogenheiten der meisten Länder respektiert. Es bleibt dem Zeichner überlassen, allenfalls noch Ankerpunkte (Spits etc) und den Seilverlauf einzuzeichnen.</german>
+			<italian>I segni piu e meno possono essere disposti sia all'interno, sia all'esterno della cavitr. Per motivi di comprensione, andranno inseriti in un cerchio quando sono disposti all'esterno della cavitr. C stata stabilita la seguente procedura per indicare la profonditr di una verticale: se il salto/pozzo/camino pun essere arrampicato senza attrezzature, viene indicato il solo numero (in metri) che rappresenta il dislivello. Se c necessaria attrezzatura, qualsiasi lettera precede il numero. In questo modo c possibile mantenere in vigore le diverse convenzioni nazionali, pur conservando la comprensibilitr complessiva. C facoltativo disegnare i punti di attacco e la disposizione delle corde.</italian>
+			<polish>Znaki plus i minus mogą być umieszczone zarówno wewnątrz, jak i na zewnątrz obrysu ścian. Dla jasności, powinny zostać otoczone, jeśli zostały umieszczone poza obrysem ścian. Została uzgodniona następująca procedura, mająca ułatwić odczytanie trudności technicznych studni lub progu: jeśli próg da się pokonać bez użycia sprzętu, na planie umieszcza się tylko liczbę (w metrach) oznaczającą jego wysokość. Jeśli potrzebny jest sprzęt, wysokość jest poprzedzona literą (jakąkolwiek!). W ten sposób uwzględniono praktykę używaną w większości krajów. Fakultatywnie, można wrysować punkty asekuracyjne oraz długości lin na przekroju.</polish>
+			<portuguese>Os sinais de + e - podem ser escritos dentro ou fora da caverna. Para clarificar devem ser circuladas quando escritas fora da caverna. Foi acordado este procedimento para indicar dificuldade do abismo: Caso o desnível possa ser vencido sem equipamento de vertical, apenas a altura (em metros) é descrita. Caso seja necessário equipamento vertical, é necessário uma letra qualquer antes do número. Desta forma, o uso da maioria dos países é respeitada. É opcional a representação dos pontos de ancoragem e corda nas seções longitudinais.</portuguese>
+			<romanian>Semnele + si - pot fi scrise inauntrul sau in afara desenului galeriei. Ele trebuie incercuite cand sunt scrise in afara, din motive de claritate. Am adoptat urmatoarea procedura pentru a indica gradul de dificultate al unui horn sau put: daca hornul poate fi escaladat liber, scriem numai inaltimea lui (in metri). Daca avem nevoie de echipament, inaltimea e precedata de oricare litera. Astfel obiceiurile majoritatii tarilor sunt respectate. E facultativa desenarea punctelor de ancorare sau a corzilor in sectiunile longitudinale.</romanian>
+			<slovene>Znaka plus in minus sta lahko narisana tudi izven jame, vendar morata biti v tem primeru zaradi jasnosti obkrozena. Za oznacitev zahtevnosti brezna predlagamo sledece: ce je brezno ali stopnja prostopreplezljiva, se za oznacitev globine brezna napise le stevilko brez crke, ce pa spust v brezno zahteva opremo, se pred stevilko doda katerokoli crko. Na ta nacin hkrati spostujemo posamezne nacionalne dogovore. V stranski ris brezna lahko dorisemo se pritrdisca in vrvi.</slovene>
+			<spanish>Los signos de más y menos pueden escribirse dentro o fuera de la cueva. Para mayor claridad, deben escribirse dentro de un círculo cuando se colocan fuera de la cueva. Se acordó el siguiente procedimiento para indicar la dificultad del descenso: si el descenso puede realizarse sin equipo vertical, solo se coloca el número (en metros). Si se requiere equipo vertical se pone una letra cualquiera antes del número. De esta manera se pueden mantener las diferentes convenciones nacionales y se conserva la comprensión internacional. Es opcional dibujar los puntos de anclaje y cuerdas en las secciónes longitudinales.</spanish>
+			<turkish>(+) yada (-) işaretleri mağaranın içine yada dışına yazılabilir. Açıklık nedeni ile bu işaretler mağara dışına  yazıldığında, daire içine alınmalıdır. Kuyunun zorluğunun belirtilmesi açısından şu yöntemde karar kılınmıştır: Eğer kuyu teknik malzeme olmadan çıkılıyorsa sadece rakam yazılmalıdır (metre olarak). Eğer teknik malzeme gerekiyorsa  rakamdan önce herhangi bir harf konulmalıdır. Bu yöntem bir çok ülke tarafından kabul edilmiştir. İp üzerindeki sabit  istasyonlara da yazmak bir seçenektir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="contour_lines" hasProfileSymbol="false">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Slojnice sa oznacenom nadmorskom visinom</croatian>
+			<dutch>Contourlijnen</dutch>
+			<english>Contourlines</english>
+			<french>Courbes de niveau</french>
+			<german>Höhenkurven/Höhenlinien</german>
+			<italian>Curve di livello</italian>
+			<polish>Poziomice</polish>
+			<portuguese>Curva de nível</portuguese>
+			<romanian>Aven</romanian>
+			<slovene>Izohipse</slovene>
+			<spanish>Curvas de nivel</spanish>
+			<turkish>Eş yükselti çizgisi-münhani</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Slojnice (linije koje spajaju tocke iste nadmorske visine) sa oznacenom visinom, kao na zemljovidu,  rijetko se koriste, jer je tesko utvrditi tocnu visinu tla, a precizan crtezi je jos veci problem. Cesce se koriste slojnice bez oznacene visine.</croatian>
+			<dutch>Hoogtelijnen met hoogtegetallen zoals op topografische kaarten staan afgebeeld worden zelden gebruikt. Het exacte bodemverloop is niet altijd gemakkelijk te bepalen en het geeft grote moeilijkheden om dit nauwkeurig te tekenen. Overgangslijnen worden meer gebruikt.</dutch>
+			<english>Contour Lines (lines of same altitude) with altimetric measurement as done on geographic maps are seldom used, as the exact ground level is not always easily established and precise drawings can cause serious problems. Gradient lines are used more frequently.</english>
+			<french>Les isohypses (ou courbes de niveau) avec indication de l'altitude comme on en trouve sur les cartes géographiques sont rarement utilisées, du fait que le niveau exact du sol n'est pas facilement déterminable et qu'un dessin précis pose de sérieux problèmes. Des lignes représentant les gradients d'altitude sont plus souvent utilisées.</french>
+			<german>Höhenkurven (Isohypsen) mit der gemessenen Höhe über Meer, wie sie in topographischen Karten üblich sind, werden selten verwendet, da die exakte Höhe vielmals schwer zu bestimmen ist. Gefällelinien, die den Verlauf von abfallenden Gängen veranschaulichen, sind allerdings ziemlich gebräuchlich.</german>
+			<italian>Le isoipse (linee che collegano i punti posti alla medesima quota) con quota altimetrica sul livello del mare, come si usa per le carte topografiche, vengono raramente usate nel rilievo ipogeo, dato che spesso non c facile stabilire la quota del terreno e il disegno preciso pun causare seri problemi. Vengono usate molto piu frequentemente le linee di gradiente.</italian>
+			<polish>Poziomice (linie łączące punkty o tej samej wysokości) odniesione do poziomu morza jak na mapach geograficznych, są rzadko używane na planach jaskiń. Wynika to z częstych trudności w ustaleniu punktu odniesienia. Ponadto, dokładne rysunki z wykorzystaniem poziomic są kłopotliwe. Cześciej wykorzystuje się symbol kierunku  nachylenia dna korytarza.</polish>
+			<portuguese>Curvas de nível (linhas de mesma altitude) com medição altimétrica conforme mapas geográficos raramente são usadas, pois o nivelamento do chão não é facilmente estabelecido, podendo causar sérios problemas em plantas precisas. Linhas de gradiente são usadas mais frequentemente.</portuguese>
+			<romanian>Izohipsele (curbe de nivel) cu indicarea altitudinii, asa cum le gasim pe hartile geografice, sunt rar folosite deoarece nivelul solului e greu de determinat, iar un desen precis poate cauza probleme serioase. Liniile de panta sunt mai des utilizate.</romanian>
+			<slovene>Izohipse (crte, ki povezujejo tocke z doloceno nadmorsko visino) s podatki o nadmorski visini so redko uporabljane, ker je natancno meritev tal pogosto tezko opraviti, natancen nacrt pa je le se vecji problem. Pogosteje se uporablja crte, ki kazejo naklon.</slovene>
+			<spanish>Curvas de nivel (líneas de igual elevación) con medición altimétrica como se hace en los mapas geográficos rara vez se utilizan, ya que el nivel del piso puede ser dificil de establecer y los dibujos precisos pueden causar serios problemas. Las lineas de gradiente se utilizan con mayor frecuencia.</spanish>
+			<turkish>Topoğrafik haritalar üzerinde altimetrik ölçümle oluşturulan eş yükselti eğrileri (aynı kotu gösteren çizgiler) ender olarak kullanılır, eğer kesin yer seviyesi kolay ve hassas ölçülmez ise çizimler ciddi sorunlara yol açabilmektedir. Eğim çizgileri daha sık kullanılmaktadır.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="gradient_arrows" hasProfileSymbol="false">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Smjer nagiba/Ulazna strelica</croatian>
+			<dutch>Daal-pijlen/Ingangs-pijl</dutch>
+			<english>Gradient Arrows/Entrance Arrow</english>
+			<french>Flèche de gradient/Flèche indiquant l'entrée de la cavité</french>
+			<german>Gefällepfeile/Eingangspfeil</german>
+			<italian>Freccia di gradiente/Freccia per l'ingresso</italian>
+			<polish>Kierunek nachylenia dna/Strzałka wskazująca otwór</polish>
+			<portuguese>Seta de gradiente/Seta de entrada</portuguese>
+			<romanian>Directie de panta/Sageata indicand intrarea</romanian>
+			<slovene>Smer naklona/puscica za vhod</slovene>
+			<spanish>Flecha de gradiente/Flecha de entrada</spanish>
+			<turkish>Giriş oku</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Ne postoje vise razlicite strelice koje bi oznacavale smjer nagiba unutar i izvan objekta. Dodana je strelica koja oznacava ulaz u objekt.</croatian>
+			<dutch>Het verschil tussen de daalpijlen binnen en buiten de grot is nu te negeren. Een pijl die de grotingang aangeeft is toegevoegd aan de lijst</dutch>
+			<english>The differentiation between gradient arrows inside and outside the cave is now omitted. An arrow indicating the entrance was added to the list.</english>
+			<french>La différentiation entre flèches de gradient à l'intérieur et à l'extérieur de la cavité a été supprimée. Une flèche indiquant l'entrée a été ajoutée à la liste.</french>
+			<german>Die Unterscheidung zwischen Gefällepfeilen innerhalb und ausserhalb der Höhle wurde weggelassen. Ein Pfeil, der den Eingang anzeigt, wurde hinzugefügt.</german>
+			<italian>La distinzione fra frecce di gradiente interne od esterne alla cavitr viene abolita. Viene invece aggiunta una freccia per indicare l'ingresso della cavitr.</italian>
+			<polish>Zrezygnowano z rozróżnienia pomiędzy strzałkami wskazującymi kierunek upadu na zewnątrz i wewnątrz jaskini. Dodano strzałkę służącą wskazaniu otworu na planie.</polish>
+			<portuguese>A diferença entre setas de gradiente dentro e fora da caverna foi omitida. Uma seta indicando a entrada foi adicionada à lista.</portuguese>
+			<romanian>Diferente dintre directia de panta din pestera si cea din exteriorul pesterii a fost eliminata. O sageata indicand intrarea in pestera a fost adaugata listei.</romanian>
+			<slovene>Razlike med naklonskimi puscicami izven in znotraj jame so bile opuscene. Dodana je bila puscica, ki oznacuje vhod jame.</slovene>
+			<spanish>La diferencia entre las flechas de gradiente adentro y afuera de la cueva fueron eliminadas. Una flecha indicando la entrada fue agregada a la lista.</spanish>
+			<turkish>Mağara içindeki ve dışındaki eğim yönü çizgileri arasındaki farklar şu anda ihmal edilmiştir. Girişi gösteren bir ok işareti listeye eklenmiştir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="gradient_lines" hasProfileSymbol="false">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Slojnice (nagibne linije)</croatian>
+			<dutch>Overgangslijnen</dutch>
+			<english>Gradient Lines</english>
+			<french>Lignes de gradient</french>
+			<german>Gefällelinien</german>
+			<italian>Linee di Gradiente</italian>
+			<polish>Linie rzeźby terenu</polish>
+			<portuguese>Linhas de gradiente</portuguese>
+			<romanian>Liniile de panta</romanian>
+			<slovene>Naklonske crte</slovene>
+			<spanish>Líneas de gradiente</spanish>
+			<turkish>Eğim yönü çizgisi</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Slojnice su uobicajena metoda da se prikaze oblik tla. Kao i na zemljovidima, mali razmak izmedu slojnica oznacava strminu, dok veliki razmak oznacava lagani pad.</croatian>
+			<dutch>Om de bodemstructuur aan te geven worden meestal overgangslijnen gebruikt. Net zoals op topografische kaarten, geven hoogtelijnen met een smalle tussenruimte een steilere helling aan, dan hoogtelijnen die verder van elkaar getekend zijn.</dutch>
+			<english>Gradient lines are the most common methods to illustrate the ground structure. As on geographic maps narrow spacing indicates a steep and wide spacing a gentle slope.</english>
+			<french>Les lignes de gradient sont la méthode la plus utilisée pour illustrer la structure du sol. Comme sur les cartes géographiques, un espacement serré correspond à une pente raide, un espacement plus lâche, à une faible pente.</french>
+			<german>Gefällelinien sind der gebräuchlichste Weg, die Bodenstruktur von Gängen und Hallen zu beschreiben. Wie in topographischen Karten gilt, dass enger gereihte Gefällelinien ein steileres Gelände anzeigen als weiter gesetzte.</german>
+			<italian>Le linee di gradiente sono il metodo piue comune per illustrare la struttura del suolo. Come su una carta geografica, linee ravvicinate indicano una forte pendenza, mentre linee distanziate indicano una pendenza minore.</italian>
+			<polish>Linie rzeźby terenu są najczęściej wykorzystywanym sposobem prezentacji reliefu spągu. Tak jak na mapach geograficznych, niewielki odstęp pomiędzy liniami oznacza strome zbocze, zaś rzadko rozmieszczone linie zbocze opadające delikatnie. </polish>
+			<portuguese>Linhas de gradiente é um método comum para se ilustrar a estrutura do solo. Como em mapas geográficos, o espaçamento menor entre as linhas indica que a rampa é mais íngreme enquanto que o espaçamento maior indica uma rampa mais amena.</portuguese>
+			<romanian>Sunt cea mai intalnita metoda de reprezentare a structurii solului. La fel ca la hartile geografice, liniile apropiate indica un abrupt iar cele departate o panta lina.</romanian>
+			<slovene>Naklonske crte so najobicajnejsa metoda prikazovanja oblike tal. Kot na zemljevidih tudi tu manjsi razmak med crtama oznacuje skok, vecji pa manjsi naklon.</slovene>
+			<spanish>Las líneas de gradiente es el método más común para ilustrar la estructura del suelo. Al igual que en los mapas geográficos, una separación estrecha de las líneas indica una fuerte pendiente y una mayor separación indica una suave pendiente.</spanish>
+			<turkish>Eğim çizgileri taban yapısını belirtmek için sık olarak kullanılan bir yöntemdir. Topoğrafik haritalardaki sık aralıklı eş yükseklik eğrileri yüksek; geniş aralıklı eş yükseklik eğrileri ise düşük eğimi göstermektedir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="altitude_sealevel" hasProfileSymbol="false">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Nadmorska visina (m.n.m)</croatian>
+			<dutch>Hoogte boven zeeniveau</dutch>
+			<english>Altitude above Sealevel</english>
+			<french>Altitude au-dessus du niveau de la mer</french>
+			<german>Höhenangaben (Seehöhe)</german>
+			<italian>Quota s.l.m.</italian>
+			<polish>Wysokość nad poziomem morza</polish>
+			<portuguese>Altitude em relação ao nível do mar</portuguese>
+			<romanian>Altitudinea deasupra niveluli marii</romanian>
+			<slovene>Nadmorska visina (m.n.m.)</slovene>
+			<spanish>Altitud sobre el nivel del mar</spanish>
+			<turkish>Rakım</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Ovaj simbol je zadrzan zbog konzistencije i oznacava nadmorsku visinu tocke na zemljovidu. Preporuca se da se uz visinu (u metrima) pise i mjerna jedinica ("m").</croatian>
+			<dutch>Dit symbool wordt ook gebruikt op de topografische kaart en geeft de hoogte boven zee-niveau aan. Het wordt aanbevolen om 1880 m. te noteren i.p.v. alleen 1880. In het algemeen worden op kaarten SI-eenheden gebruikt.</dutch>
+			<english>This symbol has also been kept for reasons of consistence and designates the altitude above sea-level used in the map. It is highly recommended to write 1880 m. instead of just writing 1880. Generally maps are all to be done in SI units.</english>
+			<french>Ce symbole est maintenu pour des raisons de cohérence et désigne l'altitude au dessus du niveau de la mer utilisée dans les cartes topographiques. Il est fortement recommandé d'écrire "1880 m" au lieu de seulement "1880". En général les cartes sont toutes levées en unités du systéme international (SI).</french>
+			<german>Dieses Symbol verbleibt in der Liste aus Konsistenzgründen. Es beschreibt die jeweilige Meereshöhe. Es wird empfohlen, die Höhe in Metern anzuschreiben und ein kleines "m" hintanzusetzen.</german>
+			<italian>Questo simbolo, mantenuto per ragioni di consistenza, definisce la quota sopra il livello del mare utilizzata nel rilievo, tipicamente in corrispondenza dell'ingresso. Viene calorosamente raccomandato di scrivere 1880 m invece del solo 1880, anche se i rilievi devono comunque utilizzare le unitr del Sistema Internazionale.</italian>
+			<polish>Ten symbol został również utrzymany w zestawie dla zachowania spójności i służy oznaczeniu wysokości nad poziomem morza wykorzystanej na planie. Wszystkie plany powinny być wykonane i opisane w jednostkach SI. Mimo wszystko, zaleca się, aby oznaczyć jednostkę ("1880 m"), nie poprzestając tylko na samych cyfrach ("1880"). </polish>
+			<portuguese>Este símbolo foi mantido por uma razão de consistência e designa a altitude em relação ao nível do mar usada no mapa. É altamente recomendável a grafia 1880m, ao invés de escrever apenas 1880. Geralmente os mapas são mensurados usando-se o Sistema Universal de Unidades.</portuguese>
+			<romanian>Acest simbol a fost pastrat din motive de coerenta si indica altitudinea deasupra nivelului marii utilizata in hartile topografice. E recomandat sa se scrie  "1851 m" , in loc de numai "1851". In general in toate hartile trebuie utilizate unitatile  sistemului international (S.I.)</romanian>
+			<slovene>Znak ostaja zaradi tocnostnih razlogov. Oznacuje  nadmorsko visino dolocene tocke. Toplo se priporoca, da se ob visini, ki naj bo vedno podana v metrih, doda se "m.".</slovene>
+			<spanish>Este símbolo también se ha conservado por razones de consistencia y designa a la altitud sobre el nivel del mar utilizado en los mapas. Se recomienda escribir 1880 m en vez de escribir solamente 1880. Generalmente los mapas son hechos en unidades del Sistema Internacional (SI).</spanish>
+			<turkish>Bu sembol uyumluluk nedenleri yüzünden korunmuştur ve harita üzerinde denizden yüksekliği belirtmektedir. Özellikle 1880 yerine 1880 m. yazılması önerilmektedir. Genellikle haritalar SI birimleri kullanmaktadır.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="difference_elevation" hasProfileSymbol="false">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Visinska razlika</croatian>
+			<dutch>Hoogteverschil</dutch>
+			<english>Difference in Elevation</english>
+			<french>Altitude relative à l'entrée de la cavité</french>
+			<german>Höhendifferenz</german>
+			<italian>Differenza di quota</italian>
+			<polish>Różnica poziomów</polish>
+			<portuguese>Diferença de Elevação</portuguese>
+			<romanian>Altitudine relativa de la intrare</romanian>
+			<slovene>Visinska razlika</slovene>
+			<spanish>Diferencia en elevación</spanish>
+			<turkish>Yükselti farkı</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>U odnosu na ulaz u objekt, kao i do sada.</croatian>
+			<dutch>In relatie tot de ingang. Spreekt voor zich.</dutch>
+			<english>In Relation to the entrance, as before</english>
+			<french>Comme auparavent.</french>
+			<german>Diese Angaben beziehen sich auf das Eingangsniveau, wie zuvor</german>
+			<italian>invariato</italian>
+			<polish>Względem otworu, jak powyżej</polish>
+			<portuguese>Com relação à entrada, conforme o anterior.</portuguese>
+			<romanian>La fel ca inainte</romanian>
+			<slovene>Glede na vhod v jamo, kot do zdaj.</slovene>
+			<spanish>En relación con la entrada, como antes</spanish>
+			<turkish>Girişe göre yükseklik farkı, Önceki İle Aynı</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="joint_fault_bedding-plane" hasProfileSymbol="false">
+		<photos>
+			<photo filename="bedding_plane_1.jpg" width="600" height="414" photographer="Daniel Burkhalter" caveRegionName="St. Beatus-Höhlen, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Geoloski Sloj</croatian>
+				<dutch>Laagvoeg</dutch>
+				<english>Bedding Plane</english>
+				<french>Joint de Strate</french>
+				<german>Schichtfuge</german>
+				<italian>Stratificazione</italian>
+				<polish>Uławicenie</polish>
+				<portuguese>Junta estratificada</portuguese>
+				<romanian>Fata de strat</romanian>
+				<slovene>Geoloska Plast</slovene>
+				<spanish>Plano de estratificación</spanish>
+				<turkish>Tabaka düzlemi</turkish>
+			</photo>
+			<photo filename="joint_1.jpg" width="403" height="600" photographer="Daniel Burkhalter" caveRegionName="St. Beatus-Höhlen, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Pukotina</croatian>
+				<dutch>Breuk</dutch>
+				<english>Joint</english>
+				<french>Fracture</french>
+				<german>Kluft</german>
+				<italian>Frattura</italian>
+				<polish>Spękanie</polish>
+				<portuguese>Fratura</portuguese>
+				<romanian>Fractura</romanian>
+				<slovene>Razpoka</slovene>
+				<spanish>Fractura</spanish>
+				<turkish>Eklem</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Pukotina/Rasjed/Geoloski sloj/Nagnuta pukotina</croatian>
+			<dutch>Breuk/Verschuiving/Laagvoeg</dutch>
+			<english>Joint/Fault/Bedding Plane/Inclined Joint</english>
+			<french>Fracture/faille/joint de strate/fracture inclinée</french>
+			<german>Kluft/Verwerfung/Schichtfuge/schräge Ebene</german>
+			<italian>Frattura/Faglia/Stratificazione</italian>
+			<polish>Spękanie/Uskok/Płaszczyzna uławicenia/Nachylone spękanie</polish>
+			<portuguese>Fratura/Falha/Junta/Junta estratificada/Fratura inclinada</portuguese>
+			<romanian>Fractura/Falie/Fata de strat/Fractura inclinata</romanian>
+			<slovene>Razpoka/prelom/geoloska plast/nagnjena razpoka</slovene>
+			<spanish>Fractura/Falla/Plano de estratificación/Fractura inclinada</spanish>
+			<turkish>Eklem/Fay/Tabaka Düzlemi/Eğimli Eklem</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Ovi simboli mogu biti vrlo vazni za razumijevanje objekta. Preporuca se uporaba ovih simbola samo kad nema odgovarajucih geoloskih simbola na drzavnoj razini. Sa druge strane, ne preporuca se uporaba geoloskih simbola ukoliko nismo sigurni sto oni znace. Strelica koja spaja dva simbola pukotine koristi se na tlocrtu, a pokazuje da li objekt prelazi istu pukotinu vise puta, ili slijedi pukotinu.</croatian>
+			<dutch>Deze symbolen kunnen erg belangrijk zijn om de grot te kunnen doorgronden. Gebruik de voorgestelde symbolen alleen als er in uw land geen bruikbare geologische symbolen-set is. Gebruik geen geologisch symbool als u niet absoluut zeker bent van de betekenis. De pijl die twee breuksymbolen verbindt, wordt normaal gebruikt in de plattegrond. Het laat zien of een grot dezelfde breuk meerdere keren kruist of de breuk volgt.</dutch>
+			<english>These symbols can be quite important for the understanding of the cave. Please use the symbols proposed here only when there's no appropriate set of symbols at the geological survey of your country. It is also recommended not to use any geological symbol unless one is totally sure about its nature. The arrow connecting two joint symbols is normally only used in the plan. It shows whether a cave crosses the same joint several times or whether it follows the joint itself.</english>
+			<french>Ces symboles peuvent etre très importants pour la compréhension d'une cavité. Il est recommandé de n'utiliser les symboles proposés ici que s'il n'existe pas déja un symbole approprié utilisé dans les cartes géologiques de votre pays. Il est aussi recommandé de ne les utiliser que lorsque leur identification sur le terrain est certaine. Une flèche de connexion entre deux symboles de fracture n'est utilisée que sur le plan de la cavité. Cette flèche indique si la cavité traversé plusieurs fois la meme fracture ou si elle suit la fracture elle-meme.</french>
+			<german>Diese Symbole sind oftmals sehr wichtig für das Verständnis der Geologie der Höhle. Bitte verwendet die hier vorgeschlagenen Symbole nur, wenn es keine offiziellen geologischen Signaturen des geologischen Bundesamtes Eures Staates gibt. Es wird empfohlen geologischen Signaturen nur dann einzusetzen, wenn man sich über deren Natur im klaren ist. Der Pfeil, der zwei Kluftsymbole verbindet, wird normalerweise nur im Plan eingesetzt. Er zeigt, dass die beiden Kluftsymbole dieselbe (schräge) Kluft darstellen.</german>
+			<italian>Questi simboli possono essere piuttosto importanti per lo studio della grotta. Si raccomanda di non utilizzare questo tipo di simboli se non si c assolutamente confidenti nel loro utilizzo. Si raccomanda inoltre di utilizzare i simboli standard geologici nazionali. I simboli qui presentati sono a disposizione nel caso non esista uno standard geologico nazionale. La freccia che collega due simboli di frattura viene in genere usata solo in pianta. Essa mostra se la sezione longitudinale della grotta interseca diverse volte la frattura o e si sviluppa lungo di essa.</italian>
+			<polish>Te symbole potrafią być bardzo istotne dla zrozumienia natury jaskini. Proszę jednak używać niniejszych symboli tylko jeśli służba geologiczna kraju działania nie wypracowała stosownych odpowiedników. Zaleca się także nie korzystać z żadnych symboli geologicznych, jeśli nie jest się całkowicie pewnym ich znaczenia. Strzałka łącząca dwa symbole spękania jest normalnie wykorzystywana tylko na planie. Pokazuje ona, czy jaskinia przecina określone pęknięcie kilkakrotnie, czy też rozwija się wzdłuż samego pęknięcia.</polish>
+			<portuguese>Estes símbolos podem ser importantes no entendimento da caverna. Use os símbolos propostos aqui somente no caso de inexistência de uma simbologia geológica nacional. A utilização dos símbolos geológicos somente é recomendável quando se tem o domínio desta terminologia. A seta conectando dois símbolos de junta é apenas utilizada em planta. Ele mostra quando a caverna cruza a mesma junta diversas vezes ou quando ela segue a junta.</portuguese>
+			<romanian>Aceste simboluri pot fi foarte importante pentru intelegerea unei pesteri. Va rugam folositi simbolurile propuse aici numai daca in tara dumneavoastra nu exista deja un simbol asemanator folosit in hartile geologice. E de asemenea recomandat sa fie folosite numai daca identificarea lor pe teren este sigura. O sageata de legatura intre doua simboluri de fractura e utilizata numai in desenul plan al pesterii. Aceasta sageata indica daca pestera traverseaza de mai multe ori aceeasi fractura sau daca pestera urmareste fractura in sine.</romanian>
+			<slovene>Ti znaki znajo biti zelo pomembni za razumevanje jame. Znake predlagane tu uporabljajte le, ce na geoloski karti vase dezele ni ustreznega nabora. Priporoca se, da geoloskih znakov ne uporabljamo, ce nismo popolnoma prepricani kaj pomenijo. Puscica, ki povezuje dva znaka za prelom se navadno uporablja le pri tlorisu, kjer pokaze, ali jama precka skozi isti prelom dvakrat ali pa mu kar sledi.</slovene>
+			<spanish>Estos símbolos pueden ser muy importantes para el entendimiento de la cueva. Utilizar los símbolos acá propuestos cuando no se encuentra una serie de símbolos apropiados en el servicio geológico de su país. Se recomienda no utilizar ningún símbolo geológico si no se está totalmente seguro de su naturaleza. La flecha que conecta dos símbolos de fracturas normalmente solamente se utiliza en planta. Esto muestra si una cueva cruza una misma fractura varias veces o si sigue la misma fractura.</spanish>
+			<turkish>Bu semboller mağaranın anlaşılması için oldukça önemlidir. Burada önerilen sembolleri sadece ülkenizdeki jeolojik araştırma kurumunda uygun semboller olmadığı zaman kullanın.  Ayrıca herhangi bir jeolojik sembolün varlğından emin olunmadıkça kullanılmaması önerilir. İki kırığı birlştiren ok sembolü, normal olarak planda kullanılır. Bu, mağaranın tek bir eklemi bir çok defa kestiğini yada izlediğini göstermektedir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="lake_water" hasProfileSymbol="true">
+		<photos>
+			<photo filename="lake_1.jpg" width="600" height="450" photographer="Andreas Neumann" caveRegionName="Krizna Jama, Slovenia" year="2003">
+				<croatian>Jezero</croatian>
+				<dutch>Meer</dutch>
+				<english>Lake</english>
+				<french>Lac</french>
+				<german>See</german>
+				<italian>Lago</italian>
+				<polish>Jezioro</polish>
+				<portuguese>Lago</portuguese>
+				<romanian>Lac</romanian>
+				<slovene>Jezero</slovene>
+				<spanish>Lago</spanish>
+				<turkish>Göl</turkish>
+			</photo>
+			<photo filename="river_1.jpg" width="600" height="418" photographer="Andreas Neumann" caveRegionName="Krem Liat Prah, Meghalaya, India" year="2003">
+				<croatian>Vodeni tok</croatian>
+				<dutch>Stromend water</dutch>
+				<english>Flowing Water</english>
+				<french>Eau Courante</french>
+				<german>Bach, Fluss</german>
+				<italian>Corso d'acqua</italian>
+				<polish>Potok, strumień</polish>
+				<portuguese>Curso d'água</portuguese>
+				<romanian>Apa curgatoare</romanian>
+				<slovene>Vodni Tok</slovene>
+				<spanish>Curso del agua</spanish>
+				<turkish>Su akışı</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Jezero/Vodeni tok</croatian>
+			<dutch>Meer/Stromend water</dutch>
+			<english>Lake/Flowing Water</english>
+			<french>Lac/eau courante</french>
+			<german>Seen und fliessende Gewässer</german>
+			<italian>Lago/Corso d'acqua</italian>
+			<polish>Jezioro/Ciek wodny</polish>
+			<portuguese>Lago/Curso d'água</portuguese>
+			<romanian>Lac/Apa curgatoare</romanian>
+			<slovene>Jezero/vodni tok</slovene>
+			<spanish>Lago/Curso de agua</spanish>
+			<turkish>Göl/Su akışı</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada.</croatian>
+			<dutch>spreekt voor zich.</dutch>
+			<english>as before</english>
+			<french>Comme auparavant</french>
+			<german>wie zuvor</german>
+			<italian>invariato</italian>
+			<polish>jak poprzednio</polish>
+			<portuguese>Conforme o anterior.</portuguese>
+			<romanian>La fel ca inainte</romanian>
+			<slovene>Kot do zdaj.</slovene>
+			<spanish>Como antes</spanish>
+			<turkish>Önceki İle Aynı</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="sump" hasProfileSymbol="true">
+		<photos>
+			<photo filename="siphon_1.jpg" width="383" height="600" photographer="Daniel Burkhalter" caveRegionName="Bärenschacht, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Sifon</croatian>
+				<dutch>Sifon - watergevulde gang</dutch>
+				<english>Sump</english>
+				<french>Siphon</french>
+				<german>Siphon</german>
+				<italian>Sifone</italian>
+				<polish>Syfon</polish>
+				<portuguese>Sifão</portuguese>
+				<romanian>Sifon</romanian>
+				<slovene>Sifon</slovene>
+				<spanish>Sifón</spanish>
+				<turkish>Sifon</turkish>
+			</photo>
+			<photo filename="siphon_2.jpg" width="600" height="450" photographer="Andreas Dickert" caveRegionName="Seichbergloch, Toggenburg, Switzerland" year="2004">
+				<croatian>Sifon</croatian>
+				<dutch>Sifon - watergevulde gang</dutch>
+				<english>Sump</english>
+				<french>Siphon</french>
+				<german>Siphon</german>
+				<italian>Sifone</italian>
+				<polish>Syfon</polish>
+				<portuguese>Sifão</portuguese>
+				<romanian>Sifon</romanian>
+				<slovene>Sifon</slovene>
+				<spanish>Sifón</spanish>
+				<turkish>Sifon</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Sifon</croatian>
+			<dutch>sifon - watergevulde gang</dutch>
+			<english>Sump</english>
+			<french>Siphon</french>
+			<german>Siphon</german>
+			<italian>Sifone</italian>
+			<polish>Syfon</polish>
+			<portuguese>Sifão</portuguese>
+			<romanian>Sifon</romanian>
+			<slovene>Sifon</slovene>
+			<spanish>Sifón</spanish>
+			<turkish>Sifon</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada. Opcionalno je moguce prekinuti srafiranje, da se nacrtaju karakteristike sifona. Ova mogucnost, korisna u dugim sifonima, prikazana je na slici.</croatian>
+			<dutch>Spreekt voor zich. Als optie bestaat de mogelijkheid om de kruisarcering te onderbreken om de karakteristieken van de sifon te tekenen. Deze mogelijkheid, speciaal handig bij langere watergangen, is hier ook afgebeeld.</dutch>
+			<english>as before. As an option it is possible to stop the crosshatching in order to draw the characteristics of the sump. This possibility, especially useful in longer sumps, is also shown.</english>
+			<french>Comme auparavant. En option, il est possible d'interrompre les hachures croisées afin de dessiner les caractéristiques du siphon. Cette possibilité, particulièrement utile pour les siphons de grande longueur, est indiquée sur le schéma.</french>
+			<german>wie zuvor. Als Option wird vorgeschlagen, die Kreuzschraffur zu unterbrechen, um die Charakteristiken des Siphons zu zeichnen. Diese Möglichkeit, vor allem in längeren Siphonen nützlich, wird hier gezeigt.</german>
+			<italian>invariato. Come opzione, c possibile interrompere la campitura incrociata per mostrare dettagli del sifone. Questa possibilitr, utile soprattutto in sifoni lunghi, viene mostrata in figura.</italian>
+			<polish>jak poprzednio. Opcjonalnie można przerwać kreskowanie w celu narysowania szczegółów syfonu. Ta możliwość, szczególnie przydatna w przypadku długich syfonów, została również zaprezentowana na ilustracji.</polish>
+			<portuguese>Conforme o anterior. Como opção é possível parar a hachura cruzada para se desenhar as características do sifão. Esta possibilidade, especialmente útil em sifões extensos, também é mostrada na figura.</portuguese>
+			<romanian>La fel ca inainte. Optional se pot intrerupe hasurile pentru a se putea desena caracteristicile sifonului. Aceasta posibilitate, utila mai ales la sifoanele lungi, e de asemene aratata.</romanian>
+			<slovene>Kot do zdaj. Vzporednice lahko tudi prekinemo, ce zelimo dorisati znacilnosti sifona. Ta moznost, ki je se posebej uporabna v daljsih sifonih, je prikazana na skici.</slovene>
+			<spanish>Como antes. Como una opción, es posible detener el achurado de líneas cruzadas con el fin de dibujar las características del sifón. Esta posibilidad particularmente se utiliza para los sifones largos, como se muestra en la figura.</spanish>
+			<turkish>Önceki ile Aynı. Çapraz çizgileri sifonun başladığı yerde bitirmekde bir seçenektir.  Bu seçeneğin, özellikle uzun sifonlarda kullanışlı olduğuda şekilde gösterilmiştir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="cascade" hasProfileSymbol="true">
+		<photos>
+			<photo filename="waterfall_1.jpg" width="380" height="600" photographer="Peter Pfister" caveRegionName="St. Beatus Höhlen, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Vodopad</croatian>
+				<dutch>Cascade - Waterval</dutch>
+				<english>Cascade - Waterfall</english>
+				<french>Cascade - Chute d'eau</french>
+				<german>Wasserfall</german>
+				<italian>Cascata</italian>
+				<polish>Wodospad</polish>
+				<portuguese>Cachoeira - Cascata</portuguese>
+				<romanian>Cascada - Cadere de apa</romanian>
+				<slovene>Slap</slovene>
+				<spanish>Cascada - Catarata</spanish>
+				<turkish>Şelale - Çağlayan</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Vodopad</croatian>
+			<dutch>Cascade - Waterval</dutch>
+			<english>Cascade - Waterfall</english>
+			<french>Cascade - Chute d'eau</french>
+			<german>Wasserfall</german>
+			<italian>Cascata</italian>
+			<polish>Wodospad</polish>
+			<portuguese>Cachoeira - Cascata</portuguese>
+			<romanian>Cascada - Cadere de apa</romanian>
+			<slovene>Slap</slovene>
+			<spanish>Cascada - Catarata</spanish>
+			<turkish>Şelale - Çağlayan</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Simbol za vodopad je isti kao i za skok. Da bi se pokazao tok vode, moguce je nacrtati strelice prije i/ili poslije skoka.</croatian>
+			<dutch>Het symbool voor een waterval is dezelfde als die van een put. Om stromend water af te beelden kan men een golvende pijl voor of naast de stroom tekenen.</dutch>
+			<english>The symbol for waterfall is the same as the one for drop. To show flowing water one can draw an arrow indicating the flow before or at the side.</english>
+			<french>Le symbole pour une cascade est le meme que celui d'un escarpement. Pour montrer l'eau courante on peut dessiner une flèche indiquant le courant, devant ou sur le côté.</french>
+			<german>Das Symbol für Wasserfall ist das gleiche wie für eine Stufe oder Abbruchkante. Um das fliessende Gewässer anzuzeigen, soll ein (meist mäandrierender) Pfeil das Gerinne darstellen.</german>
+			<italian>Il simbolo di cascata in Pianta c analogo a quello di salto. Per mostrare il flusso dell'acqua, c possibile disegnare una freccia che indica la direzione di flusso prima della cascata o a lato della stessa.</italian>
+			<polish>Symbol wodospadu jest taki sam, jak symbol progu. Należy narysować strzałkę wskazującą kierunek przepływu wody bezpośrednio przed progiem lub obok niego.</polish>
+			<portuguese>O símbolo para cachoeira é o mesmo do degrau. Para representação de água corrente, uma seta pode ser usada indicando o fluxo antes da cachoeira ou ao lado da mesma.</portuguese>
+			<romanian>Simbolul pentru casacada e acelasi cu cel pentru saritoare. Pentru a indica curgerea apei putem desena o sageata indicand directia curgerii inainte de cascada sau pe versant.</romanian>
+			<slovene>Znak za slap je enak kot znak za stopnjo. Za prikaz tekoce vode narisemo pred ali ob stopnji puscico.</slovene>
+			<spanish>El símbolo para cascada es el mismo que el de un desnivel. Para mostrar el curso del agua se puede dibujar una flecha indicando la dirección del flujo antes o al lado de la cascada.</spanish>
+			<turkish>Çağlayan için kullanılan sembol düşüm için olan ile aynıdır. Akan suyu  göstermek için öncesine yada yanına akışı göstermede bir ok çizilebilir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="spring_ponor" hasProfileSymbol="true">
+		<photos>
+			<photo filename="spring_1.jpg" width="400" height="600" photographer="Peter Pfister" caveRegionName="Gelber Brunnen, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Izvor</croatian>
+				<dutch>Bron</dutch>
+				<english>Spring</english>
+				<french>Source</french>
+				<german>Quelle</german>
+				<italian>Sorgente</italian>
+				<polish>Źródło</polish>
+				<portuguese>Nascente</portuguese>
+				<romanian>Izvor</romanian>
+				<slovene>Izvir</slovene>
+				<spanish>Naciente</spanish>
+				<turkish>Kaynak</turkish>
+			</photo>
+			<photo filename="ponor_1.jpg" width="600" height="412" photographer="Cornelia-Ellen Probst" caveRegionName="Fundatura Ponorului, Muntii Sureanu, Romania">
+				<croatian>Ponor</croatian>
+				<dutch>verdwijnpunt</dutch>
+				<english>Sink</english>
+				<french>perte</french>
+				<german>Ponor</german>
+				<italian>Inghiottitoio</italian>
+				<polish>Ponor</polish>
+				<portuguese>Sumidouro</portuguese>
+				<romanian>Ponor-pierdere de apa</romanian>
+				<slovene>ponor</slovene>
+				<spanish>Sumidero</spanish>
+				<turkish>Subatan</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Izvor/Ponor</croatian>
+			<dutch>Bron/verdwijnpunt</dutch>
+			<english>Spring/Sink</english>
+			<french>Source/perte</french>
+			<german>Quelle/Ponor</german>
+			<italian>Sorgente/Inghiottitoio</italian>
+			<polish>Źródło/ponor</polish>
+			<portuguese>Nascente/Sumidouro</portuguese>
+			<romanian>Izvor/Ponor-pierdere de apa</romanian>
+			<slovene>Izvir/ponor</slovene>
+			<spanish>Naciente/Sumidero</spanish>
+			<turkish>Kaynak/Subatan</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Izvorima ili ponorima, gdje voda u spilju dotice ili odtice, ne crtamo polukrug. Sa druge strane, mjesta na kojima se voda pojavljuje ili nestaje u kanalu (izvori ili ponori u kanalu) trebaju imati oznaku polukruga, da se jasno razlikuju od normalne tekuce vode.\n\nSimboli za povremene tokove svih vrsta su izbaceni iz slijedecih razloga: hidroloski mnogi vodeni tokovi su suhi u susnim razdobljima, i stoga su povremeni. Dodantno, postoji puno simbola koji bi znatno prosirili ovu listu. Umjesto toga moze se dodati napomena o povremenom vodenom toku u opisu objekta.</croatian>
+			<dutch>Bronnen of verdwijnpunten die zijdelings in of uit een grot stromen, hoeven niet met een halve cirkel gekarakteriseerd te worden, zoals water in- en uitlaten in de bodem wel gemarkeerd worden om hen te onderscheiden van stromend water.\n\nSymbolen voor allerlei soorten tijdelijk water worden weggelaten om de volgende redenen: Hydrologische beddingen zijn in droge tijden ook droog en daarom tijdelijk. De vele oude symbolen zijn weggelaten om de lijst kort te houden. Men kan een aantekening over tijdelijke waterstromen toevoegen aan de grotbeschrijving.</dutch>
+			<english>Springs or sinks which flow sideways in or out of a cave don't need a half circle to be characterised, whereas water inlets and outlets in the ground should be marked with a half-circle to distinguish them clearly from normal flowing water.\n\nSymbols for temporary waters of all kinds have been omitted alltogether because of the following reasons: Hydrologically many water courses are also dry in dry times and are therefore also temporary. Adding to that, there have been many different symbols in the old symbol lists that would severely extend this list. One may add a note on temporary waters to the cave description.</english>
+			<french>Les sources et pertes venant/partant des parois de cavité de ne demandent pas à etre caractérisée par un demi-cercle, alors que les arrivées et les pertes d'eau au plancher doivent etre marquées d'un demi-cercle de façon à les différencier des cours d'eaux ordinaires.\n\n Les symboles pour les écoulements d'eau temporaires ont tous été supprimés pour les raisons suivantes : hydrologiquement parlant, beaucoup de cours d'eau sont aussi à sec en période de sécheresse et sont donc aussi temporaires. De plus, il y avait trop de symboles différents dans l'ancienne liste ce qui aurait trop chargé la présente liste. Il est préférable de signaler ces phénomènes dans la description écrite de la cavité.</french>
+			<german>Quellen und Ponore, die aus/in die Höhlenwände fliessen brauchen keine Halbkreise, solche am Höhlengrund sollten jedoch mit einem Halbkreis symbolisiert werden, um sie klar von normalen fliessendem Gewässer unterscheiden zu können.\n\nSymbole für temporäre (perennierende) Gewässer wurden aus den folgenden Gründen gestrichen: Hydrologisch gesehen sind viele Gerinne zu Trockenzeiten vollständig trockengelegt und daher temporär. Es gab bisher eine verwirrende Vielfalt von verschiedenen Symbolen für diese temporären Gerinne. Man sollte diese eher in einer kurzen Notiz im Forschungsbericht bzw. in der Raumbeschreibung erwähnen.</german>
+			<italian>Sorgenti e inghiottitio che si trovano a lato della cavitr non necessitano del semicerchio per essere evidenziate, mentre afflussi o deflussi d'acqua dal/nel suolo devono essere corredati dal semicerchio per distinguerli chiaramente dal semplice corso d'acqua.\n\nLa distinzione fra corpi idrici perenni e temporanei viene abolita. Questa scelta c dovuta al fatto che la maggior parte dei corsi d'acqua sono asciutti in periodi di siccitr, per cui sono anch'essi temporanei. Inoltre, si c scelto di mantenere limitato il numero di simboli presenti in lista, a favore di una maggiore semplicitr. C piu opportuno aggiungere una nota sul regime idrico del corso d'acqua nella descrizione della cavitr.</italian>
+			<polish>Źródła i ponory pomiędzy którymi pojawia się i znika woda w jaskini nie wymagają oznaczenia półokręgiem, w przeciwieństwie do wywierzysk i ponorów na powierzchni. Te drugie powinny być oznaczone symbolami z półokręgiem, aby odróżnić je wyraźnie od wody płynącej na powierzchni.\n\nSymbole dla wszelkich cieków tymczasowych zostały zupełnie pominięte. Z punktu widzenia hydrologii wiele cieków jest suchych w porach suchych, wobec tego są ciekami tymczasowymi. Ponadto, historycznie występowało wiele różnych symboli źródeł tymczasowych, które znacząco powiększyłyby niniejszą listę. Zamiast używania tych symboli, zaleca się dodać informację o ciekach tymczasowych do opisu jaskini.</polish>
+			<portuguese>Nascentes ou sumidouros que fluem para as laterais, entrando ou saindo da caverna, não necessitam de um meio-círculo para serem caracterizados; porém quando a água fluir para dentro ou fora do solo, este deve ser marcado com um meio-círculo para distinguí-los claramente da corrente de água normal. Símbolos para águas temporárias de todas as formas foram excluídos pelas seguintes razões: hidrologicamente, cursos d'água intermitentes (que são secos apenas durante épocas de estiagem) também são temporários. Além disso, a antiga lista trazia uma série de símbolos diferentes, que aumentavam a lista consideravelmente. Se necessário pode-se adicionar uma nota sobre águas intermitentes na descrição da caverna.</portuguese>
+			<romanian>Izvoarele si pierderile de apa care vin si pleaca prin peretii pesterii nu trebuie sa fie evidentiate, in schimb apa care apare si dispare in pamant trebuie sa fie marcate cu un semicerc, pentru a putea fi deosebite de apele cu curgerea normala.\n\nSimboluri pentru apa temporara de orice fel au fost omise din urmatoarele motive: hidrologic multe cursuri de apa dispar in perioadele uscate, devenind de asemenea temporare. In plus erau prea multe simboluri pe listele vechi care ar fi incarcat prea mult actuala lista. E preferabil sa se semnaleze acest fenomen in descrierea scrisa a pesterii.</romanian>
+			<slovene>Izvirom in ponorom, kjer voda v jamo prihaja ali odteka iz nje, na nacrtu ne risemo polkroga. Medtem ko moramo vodi, ki izgine ali se pojavi v tleh, dorisati polkrog, da jo s tem locimo od navadne tekoce vode.\n\nZnake za obcasne vode kakrsnekoli vrste se opusca, ker je v suhi dobi lahko vsak vodni tok suh, znakov, ki so opisovali razlicne vrste obcasnih tokov, pa je bilo v starem seznamu prevec. Informacijo o obcasnih vodnih tokovih se doda v opis jame.</slovene>
+			<spanish>Las nacientes o los sumideros que fluyen a los lados dentro o fuera de la cueva, no necesitan un medio círculo para ser caracterizados, mientras que las salidas y entradas de agua en el suelo deben estar marcadas con un semicírculo para distinguirlos claramente del agua que fluye normalmente. \n\nLos símbolos para aguas temporales de todos los tipos han sido omitidos por las siguientes razones: hidrológicamente muchos cursos de aguas también se secan en la estación seca y por lo tanto, también son temporales. Sumado a esto, han habido muchos símbolos diferentes en las listas de símbolos antiguas que extendían severamente esta lista. Se puede añadir una nota sobre las guas temporales en la descripción de la cueva.</spanish>
+			<turkish>Suyun mağaranın içine girdiği subatanın yada dışına aktığı kaynağın yarım daire ile belirtilmesine gerek yoktur, oysaki  tabandaki su girişinin yada çıkışının normal olarak akan sudan açık bir şekilde ayırtlanması için yarım daire içine alınmalıdır. Galeriyi enlemesine gösteren kesitlerdeki bütün mevsimlik sular şu nedenlerden dolayı göz ardı edilmiştir: Hidrojeolojik olarak kurak mevsimde mağara içindeki su yolları kurumaktadır dolayısı ile geçicidir. Buna ek olarak eski semboller arasında yeralan bir çok eski sembolde bu listeye ciddi bir şekilde girmiştir. bulunmaktadır. Mağaranın tanımlanmasına mevsimlik sularla ilgili olarak bir not eklenebilir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="water_inlet" hasProfileSymbol="true">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Razveden dotok vode/Sitasti ponor</croatian>
+			<dutch>wijdverspreide waterinvoer/sijpels</dutch>
+			<english>Widespread Water Inlet/Seeping</english>
+			<french>Arrivée d'eau diffuse/Suintement d'eau dans un sédiment</french>
+			<german>Tropfwasser/Sickerwasser</german>
+			<italian>Afflusso d'acqua diffuso/Infiltrazione nel detrito</italian>
+			<polish>Rozproszone źródło wody/Wsiąkanie</polish>
+			<portuguese>Infiltração</portuguese>
+			<romanian>Aport de apa difuz/Infiltratii</romanian>
+			<slovene>Razvejan pritok vode/ponikujoca voda</slovene>
+			<spanish>Arribo difuso de agua/Infiltraciones de agua en el sedimento</spanish>
+			<turkish>Büyük ölçekli su girişi/Sızma</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Ne postoji vise poseban simbol za rezvedeni dotok vode. Umjesto toga crtaju se vise ili manje paralelne strelice koje oznacavaju tok vode.\n\nZa poniranje vode u sedimente na tlu rabi se polukrug na tlocrtu. U ispruzenom profilu strelica se usmjeri prema tlu i tako se oznacava curenje kroz sediment.</croatian>
+			<dutch>Er is geen speciaal symbool meer. Als het nodig is teken dan een aantal ongeveer parallelle pijltjes om de stroom aan te geven. Waar water wegsijpelt in zand (sediment) tekenen we de halve cirkel ook in de plattegrond. In de langsdoorsnede kunnen we de golvende pijl naar onderen laten wijzen om een hint te geven van het wegsijpelen.</dutch>
+			<english>There is no special symbol any more. It is needed to draw several ± parallel arrows indicating the flow. For seeping of a watercourse in sediment the semicircle is also used in the plan! In the profile view, the direction of the arrow can be bent towards the bottom to hint the seeping.</english>
+			<french>Il n'y a plus de symbole particulier. Il suffit de dessiner quelques flèches plus ou moins parallèles indiquant l'arrivée d'eau. - Suintement d'eau dans un sédiment: Ici, le demi-cercle est aussi utilisé dans le plan! Dans la coupe longitudinale, la direction de la flèche peut etre courbée vers le bas pour indiquer le suintement.</french>
+			<german>Es gibt kein Spezialsymbol mehr dafür. Es sollten mehrere +/- parallele Pfeile dafür gezeichnet werden. Für Sickerwasser sollte der Halbkreis auch im Plan verwendet werden! Im Längsschnitt kann der Pfeil absichtlich nach unten hin abgeknickt werden, um das Versickern verstärkt anzudeuten.</german>
+			<italian>Afflusso d'acqua diffuso: Il simbolo apposito c stato abolito. C sufficiente disegnare alcune frecce sub-parallele ad indicare il flusso. Infiltrazione nel detrito: In questo caso il semicerchio viene usato anche nella pianta. In sezione longitudinale, la direzione della freccia pun puntare verso il basso ad indicare l'assorbimento.</italian>
+			<polish>Zlikwidowano specjalny symbol. Należy narysować kilka mniej-więcej równoległych strzałek, wskazujących kierunek przepływu. Na planie, dla oznaczenia cieku niknącego w osadach można użyć symbolu z półkolem. W przekroju, strzałki mogą być nieco zagięte u dołu, dla zasugerowania wsiąkania.</polish>
+			<portuguese>Não existe mais um símbolo especial. É necessário o desenho de diversas setas aproximadamente paralelas indicando o fluxo. Para o escoamento do curso d'água em sedimento, o semi-círculo também é usado em planta! No perfil, a direção da seta pode ser torcida em direção ao fundo para indicar o escoamento.</portuguese>
+			<romanian>Acesta nu mai este un simbol special. E suficient sa fie desenate mai mute sageti, mai mult sau mai putin paralele, indicand cursul. Pentru infiltratii e necesara folosirea semicercului in desenul plan! In sectiune longitudinala directia sagetilor poate fi inclinata pentru a putea sugera infiltrarea.</romanian>
+			<slovene>Ni vec posebega znaka, ki bi oznaceval razvejan pritok vode. Narise se vec bolj  ali manj vzporednih puscic, ki kazejo tok. Pri ponikanju vode v talne sedimenta se na tlorisu uporablja polkrog. Pri stranskem risu pa se puscico usmeri v tla in s tem nakaze ponikanje.</slovene>
+			<spanish>Ya no existe ningún símbolo especial. Es suficiente dibujar varias flechas sub-paralelas indicando el flujo. Para infiltración de agua en sedimentos el semicirculo también es utilizado en planta! En la vista de perfil, la flecha puede doblarse hacia la parte inferior para insinuar la infiltración.</spanish>
+			<turkish>Bununla ilgili olarak bir sembol yoktur. Akımı göstermek için bir çok paralel ok çizilmelidir. Sedimanlar içinde su sızıntısı bulunan yerler için plan görüntüsünde yarım daire kullanılmalıdır. Kesit görüntüsünde ise okun yönü sızmanın olduğu yere doğru kıvrık olmalıdır.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="scallop_flutes" hasProfileSymbol="true">
+		<photos>
+			<photo filename="flutes_1.jpg" width="450" height="600" photographer="Maria Alejandra Perez" caveRegionName="Mammoth Cave, Kentucky, USA">
+				<croatian>Vrtlozni lonci</croatian>
+				<dutch>Erosie koepels</dutch>
+				<english>Flutes</english>
+				<french>Coupoles d'érosion</french>
+				<german>Fliessfacetten</german>
+				<italian>Scanellature</italian>
+				<polish>Jamki wirowe (scallops)</polish>
+				<portuguese>Scallops</portuguese>
+				<romanian>Cupole de eroziune</romanian>
+				<slovene>zlebici (fasete)</slovene>
+				<spanish>Cúpulas de erosión</spanish>
+				<turkish>Oygu izleri</turkish>
+			</photo>
+			<photo filename="wind_flutes_1.jpg" width="600" height="450" photographer="Andreas Neumann" caveRegionName="Watzmann Icecave, Berchtesgaden, Germany" year="2001">
+				<croatian>Wind Flutes in an Ice Cave</croatian>
+				<dutch>Wind Flutes in an Ice Cave</dutch>
+				<english>Wind Flutes in an Ice Cave</english>
+				<french>Wind Flutes in an Ice Cave</french>
+				<german>Windfacetten in einer Eishöhle</german>
+				<italian>Wind Flutes in an Ice Cave</italian>
+				<polish>Jamki wirowe od wiatru w jaskini lodowej.</polish>
+				<portuguese>Wind Flutes in an Ice Cave</portuguese>
+				<romanian>Wind Flutes in an Ice Cave</romanian>
+				<slovene>Wind Flutes in an Ice Cave</slovene>
+				<spanish>Cúpulas de erosión por viento en una cueva de hielo</spanish>
+				<turkish>Bir buz mağarasında rüzgar oyguları</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Vrtlozni lonci/Zljebici (fasete)/Smjer fosilnog toka</croatian>
+			<dutch>Erosie koepels/kolkgaten/richting van de paleo-stroom</dutch>
+			<english>Scallops/Flutes in General/Direction of Paleoflow</english>
+			<french>Coupoles d'érosion/marmites/courant d'écoulement fossile</french>
+			<german>Kolke/Fliessfacetten/Paläofliessrichtung</german>
+			<italian>Scallops/Scanellature in general/Direzione del paleoflusso</italian>
+			<polish>Jamki wirowe (scallops)/Formy eworsyjne ogólnie (flutes)/Kierunek paleoprzepływu</polish>
+			<portuguese>Scallops/Marmitas/Direção do Paleo-fluxo</portuguese>
+			<romanian>Cupole de eroziune/Marmite/Curent de apa fosil</romanian>
+			<slovene>Kotlice/zlebici (fasete)/smer starega toka</slovene>
+			<spanish>Scallops/Cúpulas de erosión en general/Dirección de paleo corriente</spanish>
+			<turkish>Kabuk şekilli oygu izi/Paleo akış yönü</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Vrtlozni lonci: Kao i do sada.\n\nFasete: Razlika izmedu erozijskih i korozijskih fasete je izostavljena, jer je njihovo razlikovanje prlilicno tesko, pogotovo sa fasetama na bocnim stjenama. Ovaj simbol moze se rotirati, tako da polukrug na vrhu oznacava fasetu na stropu i sl.\n\nSmjer fosilnog toka (paleotoka): Ovaj vrlo koristan simbol koristi se i uz druge znakove vodenog toka (npr. tragovi valova, ljuskice), a ne samo uz vrtlozne lonce. U vulkanskim spiljama moze se koristiti za prikaz nekadasnjeg toka lave.</croatian>
+			<dutch>Erosie koepels/scallops (in plafond): spreekt voor zich.\n\nKolkgaten: het verschil tussen erosie- en corrosiegaten is onduidelijk omdat vooral met gaten in wanden, het niet altijd mogelijk is dit juist te determineren. Het nieuwe symbool kan gedraaid worden; als de halve cirkel boven zit, laat het een kolkgat in het plafond zien.\n\nPaleo-stroom: Dit nuttige symbool wordt niet alleen gebruikt als er kolkgaten in het spel zijn maar ook met rimpel-groeven, imbrikaties en andere features. In lavagrotten kan het gebruikt worden om de lavastroom mee aan te geven.</dutch>
+			<english>Flow Casts (Scallops): as before.\n\nFlute: The differentiation between erosional and corrosion flutes has been omitted, because, especially with flutes on lateral walls, they cannot always be identified correctly. The new symbol can be rotated; if the semicircle is on top, it shows a flute on the ceiling, etc.\n\nPaleoflow: This very useful symbol is not only used with scallops, but also with ripple marks, imbrications and other features. In addition it might be used in lava caves to show the flow direction of the lava.</english>
+			<french>Coupoles d'érosion: comme auparavant\n\nCourant d'écoulement fossile: Ce symbole très utile s'utilise non seulement avec les coupoles d'érosion, mais aussi avec les vagues de sable et les imbrications et autres marques caractéristiques. De plus, il peut etre utilisé dans les tubes de lave pour indiquer la direction du flot de lave.\n\nMarmites: La différentiation entre marmites de corrosion et d'érosion a été supprimée, car elle est difficile à identifier spécialement sur les parois. Le nouveau symbole peut etre tourné dans le sens voulu si le demi-cercle est au-dessus, il indique une marmite au plafond, etc.</french>
+			<german>Fliessfacetten: wie zuvor\n\nPaläoflussrichtung: Dieses sehr brauchbare Symbol wird nicht nur im Zusammenhang mit Fliessfacetten, sondern auch zusammen mit Wirbeln etc. verwendet. Zusätzlich kann es in Lavahöhlen verwendet werden, um die Fliessrichtung der Lava anzuzeigen.\n\nKolke: Die Unterscheidung zwischen Erosions- und Korrosionskolken wurde weggelassen, da eine korrekte Identifizierung der Genese eines Kolkes oft sehr schwierig ist. Das neue Symbol kann rotiert werden. Wenn der Halbkreis oben ist, zeigt es einen Deckenkolk, ist der Halbkreis unten einen Kolk am Boden etc.</german>
+			<italian>Scallops: Il simbolo c di facile comprensione e rimane immutato. Viene omessa la freccia di flusso.\n\nPaleoflusso: Questo nuovo simbolo pun essere usato non solo per gli scallop, ma anche per i ripple mark, le embricature e altre morfologie similari. Inoltre pun essere utile nelle grotte laviche, per indicare la direzione di flusso della lava.\n\nScanellature (Flutes): La distinzione fra scanellature da erosione o da corrosione viene abolita perché la distinzione pun essere molto difficile, specialmente per le scanellature sulle pareti. Il simbolo pun essere ruotato. Se il semicerchio c in alto, identifica una scanellatura a soffitto, e cose via.</italian>
+			<polish>Zagłębienia wirowe: jak poprzednio.\n\n.Formy wirowe: rozróżnienie pomiędzy korozyjnymi i erozyjnymi formami wirowymi zostało zarzucone, ponieważ nie zawsze da się je jednoznacznie rozróżnić. Nowy symbol może być obracany; np. jeśli półokrąg jest na górze, oznacza zagłebienie eworsyjne w stropie itd.\n\nPaleoprzepływ: ten bardzo użyteczny symbol jest wykorzystywany nie tylko w przypadku zagłębień wirowych, ale także przy występowaniu w jaskini innych śladów,  wskazujących na kierunek przepływu. Dodatkowo, w przypadku jaskiń lawowych można go wykorzystać do oznaczenia kierunku przepływu lawy.</polish>
+			<portuguese>Scallops: Conforme anterior.\n\nMarmita: a diferença entre marmitas erosivas e corrosivas foi excluída, pois especialmente com marmitas em paredes laterais, elas não podiam ser identificadas corretamente. O novo símbolo pode ser rotacionado; se o semi-círculo está em cima, ele mostra uma marmita no teto, etc.\n\nPaleo-fluxo: Este símbolo é muito útil e não somente usado com scallops, mas também com outras feições relacionadas. Adicionalmente podem ser usados em tubos de lava para se mostrar a direção do fluxo de lava.</portuguese>
+			<romanian>Cupole: la fel ca inainte\n\nMarmite: diferenta dintre cele erozionale si cele corozionale a fost omisa, ele neputand fi idetificate corect intotdeauna, in special cele de pe peretii laterali. Noul simbol poate fi rotit in sensul dorit, daca semicercul e in jos indicand o marmita de tavan, etc.\n\nCurent de apa fosil: acest simbol foarte util nu se foloseste numai cu cupolele de eroziune, ci si cu urmele de curgere, imbricatii sau alte urme caracteristice. In plus poate fi folosit in tuburile de lava pentru a arata directia de curgere a lavei.</romanian>
+			<slovene>Kotlice: kot do zdaj.\n\nfasete in zlebici: opustilo se je razlikovanje med erozijskimi in korozijskimi zlebici, saj je razlikovanje med obojimi se posebej na stranskih stenah precej tezavno. Novi znak se lahko obraca. Ce je polkrog zgoraj, oznacuje zlebic na stropu.\n\nSmer starega toka (paleotoka): ta zelo uporaben znak se da uporabiti tudi pri drugih znakih nekdanjega vodnega toka, ne le pri fasetah. Lahko pa se uporabi tudi v vulkanskih jamah za prikaz nekdanjega toka lave.</slovene>
+			<spanish>Moldes de flujo(Scallops): como antes.\n\nCúpulas de erosión: la diferencia entre cúpulas de erosión y corrosión ha sido omitida, porque, especialmente con las cúpulas de erosión en las paredes laterales, estas no siempre pueden ser identificadas correctamente. El nuevo símbolo puede ser rotado; si el semicírculo está en la parte superior, muestra las cúpulas de erosión en el techo.Dirección de paleo corriente: Este útil símbolo no sólo se utiliza en caso de scallops, sino que también para cúpulas de erosión, anidaciones y otras características. Adicionalmente, podrían utilizarse en cuevas de lava para indicar la dirección del flujo de lava.	</spanish>
+			<turkish>Oygu İzleri (Kabuk şekilli oygu):Önceki ile Aynı.\n\n Yiv: Kimyasal ve fiziksel olarak oluşan oyguların birbirleri ile olan farklılıkları gözardı edilmiştir. Çünkü yan duvarlarda oluşanlar her zaman doğrıu olarak tanımlanamamaktadır. Yeni sembol döndürülmüştür. Yarım daire üstte olduğunda, tavandaki oygu izini gösterir.\n\nPaleoakış: Bu çok kullanışlı sembol sadece oygu izlerini değil dalga izlerinin, akıntı ile oluşan iri çakılların diziliminin ve diğer yapıların gösterilmesinde de kullanılmaktadır. Ayrıca lav mağaralarında av akış yönünün gçsterilmesinde de kullanılabilir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="air_draught_ice" hasProfileSymbol="true">
+		<photos>
+			<photo filename="snow_1.jpg" width="454" height="600" photographer="" caveRegionName="Häliloch, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Snijeg</croatian>
+				<dutch>Sneeuw</dutch>
+				<english>Snow</english>
+				<french>neige</french>
+				<german>Schnee</german>
+				<italian>Neve</italian>
+				<polish>Śnieg</polish>
+				<portuguese>Neve</portuguese>
+				<romanian>Zapada</romanian>
+				<slovene>sneg</slovene>
+				<spanish>Nieve</spanish>
+				<turkish>Kar</turkish>
+			</photo>
+			<photo filename="icecave_1.jpg" width="600" height="480" photographer="Martin Melzer" caveRegionName="Dachstein, Rieseneishöhle, Austria" year="2001">
+				<croatian>Led</croatian>
+				<dutch>Ijs</dutch>
+				<english>Ice</english>
+				<french>Glace</french>
+				<german>Eis</german>
+				<italian>Ghiaccio</italian>
+				<polish>Lód</polish>
+				<portuguese>Gelo</portuguese>
+				<romanian>Gheata</romanian>
+				<slovene>led</slovene>
+				<spanish>Hielo</spanish>
+				<turkish>Buz</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Propuh/Led - Snijeg - Inje</croatian>
+			<dutch>luchtstroom/Ijs - Sneeuw - firn</dutch>
+			<english>Air draught/Ice - Snow - Firn</english>
+			<french>Courant d'air/Glace - neige - givre</french>
+			<german>Luftzug/Eis - Schnee - Firn</german>
+			<italian>Corrente d'aria/Ghiaccio - Neve - Firn</italian>
+			<polish>Ruch powietrza/Lód - Śnieg - Firn</polish>
+			<portuguese>Corrente de ar/Gelo - Neve - Geada</portuguese>
+			<romanian>Curent de aer/Gheata - Zapada - Firn</romanian>
+			<slovene>Prepih/led - sneg - srez</slovene>
+			<spanish>Corriente de aire/Hielo - Nieve - Nieve compacta</spanish>
+			<turkish>Eski kar</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Propuh: Dobro znan simbol. Uvijek treba ukljucivati i datum mjerenja (u standardnom GGGG-MM-DD obliku). Simbol (strelica) sada ima dva repa.\n\nLed - Snijeg - Inje: Stari simbol za snijeg (zvjezdica) nije zadovoljavajuci jer oduzima puno vremena za crtanje te se ne moze prikazati oblik tla. Dodatno, lako se moze zamijeniti sa simbolom za kristale. Stari simbol za led je poprilicno slican slojnicama. Uzimajuci sve ovo u obzir, slozeno je slijedece rjesenje: snijeg se transformira u inje pa u led. Po morfologiji i sastavu, sve tri tvari su jednake, pa bi trebale biti predstavljene istim simbolom. Novi simbol je lak za crtanje, pokazuje strukturu tla i ne moze ga se zamijeniti.</croatian>
+			<dutch>Luchtstroom: Dit is een bekend symbool. Het moet vergezeld gaan van de meetdatum. Het symbool heeft altijd twee veertjes. De datum moet worden genoteerd in jjjj-mm-dd format.\n\nIJS - Sneeuw - Firn; Het oude ster-symbool voldeed niet. Het koste veel tijd om het te tekenenen en de bodemstructuur kan niet worden afgebeeld. Het kan ook gemakkelijk worden verward met het kristal-symbool. Het oude IJS-symbool kan gemakkelijk worden verward met de “echte” overgangslijnen. Dit alles in overweging genomen is er voor de volgende oplossing gekozen: Sneeuw gaat over in firn dat weer overgaat in IJS. Door morfologie en compositie zijn ze alle drie van dezelfde substantie en zouden afgebeeld moeten worden met hetzelfde symbool. Het gekozen symbool is gemakkelijk te tekenen, laat de bodemstructuur zien en kan niet worden verwisseld voor een ander symbool.</dutch>
+			<english>Air draught: This is a well known symbol. It should always include the date of measurement. The symbol now uses always two feathers! The date of measurement should be written in the standard yyyy-mm-dd format!\n\nIce - Snow - Firn: The old star symbol used for snow hasn´t been satisfactory for quite some time as it is very time consuming to draw and the ground structure cannot be shown. Added to this, it can easily be mistaken for the crystal symbol. The old symbol for ice is confusingly similar to true gradient lines. Taking all this into consideration we agreed on the following solution: Snow is transformed to firn and subsequently to ice. By morphology and composition all three substances are the same, therefore it should be represented by the same symbol. The one that has been chosen is easy to draw, shows the ground structure and cannot be mixed up.</english>
+			<french>Courant d'air: C'est un symbole très courant, qui doit toujours comporter la date d'observation. Le symbole utilise maintenant toujours deux chevrons! La date s'écrit au format standard aaaa-mm-jj.\n\nGlace - neige - givre: L'ancien symbole pour la neige (étoile pleine) n'est plus satisfaisant, car trop long à dessiner et ne permettant pas de représenter la structure du sol. il pouvait aussi donner lieu à confusion avec le symbole des cristaux. L'ancien symbole de la glace pouvait etre confondu avec des lignes de gradient. Finalement la solution suivante a été adoptée: la neige se transformant en neige glacée puis en glace, ces trois substances sont identiques par leur morphologie et leur composition. Elles doivent donc etre représentées par le meme symbole. Le symbole choisi est simple à dessiner, permet de représenter la structure du sol et ne prete pas à confusion. La date d'observation doit etre écrite au format standard jj-mm-aaaa!</french>
+			<german>Luftzug: Das Symbol hat immer zwei Federn. Es sollte unbedingt das Aufnahmedatum (jjjj-mm-tt) dabeistehen.\n\nEis/Schnee/Firn: Das alte Sternsymbol, das bisher für Schnee verwendet wurde, ist einerseits nicht sehr befriedigend, andererseits zeitraubend beim Zeichnen. Ausserdem kann damit die Oberflächenstruktur schlecht gezeigt werden. Zusätzlich kann das Sternsymbol leicht mit der Signatur für Kristalle verwechselt werden. Das alte Symbol für Eis ist zur Verwechslung ähnlich mit den Gefällelinien. Wir entschieden uns für die folgende Lösung: Schnee wird zu Firn und schliesslich zu Eis. Von der Morphologie und Zusammensetzung sind alle drei Zusammensetzungen sehr ähnlich und können deshalb ohne weiteres mit dem gleichen Symbol gezeichnet werden. Das neu gewählte Symbol ist leicht zu zeichnen, zeigt die Oberflächenstruktur und die Verwechslungsgefahr ist gering.</german>
+			<italian>Corrente d'aria: Si tratta di un simbolo ben noto, che ora viene rappresentato sempre con due trattini. La data di rilevazione va sempre inclusa, nel formato standard aaaa-mm-gg.\n\nGhiaccio - Neve - Firn: Il precedente simbolo utilizzato per rappresentare la neve (una stellina a sei punte) c piuttosto complesso da disegnare e non permette di rappresentare la struttura del suolo. Analogamente, il precedente simbolo per il ghiaccio poteva essere confuso con quello di curva di livello. Dato che neve, firn e ghiaccio sono una l'evoluzione dell'altra, si c convenuto di rappresentarle tutte con un nuovo simbolo unico, che c semplice da disegnare, permette di rappresentare la struttura del suolo e non pun essere confuso con altri. Data la variabilitr dei depositi nevosi o glaciali, c fondamentale aggiungere la data di osservazione, che deve essere espressa nel formato standard gg-mm-aaaa.</italian>
+			<polish>Ruch powietrza: dobrze znany symbol. Zawsze powinna towarzyszyć mu data obserwacji, w formacie RRRR-MM-DD. Symbol powinien mieć dwa "pióra".\n\nLód - Śnieg - Firn: Stary symbol "gwiazdki" wykorzystywanej do oznaczenia śniegu był pracochłonny w rysowaniu i nie pozwalał pokazać kształtu powierzchni. Ponadto, łatwo było pomylić go z symbolem kryształu. Stary symbol lodu jest myląco podobny do zwykłych linii oznaczających relief. Mając to wszystko na uwadze, uzgodniono następujące rozwiązanie. Śnieg przekształca się w firn, a następnie lód. Z punktu widzenia morfologii i składu, wszystkie te trzy substacje są tym samym, wobec tego mogą być reprezentowane tym samym symbolem. Ten konkretny symbol został wybrany, ponieważ łatwo go narysować, można nim pokazać kształt powierzchni spągu i trudno go pomylić z innymi oznaczeniami.</polish>
+			<portuguese>Corrente de ar: Este é um símbolo bem conhecido. Deve sempre conter a data de medição. O símbolo possui agora duas penas! A data de medição deve ser escrita no formato padronizado aaaa-mm-dd!\n\nGelo - Neve - Geada: O antigo símbolo de estrela usado em neve não era satisfatório, pois despendia tempo desenhando e não apresentava a estrutura do solo. Também era confundido com o símbolo de cristal (Flor). O antigo símbolo para gelo era muito parecido com as linhas de gradiente. Levando tudo isso em consideração, concordamos com a seguinte solução: Neve é transformada em geada e conseqüentemente em gelo. Pela morfologia e composição estas três substâncias são a mesma, portanto devem ser representadas pelo mesmo símbolo. O escolhido é desenhado facilmente, mostra a estrutura do solo e não pode ser confundido.</portuguese>
+			<romanian>Curent de aer: un simbol bine cunoscut. Trebuie intotdeauna sa includa data masuratorilor.  Simbolul are acum doua liniute in coada! Data masuratorilor trebuie scrisa in formatul standard : aaaa-ll-zz.\n\nGheata - zapada - firn: vechiul simbol folosit pentru zapada (stea) nu a mai fost satisfacator, deoarece trebuia mult timp pentru a fi desenat, iar structura solului nu putea fi reprezentata. In plus poate fi confundat cu simbolul cristalelor. Vechiul simbol pentru gheata e similar cu adevaratele linii de panta. Luand in considerare toate acestea, s-a cazut de acord cu urmatoarea solutie: zapada e transformata in firn si apoi in gheata, prin morfologie si compozitie toate sunt aceeasi substanta, de aceea ar trebui reprezentate cu acelasi simbol. Cel care a fost ales e usor de desenat, permite reprezentarea structurii solului si nu poate fi confundat. Data observarii trebuie scrisa in formatul standard: zz-ll-aaaa!</romanian>
+			<slovene>Prepih: To je dobro znan znak. Ob njem mora vedno biti napisan datum merjenja prepiha. Znak ima sedaj na repu vedno dve vzporedni crtici. Datum mora biti podan v standardni obliki llll-mm-dd.\n\nLed - sneg - srez: star znak za sneg - zvezdica - ni bil zadovoljiv, ker ga je zamudno risati, in, ker se z njim ne da  prikazati oblike tal. Poleg tega ga ni bilo tezko zamesati z znakom za kristale. Star znak za led je prepodoben naklonskim crtam. Upostevajoc to smo se dogovorili za naslednjo resitev: sneg se spreminja v srez in nadalje v led. Morfolosko in po sestavi so vse tri snovi enake, torej bi morale biti oznacene z istim znakom. Nov znak je enostaven za narisati, prikazuje obliko tal in se ga ne da zamesati.</slovene>
+			<spanish>Corriente de aire: este es un símbolo bien conocido. Este debe siempre incluir la fecha de la medición. El símbolo ahora utiliza siempre dos plumas! La fecha de medición debe ser escrita en el formato standard aaaa-mm-dd!\n\nHielo - Nieve - Nieve compacta: el antiguo símbolo de estrella utilizado para la nieve no ha sido satisfactorio durante bastante tiempo, ya que consume mucho tiempo para dibujarse y la estructura del suelo no puede mostrarse. Sumado a esto, puede ser facilmente confundido con el símbolo de cristal. El símbolo antiguo para hielo podía confundirse con las líneas de gradiente. Tomando en cuenta todo esto nos pusimos de acuerdo en la siguiente solución: la nieve es transformada a firn y posteriormente a hielo. Por morfología y composición, las tres sustancias son lo mismo, por lo que deben estar representadas por un mismo símbolo. El que se ha elegido es fácil de dibujar, muestra la estructura del suelo y no es confundible.</spanish>
+			<turkish>Hava akımı: Bu sembol oldukça iyi bilinmetedir. Her zaman ölçüm tarihini içermelidir. Ölçüm tarihi yıl-ay-gün formatında yazılmalıdır!\n\nEski kar: Kar için eski yıdız sembolünün kullanılması  bazen yetersiz kalmaktadır ve çizildiğinde taban yapısı görülmemektedir. Buna ek olarak, kristal sembolü çiziminde kolaylıkla  hata yapılabilir. Buz için kullanılan eski sembol ise eğim çizgileri ile şaşırtıcı bir şekilde benzemektedir. Sözü edilen bu noktalar göz önüne alındığında aşağıdaki çözüme karar alınmıştır: Kar, eski kara; eski kar ise buza dönüşmektedir. Morfolojisi ve bileşimi ile her üç madde de aynı olduğu için aynı sembol ile gösterilebilir. Seçilen bu sembolü çizmek kolaydır ve taban yapısı ile karıştırılamaz.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="stalagmites" hasProfileSymbol="true">
+		<photos>
+			<photo filename="stalactites_stalagmites_1.jpg" width="400" height="600" photographer="Daniel Burkhalter" caveRegionName="Bärenschacht, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Stalagmiti / Stalaktiti</croatian>
+				<dutch>Stalagmieten / Stalactieten</dutch>
+				<english>Stalagmites / Stalactites</english>
+				<french>Stalagmites / Stalactites</french>
+				<german>Stalagmiten / Stalaktiten</german>
+				<italian>Stalagmiti / Stalattiti</italian>
+				<polish>Stalagmity / Stalaktyty </polish>
+				<portuguese>Estalagmite / Estalactite</portuguese>
+				<romanian>Stalagmite / Stalactite</romanian>
+				<slovene>Stalagmiti / Stalaktiti</slovene>
+				<spanish>Estalagmita / Estalactita</spanish>
+				<turkish>Dikit / Sarkıt</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Stalagmiti</croatian>
+			<dutch>Stalagmieten</dutch>
+			<english>Stalagmites</english>
+			<french>Stalagmites</french>
+			<german>Stalagmiten</german>
+			<italian>Stalagmiti</italian>
+			<polish>Stalagmity</polish>
+			<portuguese>Estalagmite</portuguese>
+			<romanian>Stalagmite</romanian>
+			<slovene>Stalagmiti</slovene>
+			<spanish>Estalagmita</spanish>
+			<turkish>Dikit</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada.</croatian>
+			<dutch>spreekt voor zich.</dutch>
+			<english>as before</english>
+			<french>Comme auparavant</french>
+			<german>wie zuvor</german>
+			<italian>invariato</italian>
+			<polish>jak poprzednio</polish>
+			<portuguese>Conforme o anterior.</portuguese>
+			<romanian>La fel ca inainte</romanian>
+			<slovene>Kot do zdaj.</slovene>
+			<spanish>Como antes</spanish>
+			<turkish>Önceki İle Aynı</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="stalactites" hasProfileSymbol="true">
+		<photos>
+			<photo filename="stalactites_stalagmites_1.jpg" width="400" height="600" photographer="Daniel Burkhalter" caveRegionName="Bärenschacht, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Stalagmiti / Stalaktiti</croatian>
+				<dutch>Stalagmieten / Stalactieten</dutch>
+				<english>Stalagmites / Stalactites</english>
+				<french>Stalagmites / Stalactites</french>
+				<german>Stalagmiten / Stalaktiten</german>
+				<italian>Stalagmiti / Stalattiti</italian>
+				<polish>Stalagmity / Stalaktyty</polish>
+				<portuguese>Estalagmite / Estalactite</portuguese>
+				<romanian>Stalagmite / Stalactite</romanian>
+				<slovene>Stalagmiti / Stalaktiti</slovene>
+				<spanish>Estalagmitas / Estalactitas</spanish>
+				<turkish>Dikit / Sarkıt</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Stalaktiti</croatian>
+			<dutch>Stalactieten</dutch>
+			<english>Stalactites</english>
+			<french>Stalactites</french>
+			<german>Stalaktiten</german>
+			<italian>Stalattiti</italian>
+			<polish>Stalaktyty</polish>
+			<portuguese>Estalactite</portuguese>
+			<romanian>Stalactite</romanian>
+			<slovene>Stalaktiti</slovene>
+			<spanish>Estalactitas</spanish>
+			<turkish>Sarkıt</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada.</croatian>
+			<dutch>spreekt voor zich.</dutch>
+			<english>as before</english>
+			<french>Comme auparavant</french>
+			<german>wie zuvor</german>
+			<italian>invariato</italian>
+			<polish>jak poprzednio</polish>
+			<portuguese>Conforme o anterior.</portuguese>
+			<romanian>La fel ca inainte</romanian>
+			<slovene>Kot do zdaj.</slovene>
+			<spanish>Como antes</spanish>
+			<turkish>Önceki İle Aynı</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="sinter-curtains_pillars" hasProfileSymbol="true">
+		<photos>
+			<photo filename="sinter_curtain_1.jpg" width="396" height="600" photographer="Peter Pfister" caveRegionName="St. Beatus-Höhlen, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Zavjese od sigovine</croatian>
+				<dutch>Gordijnen</dutch>
+				<english>Sinter Curtains</english>
+				<french>Draperies stalagmitiques</french>
+				<german>Sintervorhänge</german>
+				<italian>Cortina di concrezione</italian>
+				<polish>Draperie (nacieki)</polish>
+				<portuguese>Cortinas</portuguese>
+				<romanian>Draperii stalagmitice</romanian>
+				<slovene>Sigova zavesa</slovene>
+				<spanish>Cortina de travertino</spanish>
+				<turkish>Perde Oluşumu</turkish>
+			</photo>
+			<photo filename="sinter_curtain_2.jpg" width="600" height="450" photographer="Andreas Neumann" caveRegionName="Krem Synrang Labbit, Meghalaya, India" year="2003">
+				<croatian>Zavjese od sigovine</croatian>
+				<dutch>Gordijnen</dutch>
+				<english>Sinter Curtains</english>
+				<french>Draperies stalagmitiques</french>
+				<german>Sintervorhänge</german>
+				<italian>Cortina di concrezione</italian>
+				<polish>Draperie (nacieki)</polish>
+				<portuguese>Cortinas</portuguese>
+				<romanian>Draperii stalagmitice</romanian>
+				<slovene>Sigova zavesa</slovene>
+				<spanish>Cortina de travertino</spanish>
+				<turkish>Perde oluşumu</turkish>
+			</photo>
+			<photo filename="pillar_1.jpg" width="450" height="600" photographer="Andreas Neumann" caveRegionName="Postojnska Jama, Slovenia" year="2003">
+				<croatian>Stupovi</croatian>
+				<dutch>Pilaren</dutch>
+				<english>Pillars</english>
+				<french>Piliers stalagmitiques</french>
+				<german>Tropfsteinsäulen</german>
+				<italian>Colonna</italian>
+				<polish>Stalagnaty</polish>
+				<portuguese>Colunas</portuguese>
+				<romanian>Coloane-Pilieri stalagmitici</romanian>
+				<slovene>Steber</slovene>
+				<spanish>Columnas</spanish>
+				<turkish>Sütun</turkish>
+			</photo>
+			<photo filename="pillar_2.jpg" width="600" height="450" photographer="Andreas Neumann" caveRegionName="Postojnska Jama, Slovenia" year="2003">
+				<croatian>Stupovi</croatian>
+				<dutch>Pilaren</dutch>
+				<english>Pillars</english>
+				<french>Piliers stalagmitiques</french>
+				<german>Tropfsteinsäulen</german>
+				<italian>Colonna</italian>
+				<polish>Stalagnaty</polish>
+				<portuguese>Colunas</portuguese>
+				<romanian>Coloane-Pilieri stalagmitici</romanian>
+				<slovene>Steber</slovene>
+				<spanish>Columnas</spanish>
+				<turkish>Sütun</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Zavjese od sigovine/Stupovi</croatian>
+			<dutch>Gordijnen/Pilaren</dutch>
+			<english>Sinter Curtains/Pillars</english>
+			<french>Draperies stalagmitiques/Piliers stalagmitiques</french>
+			<german>Sintervorhänge/Tropfsteinsäulen</german>
+			<italian>Cortina di concrezione/Colonna</italian>
+			<polish>Draperie (nacieki)/Stalagnaty</polish>
+			<portuguese>Cortinas/Colunas</portuguese>
+			<romanian>Draperii stalagmitice/Coloane-Pilieri stalagmitici</romanian>
+			<slovene>Sigova zavesa/steber</slovene>
+			<spanish>Cortinas/Columnas</spanish>
+			<turkish>Perde Oluşumu/Sütun</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Zavjese od sigovine: Prikazano rjesenje nije razumlnjivo na prvi pogled, ali boljih nema.\n\nStupovi: Kao i do sada.</croatian>
+			<dutch>Gordijnen: Het gekozen symbool wordt niet gemakkelijk herkend, maar lijkt het beste (als alternatief kun je gordijnen op je kaart tekenen).\n\nPilaren: spreekt voor zich.</dutch>
+			<english>Calcite Curtains: The presented solution is not easily understood at first sight but seems to be the best (alternatively you draw the curtains into your map).\n\nCalcite pillars: as before</english>
+			<french>Draperies stalagmitiques: La solution proposée n'est pas facile à comprendre à première vue, mais semble la meilleure (sauf si vous dessinez les draperies sur votre topographie).\n\nPiliers stalagmitiques: Comme auparavant.</french>
+			<german>Sintervorhänge: Die gezeigte Lösung ist im ersten Blick nicht allzu verständlich, aber schien uns als die beste Lösung.\n\nTropfsteinsäulen: wie zuvor</german>
+			<italian>Cortina di concrezione: La soluzione presentata non c di immediata comprensione ma c stata adottata come evoluzione del simbolo precedente, in mancanza di soluzioni migliori. C inoltre possibile dare una rappresentazione pseudo-realistica.\n\nColonna: invariato. C stata abolita la rappresentazione in pianta come un cerchietto.</italian>
+			<polish>Draperie kalcytowe: Zaproponowany symbol nie jest łatwo rozpoznawalny na pierwszy rzut oka, ale wydaje się najlepszym z możliwych (alternatywnie, można narysować draperie na planie).\n\nKolumny naciekowe: jak poprzednio.</polish>
+			<portuguese>Cortina de Calcita: Esta solução não é entendida facilmente, mas parece ser a melhor (alternativamente você representa as cortinas no mapa).Coluna: conforme anterior.</portuguese>
+			<romanian>Draperii: la prima vedere solutia propusa nu e usor de inteles, dar pare a fi cea mai buna (alternativ desenati draperia pe harta).\n\nColoane: la fel ca inainte</romanian>
+			<slovene>Zavese: predstavljena resitev na prvi pogled ni najbolj razumljiva, vendar boljsih ni.\n\nSteber: kot do zdaj.</slovene>
+			<spanish>Cortinas de travertino: La presente solución no es comprendida fácilmente a primera vista, pero parece ser la major (alternativamente usted puede representar las cortinas en su mapa).\n\nColumnas de calcita: como antes.</spanish>
+			<turkish>Kalsit Perdesi: Sunulan çözüm yolu ilk bakışta kolaylıkla anlaşılmamakla birlikte en iyisi gibi görülmektedir (bir diğer seçenek olarak perdeleri haritanıza çizebilirsiniz).\n\nKalsit sütunu: Önceki ile Aynı</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="helictites_spaghetti_crystals" hasProfileSymbol="true">
+		<photos>
+			<photo filename="spaghetti_1.jpg" width="600" height="402" photographer="Daniel Burkhalter" caveRegionName="St. Beatus Höhlen, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Spageti</croatian>
+				<dutch>macaronies</dutch>
+				<english>Soda Straws</english>
+				<french>Spaghettis</french>
+				<german>Spaghetti</german>
+				<italian>Spaghetti</italian>
+				<polish>Nacieki makaronowe</polish>
+				<portuguese>Canudos</portuguese>
+				<romanian>Macaroane</romanian>
+				<slovene>spageti (cevcice)</slovene>
+				<spanish>Pajillas</spanish>
+				<turkish>Makarna</turkish>
+			</photo>
+			<photo filename="spaghetti_2.jpg" width="450" height="600" photographer="Andreas Neumann" caveRegionName="Grotte de la Chaire le Chassel, Ardèche, France" year="2004">
+				<croatian>Spageti</croatian>
+				<dutch>macaronies</dutch>
+				<english>Soda Straws</english>
+				<french>Spaghettis</french>
+				<german>Spaghetti</german>
+				<italian>Spaghetti</italian>
+				<polish>Nacieki makaronowe</polish>
+				<portuguese>Canudos</portuguese>
+				<romanian>Macaroane</romanian>
+				<slovene>spageti (cevcice)</slovene>
+				<spanish>Pajillas</spanish>
+				<turkish>Makarna</turkish>
+			</photo>
+			<photo filename="crystals_1.jpg" width="600" height="393" photographer="Daniel Burkhalter" caveRegionName="Bärenschacht, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Kristali</croatian>
+				<dutch>kristallen</dutch>
+				<english>Crystals</english>
+				<french>Cristaux</french>
+				<german>Kristalle</german>
+				<italian>Cristalli</italian>
+				<polish>Kryształy</polish>
+				<portuguese>Cristais (Flores)</portuguese>
+				<romanian>Cristale</romanian>
+				<slovene>kristali</slovene>
+				<spanish>Cristales</spanish>
+				<turkish>Kristaller</turkish>
+			</photo>
+			<photo filename="crystals_2.jpg" width="600" height="450" photographer="Andreas Neumann" caveRegionName="Grotte de la Madeleine, Ardèche, France" year="2004">
+				<croatian>Kristali</croatian>
+				<dutch>kristallen</dutch>
+				<english>Crystals</english>
+				<french>Cristaux</french>
+				<german>Kristalle</german>
+				<italian>Cristalli</italian>
+				<polish>Kryształy</polish>
+				<portuguese>Cristais (Flores)</portuguese>
+				<romanian>Cristale</romanian>
+				<slovene>kristali</slovene>
+				<spanish>Cristales</spanish>
+				<turkish>Kristaller</turkish>
+			</photo>
+			<photo filename="crystals_3.jpg" width="600" height="450" photographer="Andreas Neumann" caveRegionName="Krem Synrang Labbit, Meghalaya, India" year="2003">
+				<croatian>Kristali</croatian>
+				<dutch>kristallen</dutch>
+				<english>Crystals</english>
+				<french>Cristaux</french>
+				<german>Kristalle</german>
+				<italian>Cristalli</italian>
+				<polish>Kryształy</polish>
+				<portuguese>Cristais (Flores)</portuguese>
+				<romanian>Cristale</romanian>
+				<slovene>kristali</slovene>
+				<spanish>Cristales</spanish>
+				<turkish>Kristaller</turkish>
+			</photo>
+			<photo filename="excentrique_1.jpg" width="600" height="450" photographer="Andreas Neumann" caveRegionName="Katerloch, Wägital, Switzerland" year="2002">
+				<croatian>Heliktiti</croatian>
+				<dutch>Excentrieken</dutch>
+				<english>Helictites</english>
+				<french>Excentriques - Helictites</french>
+				<german>Exzentriker</german>
+				<italian>Concrezione eccentrica</italian>
+				<polish>Heliktyty</polish>
+				<portuguese>Helectites(Flores)</portuguese>
+				<romanian>Helictite</romanian>
+				<slovene>Heliktiti</slovene>
+				<spanish>Helictitas</spanish>
+				<turkish>Heliktit</turkish>
+			</photo>
+			<photo filename="excentrique_2.jpg" width="600" height="450" photographer="Andreas Neumann" caveRegionName="Katerloch, Wägital, Switzerland" year="2002">
+				<croatian>Heliktiti</croatian>
+				<dutch>Excentrieken</dutch>
+				<english>Helictites</english>
+				<french>Excentriques - Helictites</french>
+				<german>Exzentriker</german>
+				<italian>Concrezione eccentrica</italian>
+				<polish>Heliktyty</polish>
+				<portuguese>Helectites(Flores)</portuguese>
+				<romanian>Helictite</romanian>
+				<slovene>Heliktiti</slovene>
+				<spanish>Helictitas</spanish>
+				<turkish>Heliktit</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Heliktiti/Spageti/Kristali</croatian>
+			<dutch>excentrieken/macaronies/kristallen</dutch>
+			<english>Helictites/Soda Straws/Crystals</english>
+			<french>Excentriques - Helictites/Spaghettis/Cristaux</french>
+			<german>Exzentriker/Spaghetti/Kristalle</german>
+			<italian>Concrezione eccentrica/Spaghetti/Cristalli</italian>
+			<polish>Heliktyty/Nacieki makaronowe/Kryształy</polish>
+			<portuguese>Helectites/Canudos/Cristais (Flores)</portuguese>
+			<romanian>Helictite/Macaroane/Cristale</romanian>
+			<slovene>Heliktiti/spageti (cevcice)/kristali</slovene>
+			<spanish>Helictitas/Pajillas/Cristales</spanish>
+			<turkish>Heliktit/Makarna/Kristal</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Heliktiti: Ovaj simbol je ekscentrican kao i sama formacija i stoga lako prepoznatljiv.\n\nSpageti: Simbol ne treba posebna objasnjenja.\n\nKristali: Zbog zelje za cim razumljivijim nacrtom, trebalo bi izbjegavati slova za oznake minerala, jer tocno identificiranje minerala cesto nije jednostavno, a i slova za istu vrstu minerala se razlikuju od drzave do drzave.</croatian>
+			<dutch>Excentrieken: Dit symbool is net zo excentriek als de formaties zelf en wordt daarom gemakkelijk herkend.\n\nmacaronies: spreekt voor zich.\n\nKristallen: Om internationaal begrepen te worden moeten de letters van de kristal-mineralen weggelaten worden. Ten eerste omdat mineralen identificatie niet zo gemakkelijk is als dat het lijkt en ten tweede omdat een C voor Calciet in het Duits een K is en in het chinees een #. In het algemeen is het niet raadzaam om letters als symbool in de kaart op te nemen. De resulterende Babylonische spraakverwarring kan dodelijk zijn voor het begrip.</dutch>
+			<english>Helictites: This symbol is as eccentric as the formation itself and is therefore easily understood.\n\nSoda Straws: This symbol doesn´t need any further explanations.\n\nCrystals: For reasons of international understanding the letters identifying the minerals should be avoided, first because correct mineral identification is often not as easy as it may seem, and second because a C for calcite is an K in German and a # in Chinese. In general we do not recommend the use of letters as symbols on the actual map. The resulting babylonic confusion can be lethal for the understanding.</english>
+			<french>Excentriques - Helictites: Ce symbole est d'autant plus excentrique que la formation réelle l'est, et est donc facilement interprétable.\n\nSpaghettis: Pas besoin d'explications supplémentaires.\n\nCristaux: Pour des raisons de compréhension internationale, les lettres identifiant les minéraux doivent etre évitées, d'abord parce que l'identification précise des minéraux n'est pas aussi facile qu'il y parait, et ensuite parce que l'abréviation de calcite est K en allemand, C en anglais et français et # en chinois. De façon générale, nous ne recommandons pas l'utilisation de lettres comme symboles sur les topographies, la confusion générée pouvant etre catastrophique pour la compréhension internationale.</french>
+			<german>Excentriques: Das Symbol ist exzentrisch wie die Formation selbst und daher leicht verständlich.\n\nSpaghetti: braucht keine weiteren Erklärungen.\n\nKristalle: Wegen der internationalen Verständlichkeit sollten Buchstaben, die die Mineralien identifizieren, eher weggelassen werden, da erstens die korrekte Identifizierung häufig schwierig ist und zweitens ein "C" für Calcite in Englisch ein "K" auf Deutsch ist und ein "#" in Chinesisch. Generell empfehlen wir, von der Verwendung von einzelnen Buchstaben als Symbole abzusehen, da diese nicht standardisiert sind und eher einer babylonischen Sprachenverwirrung beitragen.</german>
+			<italian>Concrezione eccentrica: Questo simbolo c tanto eccentrico quanto la morfologia che vuole rappresentare, per cui dovrebbe essere di facile comprensione.\n\nSpaghetti: Questo simbolo non richiede ulteriori spiegazioni.\n\nCristalli: Per ragioni di comprensione sovranazionale, c opportuno evitare l'utilizzo di lettere ad identificare il tipo di minerale. Il simbolo utilizzato veniva in passato impiegato per rappresentare la neve.</italian>
+			<polish>Heliktyty: symbol jest równie ekscentryczny, jak formacja sama w sobie - wobec czego, łatwy do zrozumienia.\n\nNacieki makaronowe: Symbol nie wymaga dodatkowych objaśnień\n\nKryształy: dla uniknięcia nieporozumień pomiędzy językami, zaleca się nie wykorzystywanie liter oznaczających rodzaj minerału. Po pierwsze, ponieważ właściwa identyfikacja minerału może nie być banalna. Po drugie, ponieważ K oznaczające Kalcyt po angielsku pisze się C, a po chińsku #. Co do zasady, zaleca się nie wykorzystywanie żadnych liter jako symboli na planie, ponieważ dla zrozumienia planu przez osobę z innego kręgu językowego przynosi to na ogół więcej szkody niż pożytku.</polish>
+			<portuguese>Helectites: Este símbolo é tão excêntrico quanto à formação, e portanto facilmente assimilado.\n\nCanudos: Este símbolo não necessita explicações. \n\nCristais(Flores): Por razões de entendimento mundial as letras identificando o mineral devem ser evitadas, primeiro porque a identificação correta do mineral é geralmente difícil, e segundo porque um C para calcita é um K em alemão e um # em Chinês. Geralmente não é recomendado o uso de letras como símbolos nos mapas atuais. Resultando em uma confusão babilônica e por sua vez tornando o entendimento impossível.</portuguese>
+			<romanian>Helictite : acest semn fiind la fel de excentric ca formatiunea in sine, e usor de inteles.\n\nMacaroane: nu are nevoie de alte explicatii.\n\nCristale: pentru motive de intelegere internationala literele de identificare a mineralului trebuie evitate, in primul rand pentru ca identificarea precisa a mineralelor nu e la fel de usoara pe cat pare, apoi pentru ca abrevirea calcitului e K in germana, C in engleza si franceza si # in chineza. In general, noi nu recomandam folosirea literelor ca simboluri in topografiere, confuzia generata putand fi catastrofala pentru intelegerea internationala.</romanian>
+			<slovene>Heliktiti: Znak naj bi bil toliko ekscentricen kot je heliktit, ki ga oznacuje, in je torej dobro prepoznaven.\n\nSpageti: znak ne potrebuje dodatne razlage. \n\nKristali: zaradi zelje po vecji razumljivosti nacrta, naj bi se izogibali crkam, ki oznacujejo vrsto minerala. Natancno ugotavljanje vrste minerala pogosto ni tako lahko, kot se zdi, pa tudi crke, ki oznacujejo recimo kalcit, se med narodi in jeziki razlikujejo.</slovene>
+			<spanish>Helictitas: Al igual que la formación, este símbolo es excéntrico, y por lo tanto fácilmente comprensible.\n\nPajillas: Este símbolo no requiere más explicaciones.\n\nCristales: Por razones de comprensión a nivel internacional,  se debe evitar el uso de letras para identificar los minerales, primero porque la identificación correcta del mineral frecuentemente no es tan fácil como parece, y segundo porque una C para calcita es una K en alemán y # en Chino. En general, no recomendamos el uso de letras tales como símbolos en el mapa. La confusión babilónica resultante puede ser letal para el entendiemiento.</spanish>
+			<turkish>Helictites: Bu sembol, temsil ettiği oluşumun kendisi gibi aykırı olup kolaylıkla anlaşılabilir.\n\nMakarna: Bu sembol için herhangi bir açıklamaya gerek yoktur.\n\nKristal: Uluslararası anlaşılabilir olması nedeni ile, mineralleri temsil etmekte olan harflerin kullanılmasından kaçınılmalıdır. Birinci nedeni mineral tanımlaması göründüğü kadar kolay değildir, ikincisi ise kalsit İngilizce’de (C), Almanca’da (K), Çince’de # dir. Genellikle asıl haritalarda harflerin sembol olarak gösterilemsini önermemekteyiz. Sonuçta ortaya çıkan kargaşa, anlaşılmada karışıklık yaratabilir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="sinter_pools" hasProfileSymbol="true">
+		<photos>
+			<photo filename="sinter_pools_1.jpg" width="600" height="474" photographer="Andreas Neumann" caveRegionName="Krem Liat Prah, Meghalaya, India" year="2003">
+				<croatian>Zasigane kaskade</croatian>
+				<dutch>Sinter-bekkens</dutch>
+				<english>Sinter Pools</english>
+				<french>Gours</french>
+				<german>Sinterbecken</german>
+				<italian>Grandi vasche - Vaschette di concrezione</italian>
+				<polish>Misy martwicowe</polish>
+				<portuguese>Travertino</portuguese>
+				<romanian>Gururi</romanian>
+				<slovene>Sigove ponvice</slovene>
+				<spanish>Piscinas de travertino</spanish>
+				<turkish>Traverten Havuzu</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Zasigane kaskade</croatian>
+			<dutch>Sinter-bekkens</dutch>
+			<english>Sinter Pools</english>
+			<french>Gours</french>
+			<german>Sinterbecken</german>
+			<italian>Grandi vasche - Vaschette di concrezione</italian>
+			<polish>Misy martwicowe</polish>
+			<portuguese>Travertino</portuguese>
+			<romanian>Gururi</romanian>
+			<slovene>Sigove ponvice</slovene>
+			<spanish>Piscinas de travertino</spanish>
+			<turkish>Traverten Havuzu</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada.</croatian>
+			<dutch>spreekt voor zich.</dutch>
+			<english>as before</english>
+			<french>Comme auparavant</french>
+			<german>wie zuvor</german>
+			<italian>invariato</italian>
+			<polish>jak poprzednio</polish>
+			<portuguese>Conforme o anterior.</portuguese>
+			<romanian>La fel ca inainte</romanian>
+			<slovene>Kot do zdaj.</slovene>
+			<spanish>Como antes</spanish>
+			<turkish>Önceki İle Aynı</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="floorsinter_wallsinter_moonmilk" hasProfileSymbol="true">
+		<photos>
+			<photo filename="wall_floor_sinter_1.jpg" width="450" height="600" photographer="Andreas Neumann" caveRegionName="Krem Krang Maw 1, Meghalaya, India" year="2003">
+				<croatian>Zasigano tlo/Zasigana stijena</croatian>
+				<dutch>Bodemdruipsteen/afzettingen op de wand</dutch>
+				<english>Flowstone/Wall Calcite</english>
+				<french>Concrétionnement au sol/Concrétionnement sur les parois</french>
+				<german>Bodensinter/Wandsinter</german>
+				<italian>Colata a pavimento/Colata parietale</italian>
+				<polish>Polewa naciekowa/Kalcyt na ścianie</polish>
+				<portuguese>Concreção/Escorrimento</portuguese>
+				<romanian>Planseu concretionat/Concretiuni parientale</romanian>
+				<slovene>Zasigano pobocje/zasigana stena</slovene>
+				<spanish>Concreción de travertino/Concreciones en la pared</spanish>
+				<turkish>Akmataşı/Duvar Kalsiti</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Zasigano tlo/Zasigana stijena/Spiljsko mlijeko</croatian>
+			<dutch>Bodemdruipsteen/afzettingen op de wand/bergmelk</dutch>
+			<english>Flowstone/Wall Calcite/Moonmilk</english>
+			<french>Concrétionnement au sol/Concrétionnement sur les parois/Mondmilch</french>
+			<german>Bodensinter/Wandsinter/Mondmilch - Bergmilch</german>
+			<italian>Colata a pavimento/Colata parietale/Latte di Monte</italian>
+			<polish>Polewa naciekowa/Polewa na ścianie/Mleko wapienne</polish>
+			<portuguese>Concreção/Escorrimento/Leite de lua</portuguese>
+			<romanian>Planseu concretionat/Concretiuni parientale/Montmilch</romanian>
+			<slovene>Zasigano pobocje/zasigana stena/jamsko mleko</slovene>
+			<spanish>Concreción de travertino/Concreciones en la pared/Moonmilk</spanish>
+			<turkish>Akmataşı/Duvar Kalsiti/Aysütü</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Zasigano tlo: Cesto se ovaj ili slican simbol upotrebljava za glinu.\n\nZasigana stijena: Kao i do sada.\n\nSpiljsko mlijeko: Da se ne bi ovaj simbol mijesao sa simbolom za guano, dodan je treci luk na uobicajeno m.</croatian>
+			<dutch>Druipsteen: vaak wordt hetzelfde symbool gebruikt voor klei (zie daar).\n\nBergmelk/moonmilk: Om vergissing te voorkomen met het guano-symbool worden drie boogjes getekend i.p.v. de twee (vogeltje/vleermuis) boogjes.</dutch>
+			<english>Flowstone: Often this or a similar symbol is also used for clay (see there).\n\nWall Calcite: as before\n\nMoonmilk: To avoid mistaking this symbol for the guano symbol an additional bow has been added to the usual m.</english>
+			<french>Concrétionnement au sol: Souvent utilisé pour représenter l'argile (voir ci-dessous).\n\nConcrétionnement sur les parois: Comme auparavant.\n\nMondmilch: Pour éviter toute confusion avec le symbole utilisé pour le guano, une jambe supplémentaire a été rajoutée au "m" habituel.</french>
+			<german>Bodensinter: Dieses Symbol wird auch oft für Lehm verwendet (siehe dort).\n\nWandsinter: wie zuvor\n\nMondmilch - Bergmilch: Um Verwechslungen mit dem Guano-Symbol zu vermeiden, wurde hier zum üblichen (m) noch ein dritter Bogen hinzugefügt.</german>
+			<italian>Colata di concrezione a pavimento: Dal momento che le colate di concrezione a pavimento sono piuttosto frequenti, era opportuno introdurre un simbolo specifico. I trattini orizzontali paralleli sono una buona soluzione, dal momento che permettono anche di rappresentare la struttura del suolo. Purtroppo in passato questo simbolo veniva utilizzato per rappresentare l'argilla, e cin pun ingenerare confusione.\n\nColata parietale / Concrezionamento in genere: invariato.\n\nLatte di monte: Per evitare di confondere questo simbolo con quello di "guano", c stato aggiunto un terzo archetto al simbolo precedentemente usato (una M).</italian>
+			<polish>Polewa naciekowa (na spągu): Często ten lub podobny symbol jest wykorzystywany do oznaczenia gliny (zobacz tam).\n\nPolewa naciekowa (na ścianie): jak poprzednio\n\nMleko wapienne: aby zapobiec pomyłkom z symbolem guana, zaleca się dodanie jeszcze jednego brzuszka do tradycyjnego "m".</polish>
+			<portuguese>Concreção: Normalmente este ou um símbolo similar é também usado para argila (vida argila).\n\nEscorrimento: Conforme anterior.\n\nLeite de lua: Para evitar confundir este símbolo com o símbolo de guano um arco adicional foi acrescido ao m usual.</portuguese>
+			<romanian>Planseu concretionat: des utilizat pentru a reprezenta argila (vezi mai jos).\n\nConcretiuni parientale: la fel ca inainte.\n\nMontmilch: pentru a nu fi confundat cu simbolul folosit pentru guano, un picior suplimentar a fost adaugat obisnuitului "m".</romanian>
+			<slovene>Sigovo pobocje: Pogosto je ta ali podoben znak uporabljan tudi za glino oz. blato.\n\nZasigana stena: kot do sedaj.\n\nJamsko mleko: da se ta znak ne bi zamenjevalo z znakom za guano, je bil k obicajnemu 'm' dodan tretji lok.</slovene>
+			<spanish>Concreción de travertino: A menudo este símbolo tambien se utiliza para arcilla (ver ahí).\n\nConcreciones de calcita en la pared: como antes\n\nMoonmilk: Para evitar errores entre este símbolo y el de guano se ha añadido un arco adicional a la "m" usual.</spanish>
+			<turkish>Akmataşı: Çoğunluka bu yada benzer bir sembol kil içinde kullanılır. (bak. şekil).\n\nDuvar Kalsiti: Önceki ile Aynı\n\nAysütü: Guano sembolu ile karıştırılmasını engellemek için (m) harfi üzerine ek kavisler konulmuştur.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="north_arrow_geographic_cartesic" hasProfileSymbol="false">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Zemljopisni (geografski) i Kartezijski sjever</croatian>
+			<dutch>Noord pijl Geografisch en Cartesisch</dutch>
+			<english>North Arrow Geographic and Cartesic</english>
+			<french>Nord géographique et cartographique</french>
+			<german>Geographisch und Kartesisch Nord (Gitternord)</german>
+			<italian>Nord Geografico et Cartesiano</italian>
+			<polish>Północ geograficzna i topograficzna</polish>
+			<portuguese>Norte Geográfico e Cartesiano</portuguese>
+			<romanian>Directia nord/geografica si cartografica</romanian>
+			<slovene>Geografski sever/Kartezijski sever</slovene>
+			<spanish>Flecha de norte geográfico y cartográfico</spanish>
+			<turkish>Coğrafik Kuzey Oku/Kartezyen Kuzeyi</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Na nekim zemljovidima, nedostaje ili je nepotpun podatak o deklinaciji, sto onemogucava izracun zemljopisnog sjevera. Osim normalne strelice na koja oznacava sjever, mora se oznaciti da li se odnosi na zemljopisni (N), magnetski (Nm) ili kartografski (kartezijski, Nc) sjever. Ako se odnosi na magnetski sjever, datum mjerenja mora biti spomenut.</croatian>
+			<dutch>Op verschillende kaarten mist de informatie over declinatie of is incompleet. Dit maakt de berekening van het geografische noorden bijna onmogelijk. Behalve de normale noordpijl moet men de relatie tussen het geografische (N), magnetische (Nm) en kaartnoorden (Nc) aangeven. Als men refereert aan het magnetische noorden moet men ook de datum van de meting vermelden.</dutch>
+			<english>On several maps, information on declination is missing or is incomplete, which makes the calculation of geographic north almost impossible. Beside the normal North arrow one must specify whether one relates to true north (geographic, N), magnetic (Nm), or grid (cartographers, Nc) north. If one is relating to magnetic north the date of measurement must be mentioned.</english>
+			<french>Sur de nombreuses cartes, l'information sur la déclinaison n'est pas disponible ou incomplète, ne permettant pas de calculer le Nord géographique. A côté de la flèche représentant le Nord, il est impératif de préciser si elle réfère au Nord magnétique (Nm), géographique (N) ou celui des cartographes (Nc). En cas de Nord magnétique, il est impératif de préciser la date de mesure.</french>
+			<german>Auf vielen Plänen fehlen die Angaben zur Deklination oder sind unvollständig, was eine Berechnung von Geographisch Nord vielfach unmöglich macht. Neben dem üblichen Nordpfeil muss man angeben, ob man sich auf Geographisch Nord (N), Magnetisch Nord (Nm) oder Gitternord (Nc) bezieht. Wenn man sich auf Magnetisch Nord bezieht, muss das Vermessungsdatum notiert werden.</german>
+			<italian>Su diverse carte, le informazioni sulla declinazione magnetica sono mancanti o incomplete, rendendo impossibile il calcolo del Nord geografico. In aggiunta alla classica direzione del Nord, c necessario specificare sui rilievi se ci si riferisce al Nord geografico (N), magnetico (Nm) o cartesiano (Nc). Se ci si riferisce al Nord magnetico, c necessario specificare la data del rilevamento.</italian>
+			<polish>Na wielu mapach informacja o deklinacji jest zdawkowa lub wręcz nie występuje, co utrudnia lub uniemożliwia ustalenie północy geograficznej. Oprócz umieszczenia na mapie strzałki północy, konieczne jest wskazanie przy niej rodzaju północy (geograficzna, N), magnetyczna (Nm) czy topograficzna (ang. cartographers - Nc). Jeśli plan jest odniesiony do północy magnetycznej, należy umieścić na nim datę wykonywania pomiarów.</polish>
+			<portuguese>Em diversos mapas, a informação da declinação magnética está incompleta ou é inexistente, tornando o cálculo do norte geográfico quuase impossível. Junto à seta do Norte é necessário se especificar qual o norte referido geográfico (N), magnético (Nm) ou cartesiano (Nc). Em caso de Norte magnético a data de medição deve ser mencionada.</portuguese>
+			<romanian>Pe multe harti informatiile privind declinarea sunt incomplete sau chiar lipsesc, nepermitand calcularea nordului geografic. Alaturi de sageata reprezentand nordul, e necesar sa se precizeze daca ea reprezinta nordul magnetic (Nm), geografic (N) sau cartografic (Nc). In cazul nordului magnetic e necesara precizarea datei masuratorilor.</romanian>
+			<slovene>Na stevilnih nacrtih ni podatka o azimutu oziroma je le ta pomankljiv, kar naredi izracun geografskega severa skoraj nemogoc. Poleg obicajne puscice, ki kaze sever, moramo oznaciti ali imamo v mislih geografski (N), magnetni (Nm) ali kartezijski (Nc) sever. Ce se naslanjamo na magnetni sever, moramo pripisati se datum merjenja.</slovene>
+			<spanish>En varios mapas la información sobre la declinación no se encuentra o está incompleta, lo que hace el cálculo del norte geográfico casi imposible. Al lado de la flecha del norte, debe especificarse si este se relaciona con el norte verdadero (geográfico, N), magnético (Nm), o con el norte de una cuadrícula (cartográfico, Nc). Si está relacionado con el norte magnético, la fecha de medida debe ser mencionada. </spanish>
+			<turkish>Bir çok haritada, sapma ile ilgili bilgi verilmediğinden yada tam olmadığından dolayı coğrafik kuzeyin hesaplanması mümkün değildir. Bunun yanısıra, normal kuzey oku coğrafik (N), manyetik (Nm) yada kartoğrafik (Nc) kuzeylerden birini göstermelidir. Eğer manyetik kuzey belirtiyorsa, ölçüm tarihide verilmelidir. Bütün gösterimler eşdeğerdir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="north_arrow_magnetic" hasProfileSymbol="false">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Magnetski sjever</croatian>
+			<dutch>Noordpijl Magnetisch Noorden</dutch>
+			<english>North Arrow Magnetic</english>
+			<french>Nord magnétique</french>
+			<german>Magnetisch Nord</german>
+			<italian>Nord Magnetico</italian>
+			<polish>Północ magnetyczna</polish>
+			<portuguese>Norte Magnético</portuguese>
+			<romanian>Directia nord magnetic</romanian>
+			<slovene>Magnetni sever</slovene>
+			<spanish>Flecha de norte magnético</spanish>
+			<turkish>Manyetik Kuzey Oku</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Na nekim zemljovidima, nedostaje ili je nepotpun podatak o deklinaciji, sto onemogucava izracun zemljopisnog sjevera. Osim normalne strelice na koja oznacava sjever, mora se oznaciti da li se odnosi na zemljopisni, magnetski ili kartografski (kartezijski) sjever. Ako se odnosi na magnetski sjever, datum mjerenja mora biti spomenut. Oba moguca simbola su prikazana.</croatian>
+			<dutch>Op verschillende kaarten mist de informatie over declinatie of is incompleet. Dit maakt de berekening van het geografische noorden bijna onmogelijk. Behalve de normale noordpijl moet men de relatie tussen het geografische, magnetische en kaartnoorden aangeven. Als men refereert aan het magnetische noorden moet men ook de datum van de meting vermelden. De twee getoonde pijlen zijn gelijkwaardig.</dutch>
+			<english>On several maps, information on declination is missing or is incomplete, which makes the calculation of geographic north almost impossible. Beside the normal North arrow one must specify whether one relates to geographic, magnetic, or cartographers north. If one is relating to magnetic north the date of measurement must be mentioned. Both versions shown are equivalent.</english>
+			<french>Sur de nombreuses cartes, l'information sur la déclinaison n'est pas disponible ou incomplète, ne permettant pas de calculer le Nord géographique. A côté de la flèche représentant le Nord, il est impératif de préciser si elle réfère au Nord magnétique, géographique ou celui des cartographes. En cas de Nord magnétique, il est impératif de préciser la date de mesure. Les deux possibilités dessiniées sont équivalent.</french>
+			<german>Auf vielen Plänen fehlen die Angaben zur Deklination oder sind unvollständig, was eine Berechnung von Geographisch Nord vielfach unmöglich macht. Neben dem üblichen Nordpfeil muss man angeben, ob man sich auf Geographisch Nord, Magnetisch Nord oder Gitternord bezieht. Wenn man sich auf Magnetisch Nord bezieht, muss das Vermessungsdatum notiert werden. Für Geographisch Nord sind die Versionen mit oder ohne Stern äquivalent.</german>
+			<italian>Su diverse carte, le informazioni sulla declinazione magnetica sono mancanti o incomplete, rendendo impossibile il calcolo del Nord geografico. In aggiunta alla classica direzione del Nord, c necessario specificare sui rilievi se ci si riferisce al Nord geografico, magnetico o cartesiano. Se ci si riferisce al Nord magnetico, c necessario specificare la data del rilevamento. Il Nord geografico pun essere rappresentato sia come una freccia con una semplice N, o come una freccia con una N ed una stellina.</italian>
+			<polish>Na wielu mapach informacja o deklinacji jest zdawkowa lub wręcz nie występuje, co utrudnia lub uniemożliwia ustalenie północy geograficznej. Oprócz umieszczenia na mapie strzałki północy, konieczne jest wskazanie przy niej rodzaju północy (geograficzna, N), magnetyczna (Nm) czy topograficzna (ang. carographers - Nc). Jeśli plan jest odniesiony do północy magentycznej, należy umieścić na nim datę wykonywania pomiarów.</polish>
+			<portuguese>Em diversos mapas, a informação da declinação magnética está incompleta ou é inexistente, tornando o cálculo do norte geográfico quuase impossível. Junto à seta do Norte é necessário se especificar qual o norte referido geográfico, magnético ou cartesiano. Em caso de Norte magnético a data de medição deve ser mencionada. Ambas as versões mostradas são equivalentes.</portuguese>
+			<romanian>Pe multe harti informatiile privind declinarea sunt incomplete sau chiar lipsesc, nepermitand calcularea nordului geografic. Alaturi de sageata reprezentand nordul, e necesar sa se precizeze daca ea reprezinta nordul magnetic, geografic sau cartografic. In cazul nordului magnetic e necesara precizarea datei masuratorilor. Cele doua variante desenate sunt echivalente.</romanian>
+			<slovene>Na stevilnih nacrtih ni podatka o azimutu oziroma je le ta pomankljiv, kar naredi izracun geografskega severa skoraj nemogoc. Poleg obicajne puscice, ki kaze sever, moramo oznaciti ali imamo v mislih geografski, magnetni ali kartezijski sever. Ce se naslanjamo na magnetni sever, moramo pripisati se datum merjenja. Oba mozna nacina prikaza geografskega severa sta prikazana.</slovene>
+			<spanish>En varios mapas la información sobre la declinación no se encuentra o está incompleta, lo que hace el cálculo del norte geográfico casi imposible. Al lado de la flecha del norte debe especificarse si se relaciona con el norte geográfico, magnético o cartográfico. Si está relacionado con el norte magnético, la fecha de medida debe ser mencionada. Ambas versiones mencionadas son equivalentes.</spanish>
+			<turkish>Bir çok haritada, sapma ile ilgili bilgi verilmediğinden yada tam olmadığından dolayı coğrafik kuzeyin hesaplanması mümkün değildir. Bunun yanısıra, normal kuzey oku coğrafik, manyetik yada kartoğrafik kuzeylerden birini göstermelidir. Eğer manyetik kuzey belirtiyorsa, ölçüm tarihide verilmelidir. Bütün gösterimler eşdeğerdir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="block_debris" hasProfileSymbol="true">
+		<photos>
+			<photo filename="blocks_1.jpg" width="450" height="600" photographer="Martin Melzer" caveRegionName="Dachstein-Rieseneishöhle, Upper Austria, Austria" year="2001">
+				<croatian>Blokovi</croatian>
+				<dutch>Blokken</dutch>
+				<english>Blocks</english>
+				<french>Blocs</french>
+				<german>Blockwerk</german>
+				<italian>Massi</italian>
+				<polish>Bloki skalne</polish>
+				<portuguese>Blocos</portuguese>
+				<romanian>Blocuri</romanian>
+				<slovene>Bloki</slovene>
+				<spanish>Bloques</spanish>
+				<turkish>Blok kayalar</turkish>
+			</photo>
+			<photo filename="debris_1.jpg" width="600" height="406" photographer="Peter Pfister" caveRegionName="St. Beatus-Höhlen, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Krslje</croatian>
+				<dutch>rol-steentjes</dutch>
+				<english>Debris</english>
+				<french>débris</french>
+				<german>Geröll</german>
+				<italian>Detriti a spigoli vivi</italian>
+				<polish>Piarg</polish>
+				<portuguese>Entulho</portuguese>
+				<romanian>Prabusiri</romanian>
+				<slovene>grusc</slovene>
+				<spanish>Detritos</spanish>
+				<turkish>Moloz</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Blokovi/Krslje</croatian>
+			<dutch>Blokken/rol-steentjes</dutch>
+			<english>Blocks/Debris</english>
+			<french>Blocs/débris</french>
+			<german>Blockwerk/Geröll</german>
+			<italian>Massi/Detriti a spigoli vivi</italian>
+			<polish>Bloki skalne/piarg</polish>
+			<portuguese>Blocos/Entulho</portuguese>
+			<romanian>Blocuri/Prabusiri</romanian>
+			<slovene>Bloki/grusc</slovene>
+			<spanish>Bloques/Detritos</spanish>
+			<turkish>Blok kayalar/Moloz</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada. Blokovi (velicina i oblik) se modeliraju prema stvarnima.</croatian>
+			<dutch>Spreekt voor zich. Het formaat kan gemodelleerd worden naar de werkelijkheid.</dutch>
+			<english>as before. The size and shape can be modelled on the reality.</english>
+			<french>Comme auparavant. La taille des symboles peut etre proportionnée à la réalité.</french>
+			<german>wie zuvor. Die Grösse und Form kann sich bei grösserem Blockwerk an der Realität orientieren.</german>
+			<italian>invariato. La grafica pun essere rappresentativa delle dimensioni reali.</italian>
+			<polish>jak poprzednio. Rozmiar i kształt mogą być wzorowane na rzeczywistości w terenie.</polish>
+			<portuguese>Conforme o anterior. O tamanho pode ser modelado conforme as dimensões reais.</portuguese>
+			<romanian>La fel ca inaine. Marimea simbolului poate fi proportionata cu realitatea.</romanian>
+			<slovene>Kot do zdaj. Velikost naj bi prikazovala dejansko stanje.</slovene>
+			<spanish>Como antes. El tamaño y forma puede representar las dimensiones reales.</spanish>
+			<turkish>Önceki ile Aynı. Büyüklük ve şekil gerçeğe uygun olarak çizilmelidir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="pebbles" hasProfileSymbol="true">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Sljunak</croatian>
+			<dutch>Kiezels</dutch>
+			<english>Pebbles</english>
+			<french>Cailloux</french>
+			<german>Kiesel</german>
+			<italian>Ciottoli - Detriti a spigoli arrotondati</italian>
+			<polish>Otoczaki</polish>
+			<portuguese>Seixos</portuguese>
+			<romanian>Pietris</romanian>
+			<slovene>Prodniki</slovene>
+			<spanish>Cantos</spanish>
+			<turkish>Çakıllar</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada. Blokovi (velicina i oblik) se modeliraju prema stvarnima.</croatian>
+			<dutch>Spreekt voor zich. Het formaat kan gemodelleerd worden naar de werkelijkheid.</dutch>
+			<english>as before. The size and shape can be modelled on the reality.</english>
+			<french>Comme auparavant. La taille des symboles peut etre proportionnée à la réalité.</french>
+			<german>wie zuvor. Die Grösse und Form kann sich bei grösserem Blockwerk an der Realität orientieren.</german>
+			<italian>invariato. La grafica pun essere rappresentativa delle dimensioni reali.</italian>
+			<polish>jak poprzednio. Rozmiar i kształt mogą być wzorowane na rzeczywistości w terenie.</polish>
+			<portuguese>Conforme o anterior. O tamanho pode ser modelado conforme as dimensões reais.</portuguese>
+			<romanian>La fel ca inaine. Marimea simbolului poate fi proportionata cu realitatea.</romanian>
+			<slovene>Kot do zdaj. Velikost naj bi prikazovala dejansko stanje.</slovene>
+			<spanish>Como antes. El tamaño y la forma puede representar las dimensiones reales.</spanish>
+			<turkish>Önceki ile Aynı. Büyüklük ve şekil gerçeğe uygun olarak çizilmelidir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="clastic_sediments" hasProfileSymbol="true">
+		<photos>
+			<photo filename="clastic_sediments_1.jpg" width="402" height="600" photographer="Daniel Burkhalter" caveRegionName="St. Beatus-Höhlen, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Klasticni sedimenti</croatian>
+				<dutch>Sedimenten</dutch>
+				<english>Clastic sediments</english>
+				<french>Sédiments clastiques</french>
+				<german>Klastische Sedimente</german>
+				<italian>Sedimento fine</italian>
+				<portuguese>Sedimento Clástico</portuguese>
+				<romanian>Sedimente clastice</romanian>
+				<slovene>Klasticni sedimenti</slovene>
+				<spanish>Sedimentos clásticos</spanish>
+				<turkish>Klastik sedimanlar</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Klasticni sedimenti: Pijesak - Mulj - Glina - Humus</croatian>
+			<dutch>Sedimenten: Zand - Zilt - Klei/Leem - Humus</dutch>
+			<english>Clastic sediments: Sand - Silt - Clay - Humus</english>
+			<french>Sédiments clastiques : Sable, limon, argile et humus</french>
+			<german>Klastische Sedimente: Sand - Schlamm - Lehm - Erde</german>
+			<italian>Sedimento fine: Sabbia - Limo - Argilla - Humus</italian>
+			<polish>Osady klastyczne: Piasek - Żwir - Glina - Humus</polish> 
+			<portuguese>Sedimento Clástico: Areia - Silte - Argila - Humus</portuguese>
+			<romanian>Sedimente clastice: nisip-mal-argila-humus</romanian>
+			<slovene>Klasticni sedimenti: Pesek - mulj - glina (blato) - prst</slovene>
+			<spanish>Sedimentos clásticos: Arena - Limo - Arcilla - Humus</spanish>
+			<turkish>Klastik sedimanlar: kum, silt, kil, humus</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Svi u ovoj grupi, s iznimkom humusa, spadaju u sedimente cija velicina zrna, a prema tome i ime, ovisi o brzini struje vode koja ih nosi. U tekucoj vodi pijesak se talozi, gdje se u stojecoj vodi talozi glina. Tako se razdvajaju od sigovine koje je posljedica kemijskog procesa. Zato su svi fini sedimenti zdruzeni pd jednim znakom bez obzira na njihovu klasifikaciju.</croatian>
+			<dutch>Met uitzondering van Humus, bestaat deze groep uit sedimenten waarvan de korrelgrootte en de namen afhangen van de stroomsnelheid van het vervoerende water. In stromend water wordt zand afgezet, klei wordt in stilstaand water afgezet. Druipsteen daarin tegen (zie daar) is een chemische neerslag en geeft niet de stroomsnelheid weer, maar het chemisch evenwicht. Als druipsteen veel voorkomt dan is een speciaal symbool nodig. De kleine parallelle streepjes werken goed ze kunnen tegelijk de bodemstructuur laten zien. Ongelukkigerwijs hebben verscheidende grotmeters klei afgebeeld met kleine streepjes wat kan leiden tot verwarring.</dutch>
+			<english>With the exception of humus this group is a sediment whose grain size and therefore names depend on the velocity of current of the carrying water. In flowing water sand is deposited whereas in standing water clay is deposited. In contrast to this the flowstone (see there), which is a chemical precipitation, does not represent the velocity of flow but the chemical equilibrium. As flowstone occurs quite frequently a special symbol needed to be found. The small parallel dashes did a good job as they also showed the ground structure. Unfortunately several surveyors characterised clay by a series of small dashes, which can lead to some confusion.</english>
+			<french>A l'exception de l'humus, ce groupe représente un sédiment dont la granulométrie et donc l'appellation dépend de la vélocité du courant d'eau l'ayant déposé. En eau courante le sable se dépose, alors qu'en eau stagnante c'est l'argile qui se dépose. Par contraste, le concrétionnement, qui provient d'une réaction chimique, ne représente pas une vitesse d'écoulement, mais un équilibre chimique. Comme le concrétionnement au sol est observé de façon courante, un symbole spécial devait etre trouvé. Les petits traits parallèles utilisés pour représenter les concrétions au sol jusqu'alors ont toujours été très utiles, puisque cela permet de montrer la structure du sol.</french>
+			<german>Mit Ausnahme von Erde (Humus) besteht diese Klasse aus Sedimenten, deren Korngrösse und daraus folgend deren Namen von der Fliessgeschwindigkeit der sie befördernden Gewässer abhängen. In fliessendem Wasser wird Sand abgelagert, in stehendem Wasser Lehm. Im Gegensatz dazu ist Sinter (siehe dort), welcher durch chemische Ausfällung von gesättigten Wässern entsteht, nicht von der Fliessgeschwindigkeit, sondern vom Sättigungsgrad des Wassers abhängig. Da Sinter häufig vorkommt, gibt es ein eigenes Symbol dafür. Die kleinen parallelen Striche sind gut geeignet, da sie auch die Bodenstruktur wiedergeben können. Leider haben einige Zeichner das Symbol, das wir für Sinter vorschlagen, für Lehm verwendet, was zu Verwirrungen führen kann.</german>
+			<italian>Con l'eccezione dell'humus, questa categoria raggruppa sedimenti la cui dimensione, e quindi la denominazione, c legata alla velocitr della corrente dell'acqua che li ha deposti. Cin li differenzia dalla "colata di concrezione" (vedi), che c un fenomeno chimico e non fisico. Si c percin deciso di riunire in un simbolo unico tutti i sedimenti fini, indipendentemente dalla loro classificazione. Tale simbolo corrisponde a quello precedentemente usato per rappresentare la sola sabbia. In questo modo c rimasto a disposizione il simbolo precedentemente utilizzato per rappresentare l'argilla o il limo (serie di trattini orizzontali), che viene ora impiegato per la colata di concrezione.</italian>
+			<polish>Za wyjątkiem humusu, ta grupa to osady, których wielkość ziarna, a zatem i nazwa jest zależna od prędkości przepływu niosących je wód. W wodzie płynącej osadza się piach, tymczasem w wodzie stojącej osadza się glina. W przeciwieństwie do tego zjawiska, polewa naciekowa (zobacz tam) tworzy się na skutek wytrącania chemicznego. Ponieważ polewy naciekowe występują dostyć często, konieczne było zdefiniowanie specjalnego symbolu. Małe, równoległe kreski wydawały się dobre, ponieważ można nimi pokazać również kształt powierzchni spągu. Niestety niektórzy kartografowie wykorzystują te symbole do oznaczania gliny, co może prowadzić do nieporozumień.</polish>
+			<portuguese>Com a exceção do humus, esta categoria agrupa sedimentos cuja granulometria e conseqüentemente o nome dependem da velocidade de carreamento pela água. Em água corrente, a areia é depositada, enquanto que em águas paradas, a argila é depositada. Em contraste a isso  na concreção (vide), onde existe a precipitação química, não representa a velocidade do fluxo porém o equilibrio químico.  Como concreção existe frequentemente, foi necessário um símbolo específico. Os pequenos traços paralelos funcionaram bem uma vez que eles também mostram a estrutura do solo. Infelizmente muitos topógrafos caracterizam argila por um série de pequenos traços, o que gera alguma confusão.</portuguese>
+			<romanian>Cu exceptia humusului, acest grup reprezinta un sediment a carui dimensiune a particulelor si implicit denumire depind de viteza curentului de apa care le-a depus. In apa care curge se depune nisipul, asa cum in apa care sta se depune argila. In contrast concretiunile, fiind o precipitare chimica, nu reprezinta viteza de curgere, ci un echilibru chimic. Cum concretionarea solului e observata in mod curent, un simbol special trebuia gasit. Micile linii paralele folosite sunt foarte utile chiar si acum, pentru ca permit aratarea structurii solului. Din nefericire, reprezentarea argilei prin o serie de mici liniute poate cauza confuzii.</romanian>
+			<slovene>V tej skupini so z izjemo zemlje sedimenti, pri katerih je velikost delcev in tudi ime odvisna od hitrosti prenasujoce vode. V tekoci vodi se odlaga pesek, v stojeci pa mulj oz. glina. S tem se locijo od sige, ki je rezultat kemicnih procesov. Pod en znak smo se odlocili zdruziti vse fine sedimente, ne glede na njihovo klasifikacijo. Zaradi tega je ostal prost znak, ki se je prej uporabljal za glino, to so kratke vzporedne crtice. Ta znak se zdaj uporablja za oznacevanje sige, ki seveda potrebuje lasten razpoznaven znak.</slovene>
+			<spanish>Con exepción del humus, este grupo corresponde a sedimentos cuyo tamaño del grano depende de la velocidad de la corriente del agua que los transporta. En corrientes de agua la arena es depositada, mientras que en aguas estancadas, se depositan las arcillas. En contraste, las concreciones de travertino (ver ahí), que son una precipitación química, no representan la velocidad de la corriente, pero sí el equilibrio químico. Como los depósitos de travertino ocurren con tanta frecuencia, se necesitaba encontrar un símbolo especial. Los pequeños trazos paralelos lograron este cometido, ya que también permiten mostrar la estructura del suelo. Desafortunadamente varios cartógrafos caracterizan la arcilla como una serie de pequeños trazos que pueden conducir a cierta confusión.</spanish>
+			<turkish>Bu grup sedimanlardan humus hariç, tane boyu olanların isimleri, taşındığı suyun akım hızına bağlıdır. Kum akan su ile çökelirken kil durgun suda çökelir. Bunun tersi olarak kimyasal olarak çökelen akmataşı (bak. şekil), suyun hızını değil kimyasal dengeyi belirtmektedir. Eğer akmataşı oldukça sık aralıklarla bulunuyorsa, özel bir sembole ihtiyaç vardır. Taban yapısınıda gösterdiği için küçük paralel çizgilerin kullaıması iyi olmaz. Ne yazık ki, bir çok ölçümcü, kili karışıklığa neden olan küçük çizgilerle göstermektedir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="clay_covered_wall" hasProfileSymbol="true">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Glinom prekrivene stijene</croatian>
+			<dutch>Klei-bedekte wanden</dutch>
+			<english>Clay-Covered Walls</english>
+			<french>Parois couvertes d'argile</french>
+			<german>Lehmüberzogene Wände</german>
+			<italian>Pareti ricoperte di argilla</italian>
+			<polish>Ściany pokryte gliną</polish>
+			<portuguese>Parede coberta de Argila</portuguese>
+			<romanian>Argila-pereti acoperiti cu argila</romanian>
+			<slovene>Z glino prekrite stene</slovene>
+			<spanish>Arcilla-Paredes cubiertas</spanish>
+			<turkish>Kille Sıvanmış Duvar</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Ovaj simbol moze se rabiti i pri prikazu poplavljenih dijelova. Da se prikaze blatna stijena, tanka tockasta linija nacrtana je iza stijene spilje.</croatian>
+			<dutch>Dit symbool kan worden gebruikt voor onderwaterzones. Om de modder bedekking te laten zien, teken dan dunne stippen achter de grotwanden.</dutch>
+			<english>This symbol can be used to show flooded zones. To show a mud coating, one thin dotted line is drawn behind the cave walls.</english>
+			<french>Ce symbole peut aussi etre utilisé pour montrer les zones temporairement noyées. Pour indiquer une couche continue d'argile, on dessine une ligne pointillée fine derrière la paroi de la cavité.</french>
+			<german>Dieses Symbol kann dazu verwendet werden, Stauzonen zu kennzeichnen. Um Schlammüberzüge zu zeigen, sollte eine dünne gepunktete Linie hinter den Höhlenwänden gezeichnet werden.</german>
+			<italian>Questo simbolo pun essere usato anche per evidenziare zone di permanenza di livelli idrici. Per mostrare la ricopertura di argilla, una sottile linea punteggiata viene disegnata al di fuori delle pareti della cavitr.</italian>
+			<polish>Tym symbolem można zaznaczać strefy okresowo zalewane. Aby zaznaczyć błoto na ścianie jaskini, można także za jej obrysem narysować pojedynczą, cienką, kropkowaną linię.</polish>
+			<portuguese>Este símbolo pode ser usado para representar regiões alagadas. Na representação de camada de lama, uma linha pontilhada fina é desenhada atrás da parede da caverna.</portuguese>
+			<romanian>Acest simbol poate fi de asemenea  utilizat pentru a arata zonele temporar inundate.  Pentru a arata acoperirea de catre argila, o linie punctata e desenata in exteriorul peretilor galeriei.</romanian>
+			<slovene>Ta znak se lahko uporabi tudi za prikaz obcasno zalitih delov jame. Za prikaz prekritosti z blatom se narise tanka pikcasta crtica na zunanji strani jamskih sten.</slovene>
+			<spanish>Este símbolo puede ser usado para mostrar zonas de inundación. Para mostrar una capa de lodo, una delgada línea punteada es dibujada detrás de las paredes de la cueva.</spanish>
+			<turkish>Bu sembol taşkın zonlarını göstermekte kullanılmaktadır. Kille kaplamayı göstermek için, mağara duvarlarının arkasına noktalı ince çizgi çizilmelidir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="guano" hasProfileSymbol="true">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Guano</croatian>
+			<dutch>Guano</dutch>
+			<english>Guano</english>
+			<french>Guano</french>
+			<german>Guano</german>
+			<italian>Guano</italian>
+			<polish>Guano</polish>
+			<portuguese>Guano</portuguese>
+			<romanian>Guano</romanian>
+			<slovene>Guano</slovene>
+			<spanish>Guano</spanish>
+			<turkish>Guano</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada.</croatian>
+			<dutch>spreekt voor zich.</dutch>
+			<english>as before</english>
+			<french>Comme auparavant</french>
+			<german>wie zuvor</german>
+			<italian>invariato</italian>
+			<polish>jak poprzednio</polish>
+			<portuguese>Conforme o anterior.</portuguese>
+			<romanian>La fel ca inainte</romanian>
+			<slovene>Kot do zdaj.</slovene>
+			<spanish>Como antes</spanish>
+			<turkish>Önceki İle Aynı</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="camp" hasProfileSymbol="true">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Bivak</croatian>
+			<dutch>Kamp - Bivak</dutch>
+			<english>Camp</english>
+			<french>Camp</french>
+			<german>Biwak</german>
+			<italian>Campo - Bivacco</italian>
+			<polish>Biwak</polish>
+			<portuguese>Acampamento</portuguese>
+			<romanian>Bivuac </romanian>
+			<slovene>Bivak</slovene>
+			<spanish>Campamento</spanish>
+			<turkish>Kamp</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada.</croatian>
+			<dutch>spreekt voor zich.</dutch>
+			<english>as before</english>
+			<french>Comme auparavant</french>
+			<german>wie zuvor</german>
+			<italian>invariato</italian>
+			<polish>jak poprzednio</polish>
+			<portuguese>Conforme o anterior.</portuguese>
+			<romanian>La fel ca inainte</romanian>
+			<slovene>Kot do zdaj.</slovene>
+			<spanish>Como antes</spanish>
+			<turkish>Önceki İle Aynı</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="height_of_a_room" hasProfileSymbol="false">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Visina galerije</croatian>
+			<dutch>Hoogte van een zaal</dutch>
+			<english>Height of a Room</english>
+			<french>Hauteur d'une galerie / salle</french>
+			<german>Raumhöhe</german>
+			<italian>Altezza di un ambiente</italian>
+			<polish>Wysokość sali</polish>
+			<portuguese>Altura do salão/galeria</portuguese>
+			<romanian>Inaltimea (galeiei sau a salii)</romanian>
+			<slovene>Visina prostora</slovene>
+			<spanish>Altura de la sala</spanish>
+			<turkish>Oda yüksekliği</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Indikator visine je koristan za spiljare koji ne crtaju profil speleoloskog objekta. Otkad je profil krajnje preporucljiv (dokumentacija 9. Nacionalnog Kongresa 1991, Charmey), simbol se ne koristiti cesto.</croatian>
+			<dutch>Een indicatie van de hoogte kan bruikbaar zijn voor een speleoloog die geen dwarsdoorsnedes tekent. Maar dit wordt afgeraden (zie documentatie van het negende Nationale Congres 1991, Charmey) zal dit symbool niet veel meer gebruikt worden.</dutch>
+			<english>An indication on height can be useful for a caver who doesn´t draw extended profiles. But since this is highly recommended (see documentation of the 9. National Congress 1991, Charmey) this symbol is not going to be used very often.</english>
+			<french>Une indication de hauteur peut etre utile lorsque le topographe ne représente pas de coupe de la cavité. Mais comme une représentation en coupe est fortement recommandée (voir la documentation du 9. Congrès National en 1991 à Charmey), ce symbole ne devrait pas etre utilisé souvent.</french>
+			<german>Eine Abschätzung der Raumhöhe kann wichtig sein für Pläne, zu denen es keine Längsschnitte gibt. Da das Zeichnen von Längsschnitten jedoch dringend angeraten wird (vergl. Dokumentation 9. Nationaler Kongress 1991, Charmey) wird dieses Symbol ohnehin nicht allzu häufig verwendet werden.</german>
+			<italian>L'indicazione dell'altezza di un ambiente ipogeo pun essere utile nel caso in cui non venga disegnata la Sezione longitudinale. Dal momento che si raccomanda calorosamente di disegnarla (vedi Dériaz, 1991), questo simbolo, mantenuto per consistenza, dovrebbe essere usato molto raramente. La misura c espressa in metri.</italian>
+			<polish>Symbol wskazujący wysokość sali może być użyteczny jeśli nie rysuje się przekroju jaskini. Ponieważ jednak jest to wysoce zalecane (patrz dokumentacja 9. Kongresu Narodowego, 1991, Charmey) ten symbol nie powinien być wykorzystywany zbyt często.</polish>
+			<portuguese>A indicação de altura é útil para espeleólogos que não usam projeção longitudinal. Porém, como sua utilização é altamente recomendável (vide documentação do IX Congresso Nacional, 1991, Charmey), este símbolo não será usado tão frequentemente.</portuguese>
+			<romanian>O indicare a inaltimii poate fi folositoare pentru un speolog care nu deseneaza sectiunile longitudinale. Dar din moment desenarea acestora e foarte recomandata (vezi documentarea 9. National Congress, Charmey) acest simbol nu o sa fie utilizat foarte des.</romanian>
+			<slovene>Podatek o visini prostora je zelo uporaben pri jamarjih, ki ne risejo profila jame. Od kar pa je profil jame med visoko priporocenimi deli nacrta ( glej dokumentacijo 9. Nacionalnega kongresa 1991, Charmey), ta podatek ni vec tako uporaben.</slovene>
+			<spanish>Una indicación de la altura puede ser útil para un espeleólogo que no dibuja perfiles extendidos. Pero ya que es altamente recomendado realizarlos (ver documento del 9no Congreso Nacional 1991, Charmey), este símbolo no se utiliza frecuentemente</spanish>
+			<turkish>Uzunlamasına kesit çizmeyen mağaracı için yüksekliğin belirtilmesi kullanışlıdır. Fakat bu sembol şidettle önerilmesine rağmen (bak. 9. Ulusal Kongre, 1991, Charmey), çok fazla kullanılmayacaktır.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="anastomosen_karren" hasProfileSymbol="true">
+		<photos>
+			<photo filename="anastomosen_1.jpg" width="600" height="404" photographer="Werner Janz" caveRegionName="Bärenschacht, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Anastomoza</croatian>
+				<dutch>Vlechtende micro-gangetjes</dutch>
+				<english>Anostomosen</english>
+				<french>Anastomoses</french>
+				<german>Anostomosen</german>
+				<italian>Anastomosi</italian>
+				<portuguese>Anastomose</portuguese>
+				<romanian>Anastomoze</romanian>
+				<slovene>Anastomoza</slovene>
+				<spanish>Anastomosado</spanish>
+				<turkish>Anastomoz</turkish>
+			</photo>
+			<photo filename="karren_1.jpg" width="600" height="387" photographer="Markus Schafheutle" caveRegionName="Bätterich, Siebenhengste-Hohgant, Switzerland">
+				<croatian>Skrape</croatian>
+				<dutch>Karren</dutch>
+				<english>Karren</english>
+				<french>Lapiez</french>
+				<german>Karren</german>
+				<italian>Karren</italian>
+				<polish>Lapiaz</polish>
+				<portuguese>Lapiás</portuguese>
+				<romanian>Lapiezuri</romanian>
+				<slovene>skraplje</slovene>
+				<spanish>Lapiaz</spanish>
+				<turkish>Karen</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Anastomoza/Skrape</croatian>
+			<dutch>Vlechtende micro-gangetjes/Karren</dutch>
+			<english>Anostomosen/Karren</english>
+			<french>Anastomoses/Lapiez</french>
+			<german>Anostomosen/Karren</german>
+			<italian>Anastomosi/Karren</italian>
+			<polish>Anastomozy/Lapiaz</polish>
+			<portuguese>Anastomose/Lapiás</portuguese>
+			<romanian>Anastomoze/Lapiezuri</romanian>
+			<slovene>Anastomoza/skraplje</slovene>
+			<spanish>Anastomosado/Lapiaz</spanish>
+			<turkish>Anastomoz/Karen</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Kao i do sada.</croatian>
+			<dutch>spreekt voor zich.</dutch>
+			<english>as before</english>
+			<french>Comme auparavant</french>
+			<german>wie zuvor</german>
+			<italian>invariato</italian>
+			<polish>jak poprzednio</polish>
+			<portuguese>Conforme o anterior.</portuguese>
+			<romanian>La fel ca inainte</romanian>
+			<slovene>Kot do zdaj.</slovene>
+			<spanish>Como antes</spanish>
+			<turkish>Önceki İle Aynı</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="cauliflower_disc" hasProfileSymbol="true">
+		<photos>
+			<photo filename="disk_1.jpg" width="600" height="378" photographer="Cornelia-Ellen Probst" caveRegionName="Pestera Humpleu, Muntii Bihor, Romania">
+				<croatian>Nakapne ploce</croatian>
+				<dutch>Disk</dutch>
+				<english>Disk</english>
+				<french>Disques</french>
+				<german>Disk</german>
+				<italian>Dischi di concrezione</italian>
+				<polish>dysk</polish>
+				<portuguese>Disco</portuguese>
+				<romanian>discuri</romanian>
+				<slovene>kapniske plosce</slovene>
+				<spanish>Disco</spanish>
+				<turkish>disk</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Karfioli/Nakapne ploce</croatian>
+			<dutch>Kalk-bloemkool/Disk</dutch>
+			<english>Cauliflower-Calcite/Disk</english>
+			<french>Concrétionnement en choux-fleurs/Disques</french>
+			<german>Blumenkohlsinter/Disk</german>
+			<italian>Cavolfiori/Dischi di concrezione</italian>
+			<polish>Grzybki kalcytowe/Dysk</polish>
+			<portuguese>Couve-flor/Disco</portuguese>
+			<romanian>Clusterite–coralite/discuri</romanian>
+			<slovene>Karfjolce/kapniske plosce</slovene>
+			<spanish>Coliflor de calcita/Disco</spanish>
+			<turkish>Karnıbahar/disk</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Ova dva simbola za kalcitne ukrase su regionalnog znacaja i mogu biti prilicno korisni.</croatian>
+			<dutch>Deze twee symbolen voor Calciet zijn regionaal belangrijk en kunnen handig zijn.</dutch>
+			<english>These two symbols for calcite are of a regional importance and can be quite useful.</english>
+			<french>Ces deux symboles ont une importance régionale et peuvent etre utiles.</french>
+			<german>Diese beiden Symbole sind v.a. von regionaler Bedeutung, können aber ganz brauchbar sein.</german>
+			<italian>Questi due simboli per forme particolari di concrezionamento hanno importanza locale e possono essere piuttosto utili.</italian>
+			<polish>Te dwa symbole oznaczające formy kalcytu mają znaczenie regionalne i mogą być bardzo użyteczne.</polish>
+			<portuguese>Estes dois símbolos para concreções de calcita têm importância regional e podem ser úteis.</portuguese>
+			<romanian>Aceste simboluri pentru calcit sunt de o importanta regionala, dar pot fi destul de utile.</romanian>
+			<slovene>Obe oznaki  manjsih kapniskih oblik sta lokalne pomembnosti in znata biti zelo uporabni.</slovene>
+			<spanish>Estos dos símbolos para designar a la calcita poseen importancia regional y puede ser útiles</spanish>
+			<turkish>Kalsit için bu iki sembol bölgesel öneme sahiptir ve sıklıkla kullanılabilir.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="bones" hasProfileSymbol="true">
+		<photos/>
+		<translationsSymbolName>
+			<croatian>Kosti</croatian>
+			<dutch>Botten</dutch>
+			<english>Bones</english>
+			<french>Ossements</french>
+			<german>Knochen</german>
+			<italian>Ossa</italian>
+			<polish>Kości</polish>
+			<portuguese>Ossos</portuguese>
+			<romanian>Oase</romanian>
+			<slovene>kosti</slovene>
+			<spanish>Huesos</spanish>
+			<turkish>Kemikler</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Simbol ne trazi objasnjenje.</croatian>
+			<dutch>Dit symbool behoeft geen verdere verklaring</dutch>
+			<english>This symbol does not need any further explanation.</english>
+			<french>Pas besoin de longues explications pour ce symbole ...</french>
+			<german>Dieses Symbol braucht keine weitere Erklärung.</german>
+			<italian>Questo simbolo non richiede ulteriori spiegazioni.</italian>
+			<polish>Ten symbol nie wymaga żadnych szczególnych wyjaśnień.</polish>
+			<portuguese>Este símbolo não necessita explicações adicionais.</portuguese>
+			<romanian>Nu mai e nevoie de explicatii.</romanian>
+			<slovene>Ta znak ne potrebuje dodatnih razlag.</slovene>
+			<spanish>Este símbolo no requiere explicación adicional</spanish>
+			<turkish>Bu sembol için herhangi bir açıklamaya gerek yoktur.</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+	<cave_symbol id="human_activity" hasProfileSymbol="true">
+		<photos>
+			<photo filename="pottery_1.jpg" width="600" height="450" photographer="Andreas Neumann" caveRegionName="Krem Sutiang, Meghalaya, India" year="2003">
+				<croatian>Ljudska aktivnost</croatian>
+				<dutch>Menselijke activiteit</dutch>
+				<english>Human Activity: Pottery</english>
+				<french>Traces d'activité humaine: poterie</french>
+				<german>Menschliche Artefakte: Töpferei</german>
+				<italian>Modificazioni umane: vasellame</italian>
+				<polish>Aktywność ludzka: ceramika.</polish>
+				<portuguese>Atividade Humana: cerâmicas</portuguese>
+				<romanian>Urme de activitate antropica: ceramica</romanian>
+				<slovene>Clovekove spremembe oz. ostanki</slovene>
+				<spanish>Activdad humana</spanish>
+				<turkish>İnsan Aktivitesi: Çömlek</turkish>
+			</photo>
+		</photos>
+		<translationsSymbolName>
+			<croatian>Ljudska aktivnost</croatian>
+			<dutch>Menselijke activiteit</dutch>
+			<english>Human Activity</english>
+			<french>Traces d'activité humaine</french>
+			<german>Menschliche Artefakte</german>
+			<italian>Modificazioni umane</italian>
+			<polish>Aktywność ludzka</polish>
+			<portuguese>Atividade Humana</portuguese>
+			<romanian>Urme de activitate antropica</romanian>
+			<slovene>Clovekove spremembe oz. ostanki</slovene>
+			<spanish>Activdad humana</spanish>
+			<turkish>İnsan Aktivitesi</turkish>
+		</translationsSymbolName>
+		<translationsExplanations>
+			<croatian>Ovaj simbol se koristi za ljudski napravljene promjene i/ili artifakte u spiljama (kao crtezi, grincarija, ostaci rudnika, ljudske kosti). Prvenstveno se koristi za povjesne ili prehistorijske izmjene (ostatke).</croatian>
+			<dutch>Dit symbool wordt gebruikt voor menselijke veranderingen en/of relikwieën in grotten inclusief bijvoorbeeld kunst / tekeningen / aardewerk / oude groeves / menselijke botten. Bij voorkeur worden deze gebruikt voor historische/pre-historische veranderingen.</dutch>
+			<english>This symbol is used for human artifacts in caves, including e.g. artwork / drawing / pottery / old mining sites / human bones. Preferably, it will be used for historic/prehistoric artifacts!</english>
+			<french>Ce symbole est utilisé pour indiquer les restes ou modifications apportées par l'homme dans une cavité. Par exemple: oeuvre d'art, dessin, poterie, ancienne mine, ossements humains. A utiliser de préférence pour des activités historiques ou prehistoriques!</french>
+			<german>Dieses Symbol zeigt von Menschen hervorgerufene Veränderungen in Höhlen wie z.B. Höhlenzeichnungen, menschliche Knochen, Töpfereien. Es wird v.a. für historische / prähistorische menschliche Veränderungen verwendet werden.</german>
+			<italian>Questo simbolo viene utilizzato per modifiche di origine umana e/o reperti, ivi compresi dipinti, graffiti, vasellame, antichi siti minerari, ossa umane. Preferibilmente dovrebbe essere utilizzato per modifiche preistoriche o di etr antica.</italian>
+			<polish>Ten symbol jest użyteczny dla wszelkich śladów aktywności ludzkiej w jaskiniach, w szczególności np. sztuki, rysunków, pozostałości wydobycia surowców, kości ludzkie. Sugeruje się wykorzystywanie go do oznaczania artefaktów historycznych/prehistorycznych.</polish>
+			<portuguese>Este símbolo é usado para alterações humanas na cavidade e/ou artefatos encontrados em cavernas, incluindo, por exemplo, obras de arte / desenhos / cerâmicas / mineração antiga / ossos humanos. É usado preferívelmente para alterações históricas ou pré-históricas.</portuguese>
+			<romanian>Acest simbol e folosit pentru a indica urmele lasate sau modificarile facute de om intr-o  pestera. De exemplu: obiecte de arta, desene, ceramica, vechi mine, oseminte umane. A fi utilizat de preferinta pentru activitatile istorice si preistorice.</romanian>
+			<slovene>Ta znak se uporablja za clovekove posege in ostanke v jamskem okolju. Tako jamske slikarije, loncevino, ostanke rudnikov kot cloveske kosti. Predvsem naj bi se uporabljal za zgodovinske / prazgodovinske ostanke.</slovene>
+			<spanish>Este símbolo se utiliza para identificar los restos o los cambios hechos por el hombre en una cueva, por ejemplo, obras de arte/ dibujos/cerámica/sitios antiguos de minería. Preferiblemente, se debe emplear para artefactos históricos/prehistóricos!</spanish>
+			<turkish>Bu sembol mağaralarda, insan etkisi ile yapılan ve/veya kalıntıları kapsamaktadır. Örneğin, resimleme / çizimleme / çömlek / eski maden ocakları / insan kemikleri. Tercihe bağlı olarak, tarihi ve tarih öncesi değişiklikler için kullanılacaktır!</turkish>
+		</translationsExplanations>
+	</cave_symbol>
+</cave_symbols>
