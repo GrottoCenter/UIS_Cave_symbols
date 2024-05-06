@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE guiElements SYSTEM "guiElements.dtd">
+<guiElements xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="guiElements.xsd">
+	<guiElement id="title">
+		<croatian>Konacna lista UIS speleoloskih simbola</croatian>
+		<dutch>Cave Symbols: The Official UIS List</dutch>
+		<english>Cave Symbols: The Official UIS List</english>
+		<french>UIS signes conventionnels: la liste définitive</french>
+		<german>UIS-Höhlensignaturen: Die definitive Liste</german>
+		<italian>UIS-Simboli speleologici: La lista definitiva</italian>
+		<polish>Symbole jaskiniowe: Oficjalna lista UIS</polish>
+		<portuguese>Simbologia de caverna da UIS: A lista definitiva</portuguese>
+		<romanian>Semnele conventionale UIS: listă definitivă</romanian>
+		<slovene>Nabor znakov UIS</slovene>
+		<spanish>Símbología de cuevas: La Lista Oficial de la UIS</spanish>
+		<turkish>Mağara Sembolleri - Resmi USB Listesi</turkish>
+	</guiElement>
+	<guiElement id="UISworkingGroup">
+		<croatian>Radna grupa UIS "Topografija i crtanje spilja"</croatian>
+		<dutch>UIS working group on cave survey and mapping</dutch>
+		<english>UIS working group on cave survey and mapping</english>
+		<french>UIS groupe de travail "Topographie et dessin"</french>
+		<german>UIS-Arbeitsgruppe "Topographie und Höhlenplanzeichnung"</german>
+		<italian>Gruppo di Lavoro UIS "Topografia e schizzi di grotta"</italian>
+		<polish>Gruba robocza UIS "Kartowanie i planowanie jaskiń"</polish>
+		<portuguese>Grupo de trabalho da UIS "Topografia e Mapeamento de cavernas"</portuguese>
+		<romanian>Grupul de lucru UIS "Topografie şi desen"</romanian>
+		<slovene>Delovna skupina UIS "Topografija in risanje jam"</slovene>
+		<spanish>Grupo de trabajo de la UIS "Topografía y mapeo de cuevas"</spanish>
+		<turkish>Uluslararası Mağarabilim Birliği UMB Çalışma Grubu "Mağara Araştırma ve Haritalama"</turkish>
+	</guiElement>
+	<guiElement id="languageChoice">
+		<croatian>Back to Language Choice</croatian>
+		<dutch>Back to Language Choice</dutch>
+		<english>Back to Language Choice</english>
+		<french>Back to Language Choice</french>
+		<german>Zurück zur Sprachwahl</german>
+		<italian>Back to Language Choice</italian>
+		<polish>Powrót do wyboru języka</polish>
+		<portuguese>Back to Language Choice</portuguese>
+		<romanian>Înapoi la selecţia limbii</romanian>
+		<slovene>Back to Language Choice</slovene>
+		<spanish>Regresar a selección de idioma</spanish>
+		<turkish>Dil Seçimine Geri Dön</turkish>
+	</guiElement>
+	<guiElement id="introList">
+		<croatian>Uvod</croatian>
+		<dutch>Introductie op de lijst</dutch>
+		<english>Introduction to the List</english>
+		<french>Introduction de la liste</french>
+		<german>Einführung in die Liste</german>
+		<italian>Introduzione alla lista</italian>
+		<polish>Wprowadzenie do listy</polish>
+		<portuguese>Introdução à lista</portuguese>
+		<romanian>Introducere</romanian>
+		<slovene>Uvod k seznamu</slovene>
+		<spanish>Introducción a la lista</spanish>
+		<turkish>Listeye Giriş</turkish>
+	</guiElement>
+	<guiElement id="bibliography">
+		<croatian>Literatura</croatian>
+		<dutch>Bibliografie</dutch>
+		<english>Bibliography</english>
+		<french>Bibliographie</french>
+		<german>Literatur</german>
+		<italian>Bibliografia</italian>
+		<polish>Bibliografia</polish>
+		<portuguese>Bibliografia</portuguese>
+		<romanian>Bibliografie</romanian>
+		<slovene>Bibliografija</slovene>
+		<spanish>Bibliografía</spanish>
+		<turkish>Kaynakça</turkish>
+	</guiElement>
+	<guiElement id="aboutAuthors">
+		<croatian>O autoru</croatian>
+		<dutch>Over de auteur</dutch>
+		<english>About the authors</english>
+		<french>Sur les Auteurs</french>
+		<german>Über die Autoren</german>
+		<italian>Autori</italian>
+		<polish>Autorzy</polish>
+		<portuguese>Sobre os Autores</portuguese>
+		<romanian>Despre autori</romanian>
+		<slovene>O avtorju</slovene>
+		<spanish>Sobre los autores</spanish>
+		<turkish>Yazarlar</turkish>
+	</guiElement>
+	<guiElement id="selectOneOfFollowing">
+		<croatian>Molimo izaberite jedan od navedenih simbola:</croatian>
+		<dutch>Kies een van de volgende symbolen:</dutch>
+		<english>Please select one of the following symbols:</english>
+		<french>Choisissez parmi les symboles suivants, s.v.p.:</french>
+		<german>Bitte wählen Sie aus den folgenden Symbolen:</german>
+		<italian>Seleziona uno dei seguenti simboli:</italian>
+		<polish>Proszę wybrać jeden z poniższych symboli:</polish>
+		<portuguese>Por favor, selecione um dos símbolos a seguir:</portuguese>
+		<romanian>Vă rugăm să selectaţi unul din următoarele simboluri:</romanian>
+		<slovene>Prosim izberite enega od spodaj nastetih znakov:</slovene>
+		<spanish>Por favor seleccione uno de los siguientes símbolos:</spanish>
+		<turkish>Lütfen aşağıdaki sembollerden birini seçiniz:</turkish>
+	</guiElement>
+	<guiElement id="planSymbol">
+		<croatian>Simbol na tlocrtu</croatian>
+		<dutch>Symbool plattegrond</dutch>
+		<english>Symbol Plan</english>
+		<french>Symbole-Plan</french>
+		<german>Symbol Plan</german>
+		<italian>Simbolo di pianta</italian>
+		<polish>Symbol w planie</polish>
+		<portuguese>Símbolo em planta</portuguese>
+		<romanian>Simbol Plan</romanian>
+		<slovene>Znak na tlorisu</slovene>
+		<spanish>Símbolo de planta</spanish>	
+		<turkish>Plan Sembolü</turkish>
+	</guiElement>
+	<guiElement id="profileSymbol">
+		<croatian>Simbol u profilu</croatian>
+		<dutch>Symbool doorsnede</dutch>
+		<english>Symbol Profile</english>
+		<french>Symbole-Coupe</french>
+		<german>Symbol Längsschnitt</german>
+		<italian>Simbolo di sezione</italian>
+		<polish>Symbol w przekroju</polish>
+		<portuguese>Símbolo em perfil</portuguese>
+		<romanian>Simbol Profil</romanian>
+		<slovene>Znak na iztegnjenem profilu</slovene>
+		<spanish>Símbolo de perfil</spanish>
+		<turkish>Kesit Sembolü</turkish>
+	</guiElement>
+	<guiElement id="explanations">
+		<croatian>Pojasnjenje</croatian>
+		<dutch>Uitleg</dutch>
+		<english>Explanations</english>
+		<french>Explication</french>
+		<german>Erklärung</german>
+		<italian>Spiegazione</italian>
+		<polish>Objaśnienia</polish>
+		<portuguese>Explicações</portuguese>
+		<romanian>Explicaţii</romanian>
+		<slovene>Obrazlozitev</slovene>
+		<spanish>Explicaciones</spanish>
+		<turkish>Açıklamalar</turkish>
+	</guiElement>
+	<guiElement id="translations">
+		<croatian>Prijevodi</croatian>
+		<dutch>Vertalingen</dutch>
+		<english>Translations</english>
+		<french>Traduction</french>
+		<german>Übersetzungen</german>
+		<italian>Traduzioni</italian>
+		<polish>Tłumaczenia</polish>
+		<portuguese>Traduções</portuguese>
+		<romanian>Traduceri</romanian>
+		<slovene>Prevodi</slovene>
+		<spanish>Traducciones</spanish>
+		<turkish>Çeviri</turkish>
+	</guiElement>
+	<guiElement id="photos">
+		<croatian>Photos</croatian>
+		<dutch>Photos</dutch>
+		<english>Photos</english>
+		<french>Photos</french>
+		<german>Fotos</german>
+		<italian>Photos</italian>
+		<polish>Zdjęcia</polish>
+		<portuguese>Photos</portuguese>
+		<romanian>Fotografii</romanian>
+		<slovene>Photos</slovene>
+		<spanish>Fotos</spanish>
+		<turkish>Fotoğraflar</turkish>
+	</guiElement>
+	<guiElement id="selectAllSymbols">
+		<croatian>Izaberi sve simbole</croatian>
+		<dutch>Selecteer alle symbolen</dutch>
+		<english>Select All Symbols</english>
+		<french>Sélectionner tous les symboles</french>
+		<german>Selektiere alle Symbole</german>
+		<italian>Seleziona tutti i simboli</italian>
+		<polish>Zaznacz wszystkie</polish>
+		<portuguese>Selecione todos os Símbolos</portuguese>
+		<romanian>Selectaţi toate simbolurile</romanian>
+		<slovene>Isberi vse znake</slovene>
+		<spanish>Seleccionar todos los símbolos</spanish>
+		<turkish>Bütün Sembolleri Seç</turkish>
+	</guiElement>
+	<guiElement id="selectNoSymbol">
+		<croatian>Ponisti izbor</croatian>
+		<dutch>Selecteer geen symbool</dutch>
+		<english>Select No Symbol</english>
+		<french>Annuler la sélection</french>
+		<german>Selektiere kein Symbol</german>
+		<italian>Non selezionare simboli</italian>
+		<polish>Usuń zaznaczenie</polish>
+		<portuguese>Limpar Seleção</portuguese>
+		<romanian>Deselectaţi tot</romanian>
+		<slovene>Ne izberi nobenega</slovene>
+		<spanish>Deseleccionar símbolos</spanish>
+		<turkish>Sembolü Seçme</turkish>
+	</guiElement>
+	<guiElement id="invertSelection">
+		<croatian>Invertiraj izbor</croatian>
+		<dutch>Draai selectie om</dutch>
+		<english>Invert Selection</english>
+		<french>Inverser la sélection</french>
+		<german>Invertiere Auswahl</german>
+		<italian>Inverti la selezione</italian>
+		<polish>Odwróć zaznaczenie</polish>
+		<portuguese>Inverter Seleção</portuguese>
+		<romanian>Inversaţi Selecţia</romanian>
+		<slovene>Preobrni izbor</slovene>
+		<spanish>Invertir selección</spanish>
+		<turkish>Diğerlerini Seç</turkish>
+	</guiElement>
+	<guiElement id="showSelectedSymbols">
+		<croatian>Prikazi izabrane simbole</croatian>
+		<dutch>Laat geselecteerde symbolen zien</dutch>
+		<english>Show Selected Symbols</english>
+		<french>Afficher les symboles sélectionnés</french>
+		<german>Zeige ausgewählte Symbole</german>
+		<italian>Mostra i simboli selezionati</italian>
+		<polish>Pokaż zaznaczone symbole</polish>
+		<portuguese>Mostre os Símbolos selecionados</portuguese>
+		<romanian>Arată simbolurile selecţionate</romanian>
+		<slovene>Prikazi izbrane znake</slovene>
+		<spanish>Mostrar símbolos seleccionados</spanish>
+		<turkish>Seçilen Sembolleri Göster</turkish>
+	</guiElement>
+	<guiElement id="somePlatformsRequire">
+		<croatian>Kod nekih pretrazivaca morate pritisnuti tipke Shift i/ili Ctrl ukoliko zelite izabrati vise simbola odjednom.</croatian>
+		<dutch>Sommige platforms (Browsers) vragen om Shift/en/of/Ctrl toetsen om meer symbolen tegelijk te kunnen selecteren.</dutch>
+		<english>Some platforms (Browsers) require Shift/and/or/Ctrl Key for selection of multiple symbols.</english>
+		<french>Pour sélectionner plusieurs symboles, certains systèmes demandent d'actionner les touches ctrl et/ou shift.</french>
+		<german>Manche Plattformen (Browser) verlangen die Verwendung von Shift/und/oder/Ctrl Keys für die Selektion von mehreren Symbolen</german>
+		<italian>Alcuni sistemi richiedono l'utilizzo dei tasti 'shift' e/o 'ctrl' per la selezione di più simboli</italian>
+		<polish>Niektóre platformy (przeglądarki) wymagają przytrzymania klawiszy Shift/i/lub/Ctrl w celu wybrania więcej niż jednego symbolu.</polish>
+		<portuguese>Algumas plataformas (browsers) necessitam a tecla Shift/e/ou/Ctrl para seleção de múlytiplos símbolos!</portuguese>
+		<romanian>Anumite sisteme de operare (browsere) necesită apăsarea tastei Shift/şi/sau/Ctrl pentru selecţie multiplă.</romanian>
+		<slovene>Pri nekateri brskalnikih morate pritisniti tipko dvigalko/in/ali/tipko Ctrl, ce hocete izbrati vec znakov naenkrat.</slovene>
+		<spanish>Algunos sistemas (navegadores) requieren el uso de Shift y/o Ctrl para realizar la selección múltiple de símbolos</spanish>
+		<turkish>Bazı tarayıcılar (Browsers) , çoklu sembol seçimi için Shift/ve/veya/Ctrl tuşlarına gereksinim duymaktadır.</turkish>
+	</guiElement>
+	<guiElement id="getListAsPDF">
+		<croatian>Lista u formatu .pdf</croatian>
+		<dutch>Als pdf te krijg</dutch>
+		<english>Get List as PDF</english>
+		<french>Téléchargez la liste en format PDF</french>
+		<german>Liste als PDF</german>
+		<italian>Lista in formato pdf</italian>
+		<polish>Pobierz listę jako PDF</polish>
+		<portuguese>Lista em pdf</portuguese>
+		<romanian>Listă în format pdf</romanian>
+		<slovene>Seznam v formatu .pdf</slovene>
+		<spanish>Obtener lista en formato pdf </spanish>
+		<turkish>Listeyi PDF formatında yükle</turkish>
+	</guiElement>
+	<guiElement id="forPrinting">
+		<croatian>za ispis na pisacu</croatian>
+		<dutch>om te printen</dutch>
+		<english>for printing</english>
+		<french>pour l'imprimer</french>
+		<german>zum Ausdrucken</german>
+		<italian>per la stampa</italian>
+		<polish>do wydruku</polish>
+		<portuguese>por printar</portuguese>
+		<romanian>pentru printare</romanian>
+		<slovene>za tiskanje</slovene>
+		<spanish>Para impresión</spanish>
+		<turkish>Yazdırma</turkish>
+	</guiElement>
+	<guiElement id="backToSymbolchoice">
+		<croatian>Povratak na izbor simbola</croatian>
+		<dutch>Selecteer ander symbool</dutch>
+		<english>Back to Symbolchoice</english>
+		<french>Retour à la liste des symboles</french>
+		<german>Zurück zur Symbolauswahl</german>
+		<italian>Torna alla selezione dei simboli</italian>
+		<polish>Powrót do wyboru symboli</polish>
+		<portuguese>Voltar à escolha dos Símbolos</portuguese>
+		<romanian>Înapoi la selecţia de simboluri</romanian>
+		<slovene>Nazaj na izbiro znakov</slovene>
+		<spanish>Regresar a selección de símbolo</spanish>
+		<turkish>Sembol Seçimine Geri Dön</turkish>
+	</guiElement>
+	<guiElement id="selectOtherSymbol">
+		<croatian>Povratak na izbor simbola</croatian>
+		<dutch>Selecteer ander symbool</dutch>
+		<english>Select other Symbol</english>
+		<french>Retour à la liste des symboles</french>
+		<german>Neue Symbolwahl</german>
+		<italian>Nuova selezione</italian>
+		<polish>Wybierz inny symbol</polish>
+		<portuguese>Voltar à escolha dos Símbolos</portuguese>
+		<romanian>Selecţie nouă</romanian>
+		<slovene>Nazaj na izbiro znakov</slovene>
+		<spanish>Seleccionar otro símbolo</spanish>
+		<turkish>Diğer Sembolleri Seçiniz</turkish>
+	</guiElement>
+	<guiElement id="symbol">
+		<croatian>Simbol</croatian>
+		<dutch>Symbool</dutch>
+		<english>Symbol</english>
+		<french>Symbole</french>
+		<german>Symbol/Signatur</german>
+		<italian>Simbolo</italian>
+		<polish>Symbol</polish>
+		<portuguese>Símbolo</portuguese>
+		<romanian>Simbol</romanian>
+		<slovene>Znak</slovene>
+		<spanish>Símbolo</spanish>
+		<turkish>Sembol</turkish>
+	</guiElement>
+	<guiElement id="languagescroatian">
+		<croatian>hrvatski</croatian>
+		<dutch>holandski</dutch>
+		<english>engleski</english>
+		<french>francuski</french>
+		<german>njemacki</german>
+		<italian>talijanski</italian>
+		<polish>poljski</polish>
+		<portuguese>portugalski</portuguese>
+		<romanian>rumunjski</romanian>
+		<slovene>slovenski</slovene>
+		<spanish> španjolski</spanish>
+		<turkish>turski</turkish>
+	</guiElement>
+	<guiElement id="languagesdutch">
+		<croatian>kroatisch</croatian>
+		<dutch>hollands</dutch>
+		<english>engels</english>
+		<french>frans</french>
+		<german>duits</german>
+		<italian>italiaans</italian>
+		<polish>pools</polish>
+		<portuguese>portugees</portuguese>
+		<romanian>roemeens</romanian>
+		<slovene>sloveens</slovene>
+		<spanish>spaanse</spanish>
+		<turkish>turks</turkish>
+	</guiElement>
+	<guiElement id="languagesenglish">
+		<croatian>croatian</croatian>
+		<dutch>dutch</dutch>
+		<english>english</english>
+		<french>french</french>
+		<german>german</german>
+		<italian>italian</italian>
+		<polish>polish</polish>
+		<portuguese>portuguese</portuguese>
+		<romanian>romanian</romanian>
+		<slovene>slovenian</slovene>
+		<spanish>spanish</spanish>
+		<turkish>turkish</turkish>
+	</guiElement>
+	<guiElement id="languagesfrench">
+		<croatian>croate</croatian>
+		<dutch>hollandaise</dutch>
+		<english>anglaise</english>
+		<french>française</french>
+		<german>allemande</german>
+		<italian>italienne</italian>
+		<polish>polonais</polish>
+		<portuguese>portugaise</portuguese>
+		<romanian>roumaine</romanian>
+		<slovene>slovène</slovene>
+		<spanish>espagnole</spanish>
+		<turkish>turque</turkish>
+	</guiElement>
+	<guiElement id="languagesgerman">
+		<croatian>kroatisch</croatian>
+		<dutch>holländisch</dutch>
+		<english>english</english>
+		<french>französisch</french>
+		<german>deutsch</german>
+		<italian>italienisch</italian>
+		<polish>polnisch</polish>
+		<portuguese>portugiesisch</portuguese>
+		<romanian>rumänisch</romanian>
+		<slovene>slowenisch</slovene>
+		<spanish>spanischen</spanish>
+		<turkish>türkisch</turkish>
+	</guiElement>
+	<guiElement id="languagesitalian">
+		<croatian>croato</croatian>
+		<dutch>olandese</dutch>
+		<english>inglese</english>
+		<french>francese</french>
+		<german>tedesco</german>
+		<italian>italiano</italian>
+		<polish>polacco</polish>
+		<portuguese>portoghese</portuguese>
+		<romanian>romania</romanian>
+		<slovene>sloveno</slovene>
+		<spanish>spagnolo</spanish>
+		<turkish>turchi</turkish>
+	</guiElement>
+	<guiElement id="languagespolish">
+		<croatian>chorwacki</croatian>
+		<dutch>holenderski</dutch>
+		<english>angielski</english>
+		<french>francuski</french>
+		<german>niemiecki</german>
+		<italian>włoski</italian>
+		<polish>polski</polish>
+		<portuguese>portugalski</portuguese>
+		<romanian>rumuński</romanian>
+		<slovene>słoweński</slovene>
+		<spanish>hiszpański</spanish>
+		<turkish>turecki</turkish>
+	</guiElement>
+	<guiElement id="languagesportuguese">
+		<croatian>croata</croatian>
+		<dutch>holandês</dutch>
+		<english>inglês</english>
+		<french>francês</french>
+		<german>alemão</german>
+		<italian>italiano</italian>
+		<polish>polaco</polish>
+		<portuguese>português</portuguese>
+		<romanian>romeno</romanian>
+		<slovene>esloveno</slovene>
+		<spanish>espanhol</spanish>
+		<turkish>turkish</turkish>
+	</guiElement>
+	<guiElement id="languagesromanian">
+		<croatian>croată</croatian>
+		<dutch>olandeză</dutch>
+		<english>engleză</english>
+		<french>franceză</french>
+		<german>germană</german>
+		<italian>italiană</italian>
+		<polish>poloneză</polish>
+		<portuguese>portugheză</portuguese>
+		<romanian>română</romanian>
+		<slovene>slovenă</slovene>
+		<spanish>spaniolă</spanish>
+		<turkish>turcă</turkish>
+	</guiElement>
+	<guiElement id="languagesslovene">
+		<croatian>hrvascina</croatian>
+		<dutch>holandês</dutch>
+		<english>anglescina</english>
+		<french>francoscina</french>
+		<german>nemscina</german>
+		<italian>italijanscina</italian>
+		<polish>polština</polish>
+		<portuguese>portuguese</portuguese>
+		<romanian>romanian</romanian>
+		<slovene>slovenski</slovene>
+		<spanish>španščino</spanish>
+		<turkish>turški</turkish>
+	</guiElement>
+	<guiElement id="languagesspanish">
+		<croatian>croata</croatian>
+		<dutch>holandés</dutch>
+		<english>inglés</english>
+		<french>francés</french>
+		<german>alemán</german>
+		<italian>italiano</italian>
+		<portuguese>portugués</portuguese>
+		<romanian>rumano</romanian>
+		<slovene>esloveno</slovene>
+		<spanish>español</spanish>	
+		<turkish>turco</turkish>
+	</guiElement>
+	<guiElement id="languagesturkish">
+		<croatian>hırvatça</croatian>
+		<dutch>hollandaca</dutch>
+		<english>ingilizce</english>
+		<french>fransızca</french>
+		<german>almanca</german>
+		<italian>italyanca</italian>
+		<polish>lehçe</polish>
+		<portuguese>portekizce</portuguese>
+		<romanian>romence</romanian>
+		<slovene>slovence</slovene>
+		<spanish> ispanyolca</spanish>
+		<turkish>türkçe</turkish>
+	</guiElement>
+	<guiElement id="cave">
+		<croatian>Jama</croatian>
+		<dutch>Grotten</dutch>
+		<english>Cave</english>
+		<french>Caverne, Grotte</french>
+		<german>Höhle</german>
+		<italian>Caverna, Cavità; Grotta</italian>
+		<polish>Jaskinia</polish>
+		<portuguese>Caverna, Cavidade, Gruta</portuguese>
+		<romanian>Peşteră, Cavernă</romanian>
+		<slovene>Jama</slovene>
+		<spanish>Cueva</spanish>
+		<turkish>Mağara</turkish>
+	</guiElement>
+	<guiElement id="photographer">
+		<croatian>Fotograf</croatian>
+		<dutch>Fotograaf</dutch>
+		<english>Photographer</english>
+		<french>Photographe</french>
+		<german>Photograph</german>
+		<italian>Fotografo</italian>
+		<polish>Fotograf</polish>
+		<portuguese>fotógrafo</portuguese>
+		<romanian>Fotograf</romanian>
+		<slovene>Fotograf</slovene>
+		<spanish>Fotógrafo</spanish>
+		<turkish>Fotoğrafçı</turkish>
+	</guiElement>
+	<guiElement id="address">
+		<croatian>Adresa autora</croatian>
+		<dutch>Address of the Author</dutch>
+		<english>Address of the Author</english>
+		<french>Adresse de l'auteur</french>
+		<german>Adresse des Autors</german>
+		<italian>Inderizzo dell'autore</italian>
+		<polish>Adres autora</polish>
+		<portuguese>Endereço do autor</portuguese>
+		<romanian>Adresa autorului</romanian>
+		<slovene>Naslov avtorja</slovene>
+		<spanish>Dirección del autor</spanish>
+		<turkish>Yazarın Adresi</turkish>
+	</guiElement>
+	<guiElement id="president">
+		<croatian>Predsjedavajuci radne grupe</croatian>
+		<dutch>Chairman</dutch>
+		<english>Chairman</english>
+		<french>Président</french>
+		<german>Vorsitzender</german>
+		<italian>Chairman</italian>
+		<polish>Przewodniczący komisji</polish>
+		<portuguese>Presidente</portuguese>
+		<romanian>Preşedinte</romanian>
+		<slovene>Predsednik</slovene>
+		<spanish>Presidente</spanish>
+		<turkish>Başkan</turkish>
+	</guiElement>
+	<guiElement id="webprogramming">
+		<croatian>Web-Programiranje</croatian>
+		<dutch>Web-Programming</dutch>
+		<english>Web-Programming</english>
+		<french>Programmation en Ligne</french>
+		<german>Web-Programmierung</german>
+		<italian>Web-Programming</italian>
+		<polish>Web-programming</polish>
+		<portuguese>Web-Programming</portuguese>
+		<romanian>Programare Web</romanian>
+		<slovene>Web-Programiranje</slovene>
+		<spanish>Programación web</spanish>
+		<turkish>Web-Programlama</turkish>
+	</guiElement>
+	<guiElement id="manyThanks">
+		<croatian>Zahvaljujemo se</croatian>
+		<dutch>Many thanks to</dutch>
+		<english>Many thanks to</english>
+		<french>Merci beaucoup à</french>
+		<german>Vielen Dank an</german>
+		<italian>Grazie mille</italian>
+		<polish>Podziękowania dla</polish>
+		<portuguese>Muitos Agradecimentos para</portuguese>
+		<romanian>Mulţumesc frumos</romanian>
+		<slovene>Zahvaljujemo se</slovene>
+		<spanish>Agradecimientos</spanish>
+		<turkish>Teşekkürler</turkish>
+	</guiElement>
+	<guiElement id="translationTo">
+		<croatian>Prijevodi </croatian>
+		<dutch>Vertalingen </dutch>
+		<english>translation to </english>
+		<french>Traduction </french>
+		<german>Übersetzung nach </german>
+		<italian>Traduzioni </italian>
+		<polish>Tłumaczenie na</polish>
+		<portuguese>tradução para o </portuguese>
+		<romanian>Traducere în </romanian>
+		<slovene>Obrazlozitev </slovene>
+		<spanish>Traducción a</spanish>
+		<turkish>Çeviren </turkish>
+	</guiElement>
+	<guiElement id="initialList">
+		<croatian>initial list</croatian>
+		<dutch>initial list</dutch>
+		<english>initial list</english>
+		<french>liste initial</french>
+		<german>ursprüngliche Liste</german>
+		<italian>initial list</italian>
+		<polish>lista podstawowa</polish>
+		<portuguese>lista inicial</portuguese>
+		<romanian>listă iniţială</romanian>
+		<slovene>initial list</slovene>
+		<spanish>Lista inicial</spanish>
+		<turkish>temel liste</turkish>
+	</guiElement>
+</guiElements>
